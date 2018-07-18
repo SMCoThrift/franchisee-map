@@ -63,6 +63,7 @@ $franchisees_map = [
   'NC - Charlotte - Church/Fox' => 81019,
   'NC - Greensboro - Auman' => 82150,
   'NC - Raleigh - Roper' => 82152,
+  'NC - Wilmington - Moss' => 194359,
 	'ND - Fargo - Fronk/Biss' => 171375,
   'NE - OmahaLincoln - Hughes' => 149586,
   'NJ - Somerset - Ziatyk' => 82165,
