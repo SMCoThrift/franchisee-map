@@ -104,6 +104,7 @@ $franchisees_map = [
   'VA - Charlottesville - Mann' => 110348,
   'VA - Richmond - Braziel' => 82321,
   'VA - Virginia Beach - Bakke/Atkinson' => 134033,
+  'WA - Gig Harbor - Beisley' => 204402,
   'WA - Seattle Central - Olason' => 82323,
   'WA - Tacoma - Christian/Evans' => 182205,
   'WI - Madison - Gummow/Dornbrook' => 133808,
