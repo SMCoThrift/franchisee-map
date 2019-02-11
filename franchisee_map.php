@@ -114,6 +114,7 @@ $franchisees_map = [
   'VA - Arlington - Westermann' => 82314,
   'VA - Virginia NW - Arvoy' => 106536,
   'VA - Charlottesville - Mann' => 110348,
+  'VA - Newport News - Perkins' => 222561,
   /*'VA - Richmond - Braziel' => 82321,*/
   'VA - Richmond - Adams' => 82321,
   'VA - Virginia Beach - Bakke/Atkinson' => 134033,
