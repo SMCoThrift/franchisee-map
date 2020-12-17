@@ -171,4 +171,5 @@ $franchisees_map = [
   'WA - Tacoma - Christian/Evans' => 182205,
   'WI - Madison - Gummow/Dornbrook' => 133808,
   'WI - Milwaukee - Biggam' => 133810,
+  'WI - Germantown - Wetzel' => 321995,
 ];
