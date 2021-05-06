@@ -2382,12 +2382,10 @@ GA - Atlanta NE - Purgason,30655
 GA - Atlanta NE - Purgason,30656
 GA - Atlanta NE - Purgason,30011
 GA - Atlanta NE - Purgason,30019
-GA - Atlanta NE - Purgason,30028
 GA - Atlanta NE - Purgason,30040
 GA - Atlanta NE - Purgason,30041
 GA - Atlanta NE - Purgason,30043
 GA - Atlanta NE - Purgason,30049
-GA - Atlanta NE - Purgason,30115
 GA - Atlanta NE - Purgason,30142
 GA - Atlanta NE - Purgason,30146
 GA - Atlanta NE - Purgason,30502
@@ -2397,7 +2395,9 @@ GA - Atlanta NE - Purgason,30518
 GA - Atlanta NE - Purgason,30519
 GA - Atlanta NE - Purgason,30542
 GA - Atlanta NE - Purgason,30548
+GA - Atlanta NE - Purgason,30028
 GA - Atlanta NE - Purgason,30107
+GA - Atlanta NE - Purgason,30115
 GA - Atlanta NE - Purgason,30143
 GA - Atlanta NE - Purgason,30148
 GA - Atlanta NE - Purgason,30177
@@ -2565,85 +2565,85 @@ GA - Savannah - O'Rourke,31418
 GA - Savannah - O'Rourke,31419
 GA - Savannah - O'Rourke,31420
 GA - Savannah - O'Rourke,31421
-IA - Des Moines - Scroggs,50003
-IA - Des Moines - Scroggs,50012
-IA - Des Moines - Scroggs,50023
-IA - Des Moines - Scroggs,50032
-IA - Des Moines - Scroggs,50033
-IA - Des Moines - Scroggs,50036
-IA - Des Moines - Scroggs,50038
-IA - Des Moines - Scroggs,50039
-IA - Des Moines - Scroggs,50061
-IA - Des Moines - Scroggs,50063
-IA - Des Moines - Scroggs,50069
-IA - Des Moines - Scroggs,50109
-IA - Des Moines - Scroggs,50111
-IA - Des Moines - Scroggs,50127
-IA - Des Moines - Scroggs,50131
-IA - Des Moines - Scroggs,50152
-IA - Des Moines - Scroggs,50156
-IA - Des Moines - Scroggs,50167
-IA - Des Moines - Scroggs,50211
-IA - Des Moines - Scroggs,50212
-IA - Des Moines - Scroggs,50220
-IA - Des Moines - Scroggs,50226
-IA - Des Moines - Scroggs,50261
-IA - Des Moines - Scroggs,50263
-IA - Des Moines - Scroggs,50265
-IA - Des Moines - Scroggs,50266
-IA - Des Moines - Scroggs,50276
-IA - Des Moines - Scroggs,50302
-IA - Des Moines - Scroggs,50307
-IA - Des Moines - Scroggs,50308
-IA - Des Moines - Scroggs,50310
-IA - Des Moines - Scroggs,50311
-IA - Des Moines - Scroggs,50312
-IA - Des Moines - Scroggs,50318
-IA - Des Moines - Scroggs,50321
-IA - Des Moines - Scroggs,50322
-IA - Des Moines - Scroggs,50323
-IA - Des Moines - Scroggs,50324
-IA - Des Moines - Scroggs,50325
-IA - Des Moines - Scroggs,50328
-IA - Des Moines - Scroggs,50329
-IA - Des Moines - Scroggs,50330
-IA - Des Moines - Scroggs,50331
-IA - Des Moines - Scroggs,50332
-IA - Des Moines - Scroggs,50333
-IA - Des Moines - Scroggs,50335
-IA - Des Moines - Scroggs,50340
-IA - Des Moines - Scroggs,50360
-IA - Des Moines - Scroggs,50380
-IA - Des Moines - Scroggs,50381
-IA - Des Moines - Scroggs,50391
-IA - Des Moines - Scroggs,50392
-IA - Des Moines - Scroggs,50393
-IA - Des Moines - Scroggs,50396
-IA - Des Moines - Scroggs,50936
-IA - Des Moines - Scroggs,50940
-IA - Des Moines - Scroggs,50947
-IA - Des Moines - Scroggs,50950
-IA - Des Moines - Scroggs,50980
-IA - Des Moines - Scroggs,50981
-IA - Des Moines - Scroggs,50982
-IA - Des Moines - Scroggs,50983
-IA - Des Moines - Scroggs,50009
-IA - Des Moines - Scroggs,50021
-IA - Des Moines - Scroggs,50035
-IA - Des Moines - Scroggs,50047
-IA - Des Moines - Scroggs,50125
-IA - Des Moines - Scroggs,50169
-IA - Des Moines - Scroggs,50240
-IA - Des Moines - Scroggs,50257
-IA - Des Moines - Scroggs,50309
-IA - Des Moines - Scroggs,50313
-IA - Des Moines - Scroggs,50314
-IA - Des Moines - Scroggs,50315
-IA - Des Moines - Scroggs,50316
-IA - Des Moines - Scroggs,50317
-IA - Des Moines - Scroggs,50319
-IA - Des Moines - Scroggs,50320
-IA - Des Moines - Scroggs,50327
+IA - Des Moines - Galeazzi,50003
+IA - Des Moines - Galeazzi,50012
+IA - Des Moines - Galeazzi,50023
+IA - Des Moines - Galeazzi,50032
+IA - Des Moines - Galeazzi,50033
+IA - Des Moines - Galeazzi,50036
+IA - Des Moines - Galeazzi,50038
+IA - Des Moines - Galeazzi,50039
+IA - Des Moines - Galeazzi,50061
+IA - Des Moines - Galeazzi,50063
+IA - Des Moines - Galeazzi,50069
+IA - Des Moines - Galeazzi,50109
+IA - Des Moines - Galeazzi,50111
+IA - Des Moines - Galeazzi,50127
+IA - Des Moines - Galeazzi,50131
+IA - Des Moines - Galeazzi,50152
+IA - Des Moines - Galeazzi,50156
+IA - Des Moines - Galeazzi,50167
+IA - Des Moines - Galeazzi,50211
+IA - Des Moines - Galeazzi,50212
+IA - Des Moines - Galeazzi,50220
+IA - Des Moines - Galeazzi,50226
+IA - Des Moines - Galeazzi,50261
+IA - Des Moines - Galeazzi,50263
+IA - Des Moines - Galeazzi,50265
+IA - Des Moines - Galeazzi,50266
+IA - Des Moines - Galeazzi,50276
+IA - Des Moines - Galeazzi,50302
+IA - Des Moines - Galeazzi,50307
+IA - Des Moines - Galeazzi,50308
+IA - Des Moines - Galeazzi,50310
+IA - Des Moines - Galeazzi,50311
+IA - Des Moines - Galeazzi,50312
+IA - Des Moines - Galeazzi,50318
+IA - Des Moines - Galeazzi,50321
+IA - Des Moines - Galeazzi,50322
+IA - Des Moines - Galeazzi,50323
+IA - Des Moines - Galeazzi,50324
+IA - Des Moines - Galeazzi,50325
+IA - Des Moines - Galeazzi,50328
+IA - Des Moines - Galeazzi,50329
+IA - Des Moines - Galeazzi,50330
+IA - Des Moines - Galeazzi,50331
+IA - Des Moines - Galeazzi,50332
+IA - Des Moines - Galeazzi,50333
+IA - Des Moines - Galeazzi,50335
+IA - Des Moines - Galeazzi,50340
+IA - Des Moines - Galeazzi,50360
+IA - Des Moines - Galeazzi,50380
+IA - Des Moines - Galeazzi,50381
+IA - Des Moines - Galeazzi,50391
+IA - Des Moines - Galeazzi,50392
+IA - Des Moines - Galeazzi,50393
+IA - Des Moines - Galeazzi,50396
+IA - Des Moines - Galeazzi,50936
+IA - Des Moines - Galeazzi,50940
+IA - Des Moines - Galeazzi,50947
+IA - Des Moines - Galeazzi,50950
+IA - Des Moines - Galeazzi,50980
+IA - Des Moines - Galeazzi,50981
+IA - Des Moines - Galeazzi,50982
+IA - Des Moines - Galeazzi,50983
+IA - Des Moines - Galeazzi,50009
+IA - Des Moines - Galeazzi,50021
+IA - Des Moines - Galeazzi,50035
+IA - Des Moines - Galeazzi,50047
+IA - Des Moines - Galeazzi,50125
+IA - Des Moines - Galeazzi,50169
+IA - Des Moines - Galeazzi,50240
+IA - Des Moines - Galeazzi,50257
+IA - Des Moines - Galeazzi,50309
+IA - Des Moines - Galeazzi,50313
+IA - Des Moines - Galeazzi,50314
+IA - Des Moines - Galeazzi,50315
+IA - Des Moines - Galeazzi,50316
+IA - Des Moines - Galeazzi,50317
+IA - Des Moines - Galeazzi,50319
+IA - Des Moines - Galeazzi,50320
+IA - Des Moines - Galeazzi,50327
 ID - Boise - Washow,83616
 ID - Boise - Washow,83642
 ID - Boise - Washow,83646
@@ -2748,6 +2748,7 @@ IL - Chicago - Rothberg,60077
 IL - Chicago - Rothberg,60202
 IL - Chicago - Rothberg,60301
 IL - Chicago - Rothberg,60302
+IL - Chicago - Rothberg,60303
 IL - Chicago - Rothberg,60304
 IL - Chicago - Rothberg,60612
 IL - Chicago - Rothberg,60615
@@ -2842,24 +2843,35 @@ IL - DuPage County - Conboy/Gignac,60523
 IL - DuPage County - Conboy/Gignac,60532
 IL - DuPage County - Conboy/Gignac,60559
 IL - DuPage County - Conboy/Gignac,60018
-IL - DuPage County - Conboy/Gignac,60074
+IL - DuPage County - Conboy/Gignac,60007
+IL - DuPage County - Conboy/Gignac,60009
+IL - DuPage County - Conboy/Gignac,60017
+IL - DuPage County - Conboy/Gignac,60019
 IL - DuPage County - Conboy/Gignac,60103
+IL - DuPage County - Conboy/Gignac,60105
 IL - DuPage County - Conboy/Gignac,60106
 IL - DuPage County - Conboy/Gignac,60107
 IL - DuPage County - Conboy/Gignac,60108
+IL - DuPage County - Conboy/Gignac,60117
 IL - DuPage County - Conboy/Gignac,60120
+IL - DuPage County - Conboy/Gignac,60121
 IL - DuPage County - Conboy/Gignac,60133
-IL - DuPage County - Conboy/Gignac,60134
-IL - DuPage County - Conboy/Gignac,60139
 IL - DuPage County - Conboy/Gignac,60143
 IL - DuPage County - Conboy/Gignac,60157
+IL - DuPage County - Conboy/Gignac,60168
 IL - DuPage County - Conboy/Gignac,60172
 IL - DuPage County - Conboy/Gignac,60177
 IL - DuPage County - Conboy/Gignac,60184
-IL - DuPage County - Conboy/Gignac,60188
-IL - DuPage County - Conboy/Gignac,60190
 IL - DuPage County - Conboy/Gignac,60191
 IL - DuPage County - Conboy/Gignac,60193
+IL - DuPage County - Conboy/Gignac,60399
+IL - DuPage County - Conboy/Gignac,60666
+IL - DuPage County - Conboy/Gignac,60018
+IL - DuPage County - Conboy/Gignac,60074
+IL - DuPage County - Conboy/Gignac,60134
+IL - DuPage County - Conboy/Gignac,60139
+IL - DuPage County - Conboy/Gignac,60188
+IL - DuPage County - Conboy/Gignac,60190
 IL - DuPage County - Conboy/Gignac,60440
 IL - DuPage County - Conboy/Gignac,60525
 IL - DuPage County - Conboy/Gignac,60540
@@ -3553,6 +3565,7 @@ KY - Louisville - Martin,47151
 LA - Baton Rouge - Breaux,70346
 LA - Baton Rouge - Breaux,70707
 LA - Baton Rouge - Breaux,70710
+LA - Baton Rouge - Breaux,70714
 LA - Baton Rouge - Breaux,70718
 LA - Baton Rouge - Breaux,70719
 LA - Baton Rouge - Breaux,70721
@@ -3595,6 +3608,43 @@ LA - Baton Rouge - Breaux,70895
 LA - Baton Rouge - Breaux,70898
 LA - Baton Rouge - Breaux,70512
 LA - Baton Rouge - Breaux,70806
+MA - Boston South - Tereshko,2108
+MA - Boston South - Tereshko,2109
+MA - Boston South - Tereshko,2110
+MA - Boston South - Tereshko,2111
+MA - Boston South - Tereshko,2112
+MA - Boston South - Tereshko,2113
+MA - Boston South - Tereshko,2114
+MA - Boston South - Tereshko,2115
+MA - Boston South - Tereshko,2116
+MA - Boston South - Tereshko,2117
+MA - Boston South - Tereshko,2118
+MA - Boston South - Tereshko,2119
+MA - Boston South - Tereshko,2120
+MA - Boston South - Tereshko,2121
+MA - Boston South - Tereshko,2122
+MA - Boston South - Tereshko,2124
+MA - Boston South - Tereshko,2125
+MA - Boston South - Tereshko,2126
+MA - Boston South - Tereshko,2127
+MA - Boston South - Tereshko,2130
+MA - Boston South - Tereshko,2133
+MA - Boston South - Tereshko,2196
+MA - Boston South - Tereshko,2199
+MA - Boston South - Tereshko,2205
+MA - Boston South - Tereshko,2206
+MA - Boston South - Tereshko,2210
+MA - Boston South - Tereshko,2211
+MA - Boston South - Tereshko,2212
+MA - Boston South - Tereshko,2217
+MA - Boston South - Tereshko,2222
+MA - Boston South - Tereshko,2241
+MA - Boston South - Tereshko,2266
+MA - Boston South - Tereshko,2283
+MA - Boston South - Tereshko,2284
+MA - Boston South - Tereshko,2293
+MA - Boston South - Tereshko,2297
+MA - Boston South - Tereshko,2298
 MA - Boston South - Tereshko,2131
 MA - Boston South - Tereshko,2132
 MA - Boston South - Tereshko,2135
@@ -3641,21 +3691,7 @@ MA - Boston South - Tereshko,1760
 MA - Boston South - Tereshko,1770
 MA - Boston South - Tereshko,1803
 MA - Boston South - Tereshko,2048
-MA - Boston South - Tereshko,2109
-MA - Boston South - Tereshko,2110
-MA - Boston South - Tereshko,2111
-MA - Boston South - Tereshko,2113
-MA - Boston South - Tereshko,2114
-MA - Boston South - Tereshko,2115
-MA - Boston South - Tereshko,2116
-MA - Boston South - Tereshko,2118
-MA - Boston South - Tereshko,2121
-MA - Boston South - Tereshko,2122
-MA - Boston South - Tereshko,2124
-MA - Boston South - Tereshko,2125
-MA - Boston South - Tereshko,2127
 MA - Boston South - Tereshko,2129
-MA - Boston South - Tereshko,2130
 MA - Boston South - Tereshko,2134
 MA - Boston South - Tereshko,2136
 MA - Boston South - Tereshko,2137
@@ -3677,7 +3713,6 @@ MA - Boston South - Tereshko,2185
 MA - Boston South - Tereshko,2186
 MA - Boston South - Tereshko,2187
 MA - Boston South - Tereshko,2192
-MA - Boston South - Tereshko,2199
 MA - Boston South - Tereshko,2238
 MA - Boston South - Tereshko,2269
 MA - Boston South - Tereshko,2322
@@ -4688,75 +4723,100 @@ MI - Grand Rapids - Cusack,49544
 MI - Grand Rapids - Cusack,49546
 MI - Grand Rapids - Cusack,49555
 MI - Grand Rapids - Cusack,49599
-MI - Grand Rapids - Cusack,49401
-MI - Grand Rapids - Cusack,49426
-MI - Kalamazoo - Jacob,49001
-MI - Kalamazoo - Jacob,49002
-MI - Kalamazoo - Jacob,49003
-MI - Kalamazoo - Jacob,49004
-MI - Kalamazoo - Jacob,49005
-MI - Kalamazoo - Jacob,49006
-MI - Kalamazoo - Jacob,49007
-MI - Kalamazoo - Jacob,49008
-MI - Kalamazoo - Jacob,49009
-MI - Kalamazoo - Jacob,49012
-MI - Kalamazoo - Jacob,49014
-MI - Kalamazoo - Jacob,49015
-MI - Kalamazoo - Jacob,49016
-MI - Kalamazoo - Jacob,49017
-MI - Kalamazoo - Jacob,49018
-MI - Kalamazoo - Jacob,49019
-MI - Kalamazoo - Jacob,49020
-MI - Kalamazoo - Jacob,49024
-MI - Kalamazoo - Jacob,49033
-MI - Kalamazoo - Jacob,49034
-MI - Kalamazoo - Jacob,49035
-MI - Kalamazoo - Jacob,49037
-MI - Kalamazoo - Jacob,49041
-MI - Kalamazoo - Jacob,49046
-MI - Kalamazoo - Jacob,49048
-MI - Kalamazoo - Jacob,49051
-MI - Kalamazoo - Jacob,49053
-MI - Kalamazoo - Jacob,49060
-MI - Kalamazoo - Jacob,49068
-MI - Kalamazoo - Jacob,49070
-MI - Kalamazoo - Jacob,49071
-MI - Kalamazoo - Jacob,49074
-MI - Kalamazoo - Jacob,49077
-MI - Kalamazoo - Jacob,49078
-MI - Kalamazoo - Jacob,49079
-MI - Kalamazoo - Jacob,49080
-MI - Kalamazoo - Jacob,49081
-MI - Kalamazoo - Jacob,49083
-MI - Kalamazoo - Jacob,49087
-MI - Kalamazoo - Jacob,49088
-MI - Kalamazoo - Jacob,49097
-MI - Kalamazoo - Jacob,49010
-MI - Kalamazoo - Jacob,49011
-MI - Kalamazoo - Jacob,49013
-MI - Kalamazoo - Jacob,49026
-MI - Kalamazoo - Jacob,49029
-MI - Kalamazoo - Jacob,49031
-MI - Kalamazoo - Jacob,49036
-MI - Kalamazoo - Jacob,49038
-MI - Kalamazoo - Jacob,49045
-MI - Kalamazoo - Jacob,49047
-MI - Kalamazoo - Jacob,49052
-MI - Kalamazoo - Jacob,49055
-MI - Kalamazoo - Jacob,49056
-MI - Kalamazoo - Jacob,49057
-MI - Kalamazoo - Jacob,49061
-MI - Kalamazoo - Jacob,49064
-MI - Kalamazoo - Jacob,49065
-MI - Kalamazoo - Jacob,49067
-MI - Kalamazoo - Jacob,49072
-MI - Kalamazoo - Jacob,49090
-MI - Kalamazoo - Jacob,49092
-MI - Kalamazoo - Jacob,49093
-MI - Kalamazoo - Jacob,49094
-MI - Kalamazoo - Jacob,49095
-MI - Kalamazoo - Jacob,49098
-MI - Kalamazoo - Jacob,49103
+MI - Kalamazoo A - Jacob,49013
+MI - Kalamazoo A - Jacob,49026
+MI - Kalamazoo A - Jacob,49027
+MI - Kalamazoo A - Jacob,49038
+MI - Kalamazoo A - Jacob,49039
+MI - Kalamazoo A - Jacob,49043
+MI - Kalamazoo A - Jacob,49055
+MI - Kalamazoo A - Jacob,49056
+MI - Kalamazoo A - Jacob,49062
+MI - Kalamazoo A - Jacob,49001
+MI - Kalamazoo A - Jacob,49002
+MI - Kalamazoo A - Jacob,49003
+MI - Kalamazoo A - Jacob,49004
+MI - Kalamazoo A - Jacob,49005
+MI - Kalamazoo A - Jacob,49006
+MI - Kalamazoo A - Jacob,49007
+MI - Kalamazoo A - Jacob,49008
+MI - Kalamazoo A - Jacob,49009
+MI - Kalamazoo A - Jacob,49012
+MI - Kalamazoo A - Jacob,49014
+MI - Kalamazoo A - Jacob,49015
+MI - Kalamazoo A - Jacob,49016
+MI - Kalamazoo A - Jacob,49017
+MI - Kalamazoo A - Jacob,49018
+MI - Kalamazoo A - Jacob,49019
+MI - Kalamazoo A - Jacob,49020
+MI - Kalamazoo A - Jacob,49024
+MI - Kalamazoo A - Jacob,49033
+MI - Kalamazoo A - Jacob,49034
+MI - Kalamazoo A - Jacob,49035
+MI - Kalamazoo A - Jacob,49037
+MI - Kalamazoo A - Jacob,49041
+MI - Kalamazoo A - Jacob,49046
+MI - Kalamazoo A - Jacob,49048
+MI - Kalamazoo A - Jacob,49051
+MI - Kalamazoo A - Jacob,49053
+MI - Kalamazoo A - Jacob,49060
+MI - Kalamazoo A - Jacob,49068
+MI - Kalamazoo A - Jacob,49070
+MI - Kalamazoo A - Jacob,49071
+MI - Kalamazoo A - Jacob,49074
+MI - Kalamazoo A - Jacob,49077
+MI - Kalamazoo A - Jacob,49078
+MI - Kalamazoo A - Jacob,49079
+MI - Kalamazoo A - Jacob,49080
+MI - Kalamazoo A - Jacob,49081
+MI - Kalamazoo A - Jacob,49083
+MI - Kalamazoo A - Jacob,49087
+MI - Kalamazoo A - Jacob,49088
+MI - Kalamazoo A - Jacob,49097
+MI - Kalamazoo A - Jacob,49011
+MI - Kalamazoo A - Jacob,49029
+MI - Kalamazoo A - Jacob,49031
+MI - Kalamazoo A - Jacob,49036
+MI - Kalamazoo A - Jacob,49045
+MI - Kalamazoo A - Jacob,49047
+MI - Kalamazoo A - Jacob,49052
+MI - Kalamazoo A - Jacob,49057
+MI - Kalamazoo A - Jacob,49061
+MI - Kalamazoo A - Jacob,49064
+MI - Kalamazoo A - Jacob,49065
+MI - Kalamazoo A - Jacob,49067
+MI - Kalamazoo A - Jacob,49072
+MI - Kalamazoo A - Jacob,49092
+MI - Kalamazoo A - Jacob,49093
+MI - Kalamazoo A - Jacob,49094
+MI - Kalamazoo A - Jacob,49095
+MI - Kalamazoo A - Jacob,49098
+MI - Kalamazoo A - Jacob,49103
+MI - Kalamazoo B - Jacob,49010
+MI - Kalamazoo B - Jacob,49063
+MI - Kalamazoo B - Jacob,49090
+MI - Kalamazoo B - Jacob,49401
+MI - Kalamazoo B - Jacob,49404
+MI - Kalamazoo B - Jacob,49406
+MI - Kalamazoo B - Jacob,49408
+MI - Kalamazoo B - Jacob,49415
+MI - Kalamazoo B - Jacob,49416
+MI - Kalamazoo B - Jacob,49417
+MI - Kalamazoo B - Jacob,49419
+MI - Kalamazoo B - Jacob,49422
+MI - Kalamazoo B - Jacob,49423
+MI - Kalamazoo B - Jacob,49424
+MI - Kalamazoo B - Jacob,49426
+MI - Kalamazoo B - Jacob,49427
+MI - Kalamazoo B - Jacob,49435
+MI - Kalamazoo B - Jacob,49441
+MI - Kalamazoo B - Jacob,49448
+MI - Kalamazoo B - Jacob,49450
+MI - Kalamazoo B - Jacob,49451
+MI - Kalamazoo B - Jacob,49453
+MI - Kalamazoo B - Jacob,49456
+MI - Kalamazoo B - Jacob,49460
+MI - Kalamazoo B - Jacob,49464
 MI - Lansing - Burkle/Willbrandt,48805
 MI - Lansing - Burkle/Willbrandt,48808
 MI - Lansing - Burkle/Willbrandt,48813
@@ -5147,159 +5207,159 @@ MN - Minnetonka - Thomas,55445
 MN - Minnetonka - Thomas,55446
 MN - Minnetonka - Thomas,55447
 MN - Minnetonka - Thomas,55569
-MO - St Louis - Bussard,63074
-MO - St Louis - Bussard,63101
-MO - St Louis - Bussard,63102
-MO - St Louis - Bussard,63103
-MO - St Louis - Bussard,63104
-MO - St Louis - Bussard,63105
-MO - St Louis - Bussard,63106
-MO - St Louis - Bussard,63107
-MO - St Louis - Bussard,63108
-MO - St Louis - Bussard,63110
-MO - St Louis - Bussard,63112
-MO - St Louis - Bussard,63113
-MO - St Louis - Bussard,63114
-MO - St Louis - Bussard,63115
-MO - St Louis - Bussard,63117
-MO - St Louis - Bussard,63120
-MO - St Louis - Bussard,63121
-MO - St Louis - Bussard,63124
-MO - St Louis - Bussard,63130
-MO - St Louis - Bussard,63132
-MO - St Louis - Bussard,63133
-MO - St Louis - Bussard,63134
-MO - St Louis - Bussard,63135
-MO - St Louis - Bussard,63136
-MO - St Louis - Bussard,63137
-MO - St Louis - Bussard,63138
-MO - St Louis - Bussard,63140
-MO - St Louis - Bussard,63145
-MO - St Louis - Bussard,63147
-MO - St Louis - Bussard,63150
-MO - St Louis - Bussard,63155
-MO - St Louis - Bussard,63156
-MO - St Louis - Bussard,63157
-MO - St Louis - Bussard,63160
-MO - St Louis - Bussard,63164
-MO - St Louis - Bussard,63166
-MO - St Louis - Bussard,63169
-MO - St Louis - Bussard,63177
-MO - St Louis - Bussard,63178
-MO - St Louis - Bussard,63179
-MO - St Louis - Bussard,63180
-MO - St Louis - Bussard,63182
-MO - St Louis - Bussard,63188
-MO - St Louis - Bussard,63197
-MO - St Louis - Bussard,63199
-MO - St Louis - Bussard,63010
-MO - St Louis - Bussard,63052
-MO - St Louis - Bussard,63053
-MO - St Louis - Bussard,63109
-MO - St Louis - Bussard,63111
-MO - St Louis - Bussard,63116
-MO - St Louis - Bussard,63118
-MO - St Louis - Bussard,63123
-MO - St Louis - Bussard,63125
-MO - St Louis - Bussard,63129
-MO - St Louis - Bussard,63139
-MO - St Louis - Bussard,63143
-MO - St Louis - Bussard,63144
-MO - St Louis - Bussard,63151
-MO - St Louis - Bussard,63158
-MO - St Louis - Bussard,63163
-MO - St Louis - Bussard,63021
-MO - St Louis - Bussard,63025
-MO - St Louis - Bussard,63026
-MO - St Louis - Bussard,63038
-MO - St Louis - Bussard,63040
-MO - St Louis - Bussard,63043
-MO - St Louis - Bussard,63049
-MO - St Louis - Bussard,63069
-MO - St Louis - Bussard,63088
-MO - St Louis - Bussard,63099
-MO - St Louis - Bussard,63119
-MO - St Louis - Bussard,63122
-MO - St Louis - Bussard,63126
-MO - St Louis - Bussard,63127
-MO - St Louis - Bussard,63128
-MO - St Louis - Bussard,63171
-MO - St Louis - Bussard,63005
-MO - St Louis - Bussard,63006
-MO - St Louis - Bussard,63011
-MO - St Louis - Bussard,63017
-MO - St Louis - Bussard,63022
-MO - St Louis - Bussard,63024
-MO - St Louis - Bussard,63131
-MO - St Louis - Bussard,63141
-MO - St Louis - Bussard,63146
-MO - St Louis - Bussard,63167
-MO - St Louis - Bussard,63195
-MO - St Louis - Bussard,63303
-MO - St Louis - Bussard,63304
-MO - St Louis - Bussard,63341
-MO - St Louis - Bussard,63367
-MO - St Louis - Bussard,63385
-MO - St Louis - Bussard,63031
-MO - St Louis - Bussard,63032
-MO - St Louis - Bussard,63033
-MO - St Louis - Bussard,63034
-MO - St Louis - Bussard,63042
-MO - St Louis - Bussard,63044
-MO - St Louis - Bussard,63045
-MO - St Louis - Bussard,63301
-MO - St Louis - Bussard,63302
-MO - St Louis - Bussard,63366
-MO - St Louis - Bussard,63368
-MO - St Louis - Bussard,63373
-MO - St Louis - Bussard,63376
-MO - St Louis - Bussard,63386
-MO - St Louis - Bussard,62002
-MO - St Louis - Bussard,62010
-MO - St Louis - Bussard,62018
-MO - St Louis - Bussard,62022
-MO - St Louis - Bussard,62024
-MO - St Louis - Bussard,62025
-MO - St Louis - Bussard,62026
-MO - St Louis - Bussard,62034
-MO - St Louis - Bussard,62035
-MO - St Louis - Bussard,62040
-MO - St Louis - Bussard,62048
-MO - St Louis - Bussard,62060
-MO - St Louis - Bussard,62062
-MO - St Louis - Bussard,62067
-MO - St Louis - Bussard,62084
-MO - St Louis - Bussard,62087
-MO - St Louis - Bussard,62090
-MO - St Louis - Bussard,62095
-MO - St Louis - Bussard,62097
-MO - St Louis - Bussard,62201
-MO - St Louis - Bussard,62203
-MO - St Louis - Bussard,62204
-MO - St Louis - Bussard,62205
-MO - St Louis - Bussard,62206
-MO - St Louis - Bussard,62207
-MO - St Louis - Bussard,62208
-MO - St Louis - Bussard,62220
-MO - St Louis - Bussard,62221
-MO - St Louis - Bussard,62223
-MO - St Louis - Bussard,62225
-MO - St Louis - Bussard,62226
-MO - St Louis - Bussard,62232
-MO - St Louis - Bussard,62234
-MO - St Louis - Bussard,62236
-MO - St Louis - Bussard,62239
-MO - St Louis - Bussard,62240
-MO - St Louis - Bussard,62254
-MO - St Louis - Bussard,62260
-MO - St Louis - Bussard,62269
-MO - St Louis - Bussard,62285
-MO - St Louis - Bussard,62294
-MO - St Louis - Bussard,62295
-MO - St Louis - Bussard,62298
-MO - St Louis - Bussard,63012
-MO - St Louis - Bussard,63073
-MO - St Louis - Bussard,63332
+MO - St Louis - Provo/Lahm,63074
+MO - St Louis - Provo/Lahm,63101
+MO - St Louis - Provo/Lahm,63102
+MO - St Louis - Provo/Lahm,63103
+MO - St Louis - Provo/Lahm,63104
+MO - St Louis - Provo/Lahm,63105
+MO - St Louis - Provo/Lahm,63106
+MO - St Louis - Provo/Lahm,63107
+MO - St Louis - Provo/Lahm,63108
+MO - St Louis - Provo/Lahm,63110
+MO - St Louis - Provo/Lahm,63112
+MO - St Louis - Provo/Lahm,63113
+MO - St Louis - Provo/Lahm,63114
+MO - St Louis - Provo/Lahm,63115
+MO - St Louis - Provo/Lahm,63117
+MO - St Louis - Provo/Lahm,63120
+MO - St Louis - Provo/Lahm,63121
+MO - St Louis - Provo/Lahm,63124
+MO - St Louis - Provo/Lahm,63130
+MO - St Louis - Provo/Lahm,63132
+MO - St Louis - Provo/Lahm,63133
+MO - St Louis - Provo/Lahm,63134
+MO - St Louis - Provo/Lahm,63135
+MO - St Louis - Provo/Lahm,63136
+MO - St Louis - Provo/Lahm,63137
+MO - St Louis - Provo/Lahm,63138
+MO - St Louis - Provo/Lahm,63140
+MO - St Louis - Provo/Lahm,63145
+MO - St Louis - Provo/Lahm,63147
+MO - St Louis - Provo/Lahm,63150
+MO - St Louis - Provo/Lahm,63155
+MO - St Louis - Provo/Lahm,63156
+MO - St Louis - Provo/Lahm,63157
+MO - St Louis - Provo/Lahm,63160
+MO - St Louis - Provo/Lahm,63164
+MO - St Louis - Provo/Lahm,63166
+MO - St Louis - Provo/Lahm,63169
+MO - St Louis - Provo/Lahm,63177
+MO - St Louis - Provo/Lahm,63178
+MO - St Louis - Provo/Lahm,63179
+MO - St Louis - Provo/Lahm,63180
+MO - St Louis - Provo/Lahm,63182
+MO - St Louis - Provo/Lahm,63188
+MO - St Louis - Provo/Lahm,63197
+MO - St Louis - Provo/Lahm,63199
+MO - St Louis - Provo/Lahm,63010
+MO - St Louis - Provo/Lahm,63052
+MO - St Louis - Provo/Lahm,63053
+MO - St Louis - Provo/Lahm,63109
+MO - St Louis - Provo/Lahm,63111
+MO - St Louis - Provo/Lahm,63116
+MO - St Louis - Provo/Lahm,63118
+MO - St Louis - Provo/Lahm,63123
+MO - St Louis - Provo/Lahm,63125
+MO - St Louis - Provo/Lahm,63129
+MO - St Louis - Provo/Lahm,63139
+MO - St Louis - Provo/Lahm,63143
+MO - St Louis - Provo/Lahm,63144
+MO - St Louis - Provo/Lahm,63151
+MO - St Louis - Provo/Lahm,63158
+MO - St Louis - Provo/Lahm,63163
+MO - St Louis - Provo/Lahm,63021
+MO - St Louis - Provo/Lahm,63025
+MO - St Louis - Provo/Lahm,63026
+MO - St Louis - Provo/Lahm,63038
+MO - St Louis - Provo/Lahm,63040
+MO - St Louis - Provo/Lahm,63043
+MO - St Louis - Provo/Lahm,63049
+MO - St Louis - Provo/Lahm,63069
+MO - St Louis - Provo/Lahm,63088
+MO - St Louis - Provo/Lahm,63099
+MO - St Louis - Provo/Lahm,63119
+MO - St Louis - Provo/Lahm,63122
+MO - St Louis - Provo/Lahm,63126
+MO - St Louis - Provo/Lahm,63127
+MO - St Louis - Provo/Lahm,63128
+MO - St Louis - Provo/Lahm,63171
+MO - St Louis - Provo/Lahm,63005
+MO - St Louis - Provo/Lahm,63006
+MO - St Louis - Provo/Lahm,63011
+MO - St Louis - Provo/Lahm,63017
+MO - St Louis - Provo/Lahm,63022
+MO - St Louis - Provo/Lahm,63024
+MO - St Louis - Provo/Lahm,63131
+MO - St Louis - Provo/Lahm,63141
+MO - St Louis - Provo/Lahm,63146
+MO - St Louis - Provo/Lahm,63167
+MO - St Louis - Provo/Lahm,63195
+MO - St Louis - Provo/Lahm,63303
+MO - St Louis - Provo/Lahm,63304
+MO - St Louis - Provo/Lahm,63341
+MO - St Louis - Provo/Lahm,63367
+MO - St Louis - Provo/Lahm,63385
+MO - St Louis - Provo/Lahm,63031
+MO - St Louis - Provo/Lahm,63032
+MO - St Louis - Provo/Lahm,63033
+MO - St Louis - Provo/Lahm,63034
+MO - St Louis - Provo/Lahm,63042
+MO - St Louis - Provo/Lahm,63044
+MO - St Louis - Provo/Lahm,63045
+MO - St Louis - Provo/Lahm,63301
+MO - St Louis - Provo/Lahm,63302
+MO - St Louis - Provo/Lahm,63366
+MO - St Louis - Provo/Lahm,63368
+MO - St Louis - Provo/Lahm,63373
+MO - St Louis - Provo/Lahm,63376
+MO - St Louis - Provo/Lahm,63386
+MO - St Louis - Provo/Lahm,62002
+MO - St Louis - Provo/Lahm,62010
+MO - St Louis - Provo/Lahm,62018
+MO - St Louis - Provo/Lahm,62022
+MO - St Louis - Provo/Lahm,62024
+MO - St Louis - Provo/Lahm,62025
+MO - St Louis - Provo/Lahm,62026
+MO - St Louis - Provo/Lahm,62034
+MO - St Louis - Provo/Lahm,62035
+MO - St Louis - Provo/Lahm,62040
+MO - St Louis - Provo/Lahm,62048
+MO - St Louis - Provo/Lahm,62060
+MO - St Louis - Provo/Lahm,62062
+MO - St Louis - Provo/Lahm,62067
+MO - St Louis - Provo/Lahm,62084
+MO - St Louis - Provo/Lahm,62087
+MO - St Louis - Provo/Lahm,62090
+MO - St Louis - Provo/Lahm,62095
+MO - St Louis - Provo/Lahm,62097
+MO - St Louis - Provo/Lahm,62201
+MO - St Louis - Provo/Lahm,62203
+MO - St Louis - Provo/Lahm,62204
+MO - St Louis - Provo/Lahm,62205
+MO - St Louis - Provo/Lahm,62206
+MO - St Louis - Provo/Lahm,62207
+MO - St Louis - Provo/Lahm,62208
+MO - St Louis - Provo/Lahm,62220
+MO - St Louis - Provo/Lahm,62221
+MO - St Louis - Provo/Lahm,62223
+MO - St Louis - Provo/Lahm,62225
+MO - St Louis - Provo/Lahm,62226
+MO - St Louis - Provo/Lahm,62232
+MO - St Louis - Provo/Lahm,62234
+MO - St Louis - Provo/Lahm,62236
+MO - St Louis - Provo/Lahm,62239
+MO - St Louis - Provo/Lahm,62240
+MO - St Louis - Provo/Lahm,62254
+MO - St Louis - Provo/Lahm,62260
+MO - St Louis - Provo/Lahm,62269
+MO - St Louis - Provo/Lahm,62285
+MO - St Louis - Provo/Lahm,62294
+MO - St Louis - Provo/Lahm,62295
+MO - St Louis - Provo/Lahm,62298
+MO - St Louis - Provo/Lahm,63012
+MO - St Louis - Provo/Lahm,63073
+MO - St Louis - Provo/Lahm,63332
 NC - Asheville - Smith,28701
 NC - Asheville - Smith,28704
 NC - Asheville - Smith,28709
@@ -6542,24 +6602,16 @@ NJ - Trenton - Changpertitum/Liao,8562
 NJ - Trenton - Changpertitum/Liao,8620
 NJ - Trenton - Changpertitum/Liao,8640
 NJ - Trenton - Changpertitum/Liao,8641
-NOT OPEN NV - Summerlin - Bethune,89107
-NOT OPEN NV - Summerlin - Bethune,89108
-NOT OPEN NV - Summerlin - Bethune,89128
-NOT OPEN NV - Summerlin - Bethune,89129
-NOT OPEN NV - Summerlin - Bethune,89133
-NOT OPEN NV - Summerlin - Bethune,89134
-NOT OPEN NV - Summerlin - Bethune,89137
-NOT OPEN NV - Summerlin - Bethune,89138
-NOT OPEN NV - Summerlin - Bethune,89144
-NOT OPEN NV - Summerlin - Bethune,89145
-NOT OPEN NV - Summerlin - Bethune,89149
-NOT OPEN NV - Summerlin - Bethune,89152
-NOT OPEN NV - Summerlin - Bethune,89157
-NOT OPEN NV - Summerlin - Bethune,89166
-NOT OPEN NV - Summerlin - Bethune,89031
-NOT OPEN NV - Summerlin - Bethune,89032
-NOT OPEN NV - Summerlin - Bethune,89106
-NOT OPEN NV - Summerlin - Bethune,89130
+NOT OPEN GA - Gainesville - Nieves/Holcombe,30501
+NOT OPEN GA - Gainesville - Nieves/Holcombe,30503
+NOT OPEN GA - Gainesville - Nieves/Holcombe,30504
+NOT OPEN GA - Gainesville - Nieves/Holcombe,30507
+NOT OPEN GA - Gainesville - Nieves/Holcombe,30543
+NOT OPEN GA - Gainesville - Nieves/Holcombe,30554
+NOT OPEN GA - Gainesville - Nieves/Holcombe,30558
+NOT OPEN GA - Gainesville - Nieves/Holcombe,30566
+NOT OPEN GA - Gainesville - Nieves/Holcombe,30567
+NOT OPEN GA - Gainesville - Nieves/Holcombe,30575
 NOT OPEN NY - Rochester - Roulan,14445
 NOT OPEN NY - Rochester - Roulan,14450
 NOT OPEN NY - Rochester - Roulan,14453
@@ -6600,6 +6652,40 @@ NOT OPEN NY - Rochester - Roulan,14651
 NOT OPEN NY - Rochester - Roulan,14652
 NOT OPEN NY - Rochester - Roulan,14692
 NOT OPEN NY - Rochester - Roulan,14694
+NV - Henderson - Epstein,89002
+NV - Henderson - Epstein,89005
+NV - Henderson - Epstein,89009
+NV - Henderson - Epstein,89011
+NV - Henderson - Epstein,89012
+NV - Henderson - Epstein,89014
+NV - Henderson - Epstein,89015
+NV - Henderson - Epstein,89016
+NV - Henderson - Epstein,89053
+NV - Henderson - Epstein,89074
+NV - Henderson - Epstein,89112
+NV - Henderson - Epstein,89120
+NV - Henderson - Epstein,89122
+NV - Henderson - Epstein,89142
+NV - Henderson - Epstein,89160
+NV - Henderson - Epstein,89162
+NV - Summerlin - Bethune,89107
+NV - Summerlin - Bethune,89108
+NV - Summerlin - Bethune,89128
+NV - Summerlin - Bethune,89129
+NV - Summerlin - Bethune,89133
+NV - Summerlin - Bethune,89134
+NV - Summerlin - Bethune,89137
+NV - Summerlin - Bethune,89138
+NV - Summerlin - Bethune,89144
+NV - Summerlin - Bethune,89145
+NV - Summerlin - Bethune,89149
+NV - Summerlin - Bethune,89152
+NV - Summerlin - Bethune,89157
+NV - Summerlin - Bethune,89166
+NV - Summerlin - Bethune,89031
+NV - Summerlin - Bethune,89032
+NV - Summerlin - Bethune,89106
+NV - Summerlin - Bethune,89130
 NY - Long Island - Nickliancos,11901
 NY - Long Island - Nickliancos,11930
 NY - Long Island - Nickliancos,11931
@@ -7419,8 +7505,7 @@ OH - Columbus North - Francis,43342
 OH - Columbus North - Francis,43344
 OH - Columbus North - Francis,43356
 OH - Columbus North - Francis,43017
-OH - Columbus North - Francis,43206
-OH - Columbus North - Francis,43215
+OH - Columbus North - Francis,43026
 OK - Oklahoma City - Dufek,73020
 OK - Oklahoma City - Dufek,73066
 OK - Oklahoma City - Dufek,73069
@@ -8416,8 +8501,6 @@ RI - Providence - DeNunzio,2915
 RI - Providence - DeNunzio,2916
 RI - Providence - DeNunzio,2920
 RI - Providence - DeNunzio,2940
-RI - Providence - DeNunzio,2771
-RI - Providence - DeNunzio,2777
 RI - Providence - DeNunzio,2802
 RI - Providence - DeNunzio,2804
 RI - Providence - DeNunzio,2808
@@ -9256,36 +9339,36 @@ TX - Conroe - Quintanilha,77372
 TX - Conroe - Quintanilha,77384
 TX - Conroe - Quintanilha,77385
 TX - Conroe - Quintanilha,77014
-TX - Conroe - Quintanilha,77015
-TX - Conroe - Quintanilha,77021
 TX - Conroe - Quintanilha,77032
-TX - Conroe - Quintanilha,77034
 TX - Conroe - Quintanilha,77037
 TX - Conroe - Quintanilha,77038
-TX - Conroe - Quintanilha,77044
-TX - Conroe - Quintanilha,77058
-TX - Conroe - Quintanilha,77059
 TX - Conroe - Quintanilha,77060
-TX - Conroe - Quintanilha,77062
 TX - Conroe - Quintanilha,77067
 TX - Conroe - Quintanilha,77073
 TX - Conroe - Quintanilha,77205
 TX - Conroe - Quintanilha,77267
 TX - Conroe - Quintanilha,77268
 TX - Conroe - Quintanilha,77315
+TX - Conroe - Quintanilha,77338
+TX - Conroe - Quintanilha,77347
+TX - Conroe - Quintanilha,77373
+TX - Conroe - Quintanilha,77383
+TX - Conroe - Quintanilha,77386
+TX - Conroe - Quintanilha,77015
+TX - Conroe - Quintanilha,77021
+TX - Conroe - Quintanilha,77034
+TX - Conroe - Quintanilha,77044
+TX - Conroe - Quintanilha,77058
+TX - Conroe - Quintanilha,77059
+TX - Conroe - Quintanilha,77062
 TX - Conroe - Quintanilha,77318
 TX - Conroe - Quintanilha,77320
 TX - Conroe - Quintanilha,77336
-TX - Conroe - Quintanilha,77338
 TX - Conroe - Quintanilha,77339
 TX - Conroe - Quintanilha,77340
 TX - Conroe - Quintanilha,77345
 TX - Conroe - Quintanilha,77346
-TX - Conroe - Quintanilha,77347
 TX - Conroe - Quintanilha,77356
-TX - Conroe - Quintanilha,77373
-TX - Conroe - Quintanilha,77383
-TX - Conroe - Quintanilha,77386
 TX - Conroe - Quintanilha,77396
 TX - Conroe - Quintanilha,77504
 TX - Conroe - Quintanilha,77505
@@ -9333,6 +9416,7 @@ TX - Dallas Carrollton - Leffel,75028
 TX - Dallas Carrollton - Leffel,75033
 TX - Dallas Carrollton - Leffel,75034
 TX - Dallas Carrollton - Leffel,75035
+TX - Dallas Carrollton - Leffel,75051
 TX - Dallas Carrollton - Leffel,75056
 TX - Dallas Carrollton - Leffel,75057
 TX - Dallas Carrollton - Leffel,75060
@@ -9493,6 +9577,9 @@ TX - Eldridge - Mance,77282
 TX - Eldridge - Mance,77411
 TX - Eldridge - Mance,77413
 TX - Eldridge - Mance,77450
+TX - Eldridge - Mance,77043
+TX - Eldridge - Mance,77079
+TX - Eldridge - Mance,77084
 TX - Houston - Wood,77380
 TX - Houston - Wood,77381
 TX - Houston - Wood,77382
@@ -9529,13 +9616,10 @@ TX - Houston - Wood,77082
 TX - Houston - Wood,77083
 TX - Houston - Wood,77084
 TX - Houston - Wood,77094
-TX - Houston - Wood,77205
 TX - Houston - Wood,77240
 TX - Houston - Wood,77241
 TX - Houston - Wood,77242
 TX - Houston - Wood,77244
-TX - Houston - Wood,77267
-TX - Houston - Wood,77268
 TX - Houston - Wood,77272
 TX - Houston - Wood,77282
 TX - Houston - Wood,77290
