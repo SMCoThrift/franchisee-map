@@ -10,6 +10,7 @@ $franchisees_map = [
   'AZ - Phoenix East Valley - Abate' => 81545,
 	'AZ - Scottsdale - Graham' => 366525,
   'CA - Carlsbad - Parsons' => 404824,
+ 	'CA - Fresno - Gragnani' => 418289,
   'CA - Los Angeles - Takhmazyan' => 81548,
   'CA - Orange County - Kube' => 81551,
   'CA - Palo Alto - Marquez' => 165119,
