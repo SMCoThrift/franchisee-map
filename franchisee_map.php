@@ -176,6 +176,7 @@ $franchisees_map = [
   'TX - Dallas Central - Syed' => 82299,
   'TX - Dallas Carrollton - Leffel' => 332270,
   'TX - Denton - Milam' => 332265,
+  'TX - Eldridge - Mance' => 424437,
   'TX - Fort Worth - Gaither/Bush' => 110338,
   'TX - SW Ft. Worth - Winegarden' => 423384,
   'TX - Houston - Wood' => 82059,
