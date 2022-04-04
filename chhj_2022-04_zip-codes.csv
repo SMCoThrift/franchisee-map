@@ -204,6 +204,7 @@ AR - Springdale - Hudgeons,72765
 AR - Springdale - Hudgeons,72766
 AR - Springdale - Hudgeons,72770
 AR - Springdale - Hudgeons,72774
+AR - Springdale - Hudgeons,72756
 AZ - Phoenix West - Harvin,85031
 AZ - Phoenix West - Harvin,85033
 AZ - Phoenix West - Harvin,85035
@@ -471,6 +472,24 @@ CA - San Diego - Harris,92186
 CA - San Diego - Harris,92193
 CA - San Diego - Harris,92118
 CA - San Diego - Harris,92124
+CA - San Diego North - Allen,92037
+CA - San Diego North - Allen,92038
+CA - San Diego North - Allen,92039
+CA - San Diego North - Allen,92092
+CA - San Diego North - Allen,92093
+CA - San Diego North - Allen,92109
+CA - San Diego North - Allen,92117
+CA - San Diego North - Allen,92121
+CA - San Diego North - Allen,92122
+CA - San Diego North - Allen,92124
+CA - San Diego North - Allen,92126
+CA - San Diego North - Allen,92145
+CA - San Diego North - Allen,92161
+CA - San Diego North - Allen,92169
+CA - San Diego North - Allen,92177
+CA - San Diego North - Allen,92191
+CA - San Diego North - Allen,92192
+CA - San Diego North - Allen,92196
 CA - San Jose - Silva,94087
 CA - San Jose - Silva,95014
 CA - San Jose - Silva,95015
@@ -840,6 +859,7 @@ CT - Danbury - Harrington/Claffey,6611
 CT - Danbury - Harrington/Claffey,6612
 CT - Danbury - Harrington/Claffey,6704
 CT - Danbury - Harrington/Claffey,6754
+CT - Danbury - Harrington/Claffey,6755
 CT - Danbury - Harrington/Claffey,6757
 CT - Danbury - Harrington/Claffey,6758
 CT - Danbury - Harrington/Claffey,6763
@@ -1150,13 +1170,11 @@ FL - Fort Lauderdale - Tommer/Cook,33090
 FL - Fort Lauderdale - Tommer/Cook,33092
 FL - Fort Lauderdale - Tommer/Cook,33101
 FL - Fort Lauderdale - Tommer/Cook,33106
-FL - Fort Lauderdale - Tommer/Cook,33109
 FL - Fort Lauderdale - Tommer/Cook,33112
 FL - Fort Lauderdale - Tommer/Cook,33116
 FL - Fort Lauderdale - Tommer/Cook,33122
 FL - Fort Lauderdale - Tommer/Cook,33125
 FL - Fort Lauderdale - Tommer/Cook,33126
-FL - Fort Lauderdale - Tommer/Cook,33127
 FL - Fort Lauderdale - Tommer/Cook,33128
 FL - Fort Lauderdale - Tommer/Cook,33129
 FL - Fort Lauderdale - Tommer/Cook,33130
@@ -1164,30 +1182,18 @@ FL - Fort Lauderdale - Tommer/Cook,33131
 FL - Fort Lauderdale - Tommer/Cook,33132
 FL - Fort Lauderdale - Tommer/Cook,33135
 FL - Fort Lauderdale - Tommer/Cook,33136
-FL - Fort Lauderdale - Tommer/Cook,33137
-FL - Fort Lauderdale - Tommer/Cook,33138
 FL - Fort Lauderdale - Tommer/Cook,33139
-FL - Fort Lauderdale - Tommer/Cook,33140
-FL - Fort Lauderdale - Tommer/Cook,33141
-FL - Fort Lauderdale - Tommer/Cook,33142
 FL - Fort Lauderdale - Tommer/Cook,33146
-FL - Fort Lauderdale - Tommer/Cook,33147
 FL - Fort Lauderdale - Tommer/Cook,33149
-FL - Fort Lauderdale - Tommer/Cook,33150
-FL - Fort Lauderdale - Tommer/Cook,33153
-FL - Fort Lauderdale - Tommer/Cook,33154
 FL - Fort Lauderdale - Tommer/Cook,33157
-FL - Fort Lauderdale - Tommer/Cook,33161
 FL - Fort Lauderdale - Tommer/Cook,33166
 FL - Fort Lauderdale - Tommer/Cook,33167
-FL - Fort Lauderdale - Tommer/Cook,33168
 FL - Fort Lauderdale - Tommer/Cook,33170
 FL - Fort Lauderdale - Tommer/Cook,33172
 FL - Fort Lauderdale - Tommer/Cook,33175
 FL - Fort Lauderdale - Tommer/Cook,33176
 FL - Fort Lauderdale - Tommer/Cook,33177
 FL - Fort Lauderdale - Tommer/Cook,33178
-FL - Fort Lauderdale - Tommer/Cook,33181
 FL - Fort Lauderdale - Tommer/Cook,33182
 FL - Fort Lauderdale - Tommer/Cook,33183
 FL - Fort Lauderdale - Tommer/Cook,33184
@@ -1202,7 +1208,6 @@ FL - Fort Lauderdale - Tommer/Cook,33193
 FL - Fort Lauderdale - Tommer/Cook,33194
 FL - Fort Lauderdale - Tommer/Cook,33196
 FL - Fort Lauderdale - Tommer/Cook,33239
-FL - Fort Lauderdale - Tommer/Cook,33261
 FL - Fort Lauderdale - Tommer/Cook,33318
 FL - Fort Lauderdale - Tommer/Cook,33320
 FL - Fort Lauderdale - Tommer/Cook,33335
@@ -1406,6 +1411,7 @@ FL - Jacksonville - Tully,32068
 FL - Jacksonville - Tully,32136
 FL - Jacksonville - Tully,32137
 FL - Jacksonville - Tully,32164
+FL - Jacksonville - Tully,32189
 FL - Miami - Soliman/Murphy/Richards,33101
 FL - Miami - Soliman/Murphy/Richards,33102
 FL - Miami - Soliman/Murphy/Richards,33111
@@ -1453,6 +1459,24 @@ FL - Miami - Soliman/Murphy/Richards,33245
 FL - Miami - Soliman/Murphy/Richards,33255
 FL - Miami - Soliman/Murphy/Richards,33256
 FL - Miami - Soliman/Murphy/Richards,34034
+FL - Miami Beach - Garcia/Gomez,33109
+FL - Miami Beach - Garcia/Gomez,33127
+FL - Miami Beach - Garcia/Gomez,33137
+FL - Miami Beach - Garcia/Gomez,33138
+FL - Miami Beach - Garcia/Gomez,33140
+FL - Miami Beach - Garcia/Gomez,33141
+FL - Miami Beach - Garcia/Gomez,33142
+FL - Miami Beach - Garcia/Gomez,33147
+FL - Miami Beach - Garcia/Gomez,33150
+FL - Miami Beach - Garcia/Gomez,33153
+FL - Miami Beach - Garcia/Gomez,33154
+FL - Miami Beach - Garcia/Gomez,33161
+FL - Miami Beach - Garcia/Gomez,33168
+FL - Miami Beach - Garcia/Gomez,33181
+FL - Miami Beach - Garcia/Gomez,33238
+FL - Miami Beach - Garcia/Gomez,33242
+FL - Miami Beach - Garcia/Gomez,33247
+FL - Miami Beach - Garcia/Gomez,33261
 FL - Naples - Pallipatte,34101
 FL - Naples - Pallipatte,34102
 FL - Naples - Pallipatte,34103
@@ -2096,7 +2120,6 @@ FL - Tampa - CFPB,33606
 FL - Tampa - CFPB,33607
 FL - Tampa - CFPB,33608
 FL - Tampa - CFPB,33609
-FL - Tampa - CFPB,33610
 FL - Tampa - CFPB,33611
 FL - Tampa - CFPB,33614
 FL - Tampa - CFPB,33615
@@ -2133,6 +2156,7 @@ FL - Tampa - CFPB,33549
 FL - Tampa - CFPB,33556
 FL - Tampa - CFPB,33558
 FL - Tampa - CFPB,33559
+FL - Tampa - CFPB,33610
 FL - Tampa - CFPB,33618
 FL - Tampa - CFPB,33624
 FL - Tampa - CFPB,33625
@@ -2417,6 +2441,42 @@ GA - Atlanta NE - Purgason,30177
 GA - Atlanta NE - Purgason,30506
 GA - Atlanta NE - Purgason,30533
 GA - Atlanta NE - Purgason,30534
+GA - Columbus - Scott,31801
+GA - Columbus - Scott,31804
+GA - Columbus - Scott,31805
+GA - Columbus - Scott,31807
+GA - Columbus - Scott,31808
+GA - Columbus - Scott,31810
+GA - Columbus - Scott,31811
+GA - Columbus - Scott,31814
+GA - Columbus - Scott,31820
+GA - Columbus - Scott,31822
+GA - Columbus - Scott,31823
+GA - Columbus - Scott,31826
+GA - Columbus - Scott,31829
+GA - Columbus - Scott,31831
+GA - Columbus - Scott,31833
+GA - Columbus - Scott,31901
+GA - Columbus - Scott,31902
+GA - Columbus - Scott,31903
+GA - Columbus - Scott,31904
+GA - Columbus - Scott,31905
+GA - Columbus - Scott,31906
+GA - Columbus - Scott,31907
+GA - Columbus - Scott,31908
+GA - Columbus - Scott,31909
+GA - Columbus - Scott,31914
+GA - Columbus - Scott,31917
+GA - Columbus - Scott,31993
+GA - Columbus - Scott,31995
+GA - Columbus - Scott,31997
+GA - Columbus - Scott,31998
+GA - Columbus - Scott,31999
+GA - Columbus - Scott,36867
+GA - Columbus - Scott,36868
+GA - Columbus - Scott,36869
+GA - Columbus - Scott,36870
+GA - Columbus - Scott,36877
 GA - Jasper - Nieves/Holcombe,30028
 GA - Jasper - Nieves/Holcombe,30107
 GA - Jasper - Nieves/Holcombe,30115
@@ -2440,8 +2500,17 @@ GA - Jasper - Nieves/Holcombe,30534
 GA - Jasper - Nieves/Holcombe,30564
 GA - Jasper - Nieves/Holcombe,30597
 GA - Jasper - Nieves/Holcombe,30103
+GA - Jasper - Nieves/Holcombe,30512
+GA - Jasper - Nieves/Holcombe,30513
+GA - Jasper - Nieves/Holcombe,30522
 GA - Jasper - Nieves/Holcombe,30536
 GA - Jasper - Nieves/Holcombe,30540
+GA - Jasper - Nieves/Holcombe,30545
+GA - Jasper - Nieves/Holcombe,30555
+GA - Jasper - Nieves/Holcombe,30559
+GA - Jasper - Nieves/Holcombe,30560
+GA - Jasper - Nieves/Holcombe,30571
+GA - Jasper - Nieves/Holcombe,30572
 GA - Jasper - Nieves/Holcombe,30701
 GA - Jasper - Nieves/Holcombe,30734
 GA - Macon - Corn,31004
@@ -2571,85 +2640,85 @@ GA - Savannah - O'Rourke,31419
 GA - Savannah - O'Rourke,31420
 GA - Savannah - O'Rourke,31421
 GA - Savannah - O'Rourke,31525
-IA - Des Moines - Galeazzi,50003
-IA - Des Moines - Galeazzi,50012
-IA - Des Moines - Galeazzi,50023
-IA - Des Moines - Galeazzi,50032
-IA - Des Moines - Galeazzi,50033
-IA - Des Moines - Galeazzi,50036
-IA - Des Moines - Galeazzi,50038
-IA - Des Moines - Galeazzi,50039
-IA - Des Moines - Galeazzi,50061
-IA - Des Moines - Galeazzi,50063
-IA - Des Moines - Galeazzi,50069
-IA - Des Moines - Galeazzi,50109
-IA - Des Moines - Galeazzi,50111
-IA - Des Moines - Galeazzi,50127
-IA - Des Moines - Galeazzi,50131
-IA - Des Moines - Galeazzi,50152
-IA - Des Moines - Galeazzi,50156
-IA - Des Moines - Galeazzi,50167
-IA - Des Moines - Galeazzi,50211
-IA - Des Moines - Galeazzi,50212
-IA - Des Moines - Galeazzi,50220
-IA - Des Moines - Galeazzi,50226
-IA - Des Moines - Galeazzi,50261
-IA - Des Moines - Galeazzi,50263
-IA - Des Moines - Galeazzi,50265
-IA - Des Moines - Galeazzi,50266
-IA - Des Moines - Galeazzi,50276
-IA - Des Moines - Galeazzi,50302
-IA - Des Moines - Galeazzi,50307
-IA - Des Moines - Galeazzi,50308
-IA - Des Moines - Galeazzi,50310
-IA - Des Moines - Galeazzi,50311
-IA - Des Moines - Galeazzi,50312
-IA - Des Moines - Galeazzi,50318
-IA - Des Moines - Galeazzi,50321
-IA - Des Moines - Galeazzi,50322
-IA - Des Moines - Galeazzi,50323
-IA - Des Moines - Galeazzi,50324
-IA - Des Moines - Galeazzi,50325
-IA - Des Moines - Galeazzi,50328
-IA - Des Moines - Galeazzi,50329
-IA - Des Moines - Galeazzi,50330
-IA - Des Moines - Galeazzi,50331
-IA - Des Moines - Galeazzi,50332
-IA - Des Moines - Galeazzi,50333
-IA - Des Moines - Galeazzi,50335
-IA - Des Moines - Galeazzi,50340
-IA - Des Moines - Galeazzi,50360
-IA - Des Moines - Galeazzi,50380
-IA - Des Moines - Galeazzi,50381
-IA - Des Moines - Galeazzi,50391
-IA - Des Moines - Galeazzi,50392
-IA - Des Moines - Galeazzi,50393
-IA - Des Moines - Galeazzi,50396
-IA - Des Moines - Galeazzi,50936
-IA - Des Moines - Galeazzi,50940
-IA - Des Moines - Galeazzi,50947
-IA - Des Moines - Galeazzi,50950
-IA - Des Moines - Galeazzi,50980
-IA - Des Moines - Galeazzi,50981
-IA - Des Moines - Galeazzi,50982
-IA - Des Moines - Galeazzi,50983
-IA - Des Moines - Galeazzi,50009
-IA - Des Moines - Galeazzi,50021
-IA - Des Moines - Galeazzi,50035
-IA - Des Moines - Galeazzi,50047
-IA - Des Moines - Galeazzi,50125
-IA - Des Moines - Galeazzi,50169
-IA - Des Moines - Galeazzi,50240
-IA - Des Moines - Galeazzi,50257
-IA - Des Moines - Galeazzi,50309
-IA - Des Moines - Galeazzi,50313
-IA - Des Moines - Galeazzi,50314
-IA - Des Moines - Galeazzi,50315
-IA - Des Moines - Galeazzi,50316
-IA - Des Moines - Galeazzi,50317
-IA - Des Moines - Galeazzi,50319
-IA - Des Moines - Galeazzi,50320
-IA - Des Moines - Galeazzi,50327
+IA - Des Moines - Felker,50003
+IA - Des Moines - Felker,50012
+IA - Des Moines - Felker,50023
+IA - Des Moines - Felker,50032
+IA - Des Moines - Felker,50033
+IA - Des Moines - Felker,50036
+IA - Des Moines - Felker,50038
+IA - Des Moines - Felker,50039
+IA - Des Moines - Felker,50061
+IA - Des Moines - Felker,50063
+IA - Des Moines - Felker,50069
+IA - Des Moines - Felker,50109
+IA - Des Moines - Felker,50111
+IA - Des Moines - Felker,50127
+IA - Des Moines - Felker,50131
+IA - Des Moines - Felker,50152
+IA - Des Moines - Felker,50156
+IA - Des Moines - Felker,50167
+IA - Des Moines - Felker,50211
+IA - Des Moines - Felker,50212
+IA - Des Moines - Felker,50220
+IA - Des Moines - Felker,50226
+IA - Des Moines - Felker,50261
+IA - Des Moines - Felker,50263
+IA - Des Moines - Felker,50265
+IA - Des Moines - Felker,50266
+IA - Des Moines - Felker,50276
+IA - Des Moines - Felker,50302
+IA - Des Moines - Felker,50307
+IA - Des Moines - Felker,50308
+IA - Des Moines - Felker,50310
+IA - Des Moines - Felker,50311
+IA - Des Moines - Felker,50312
+IA - Des Moines - Felker,50318
+IA - Des Moines - Felker,50321
+IA - Des Moines - Felker,50322
+IA - Des Moines - Felker,50323
+IA - Des Moines - Felker,50324
+IA - Des Moines - Felker,50325
+IA - Des Moines - Felker,50328
+IA - Des Moines - Felker,50329
+IA - Des Moines - Felker,50330
+IA - Des Moines - Felker,50331
+IA - Des Moines - Felker,50332
+IA - Des Moines - Felker,50333
+IA - Des Moines - Felker,50335
+IA - Des Moines - Felker,50340
+IA - Des Moines - Felker,50360
+IA - Des Moines - Felker,50380
+IA - Des Moines - Felker,50381
+IA - Des Moines - Felker,50391
+IA - Des Moines - Felker,50392
+IA - Des Moines - Felker,50393
+IA - Des Moines - Felker,50396
+IA - Des Moines - Felker,50936
+IA - Des Moines - Felker,50940
+IA - Des Moines - Felker,50947
+IA - Des Moines - Felker,50950
+IA - Des Moines - Felker,50980
+IA - Des Moines - Felker,50981
+IA - Des Moines - Felker,50982
+IA - Des Moines - Felker,50983
+IA - Des Moines - Felker,50009
+IA - Des Moines - Felker,50021
+IA - Des Moines - Felker,50035
+IA - Des Moines - Felker,50047
+IA - Des Moines - Felker,50125
+IA - Des Moines - Felker,50169
+IA - Des Moines - Felker,50240
+IA - Des Moines - Felker,50257
+IA - Des Moines - Felker,50309
+IA - Des Moines - Felker,50313
+IA - Des Moines - Felker,50314
+IA - Des Moines - Felker,50315
+IA - Des Moines - Felker,50316
+IA - Des Moines - Felker,50317
+IA - Des Moines - Felker,50319
+IA - Des Moines - Felker,50320
+IA - Des Moines - Felker,50327
 ID - Boise - Washow,83616
 ID - Boise - Washow,83642
 ID - Boise - Washow,83646
@@ -4597,6 +4666,23 @@ MD - Washington DC - Metro,20898
 MD - Washington DC - Metro,20748
 MD - Washington DC - Metro,20783
 MD - Washington DC - Metro,20880
+MI - Canton - Whitchurch,48111
+MI - Canton - Whitchurch,48112
+MI - Canton - Whitchurch,48117
+MI - Canton - Whitchurch,48134
+MI - Canton - Whitchurch,48135
+MI - Canton - Whitchurch,48136
+MI - Canton - Whitchurch,48141
+MI - Canton - Whitchurch,48164
+MI - Canton - Whitchurch,48166
+MI - Canton - Whitchurch,48174
+MI - Canton - Whitchurch,48179
+MI - Canton - Whitchurch,48184
+MI - Canton - Whitchurch,48185
+MI - Canton - Whitchurch,48186
+MI - Canton - Whitchurch,48187
+MI - Canton - Whitchurch,48188
+MI - Canton - Whitchurch,48242
 MI - Flint - Hawley,48114
 MI - Flint - Hawley,48116
 MI - Flint - Hawley,48130
@@ -4704,14 +4790,9 @@ MI - Flint - Hawley,48106
 MI - Flint - Hawley,48107
 MI - Flint - Hawley,48108
 MI - Flint - Hawley,48109
-MI - Flint - Hawley,48111
 MI - Flint - Hawley,48113
 MI - Flint - Hawley,48126
 MI - Flint - Hawley,48180
-MI - Flint - Hawley,48185
-MI - Flint - Hawley,48186
-MI - Flint - Hawley,48187
-MI - Flint - Hawley,48188
 MI - Flint - Hawley,48197
 MI - Flint - Hawley,48198
 MI - Flint - Hawley,48201
@@ -5131,7 +5212,6 @@ MI - Oakland County - Ryan/Lipa,48233
 MI - Oakland County - Ryan/Lipa,48234
 MI - Oakland County - Ryan/Lipa,48236
 MI - Oakland County - Ryan/Lipa,48238
-MI - Oakland County - Ryan/Lipa,48242
 MI - Oakland County - Ryan/Lipa,48243
 MI - Oakland County - Ryan/Lipa,48244
 MI - Oakland County - Ryan/Lipa,48255
@@ -5199,6 +5279,7 @@ MN - Eden Prairie - Sedlak,55467
 MN - Eden Prairie - Sedlak,55487
 MN - Eden Prairie - Sedlak,55343
 MN - Eden Prairie - Sedlak,55345
+MN - Eden Prairie - Sedlak,55446
 MN - Minneapolis - Christiansen,55024
 MN - Minneapolis - Christiansen,55044
 MN - Minneapolis - Christiansen,55068
@@ -5936,7 +6017,9 @@ NC - Thomasville - Shone,27361
 NC - Thomasville - Shone,27370
 NC - Thomasville - Shone,27373
 NC - Thomasville - Shone,27374
+NC - Thomasville - Shone,27018
 NC - Thomasville - Shone,27040
+NC - Thomasville - Shone,27055
 NC - Thomasville - Shone,27101
 NC - Thomasville - Shone,27104
 NC - Thomasville - Shone,27105
@@ -7044,6 +7127,51 @@ NY - Long Island - Nickliancos,11695
 NY - Long Island - Nickliancos,11697
 NY - Long Island - Nickliancos,11736
 NY - Long Island - Nickliancos,11739
+NY - MT. Kisco - Jozefiak,10501
+NY - MT. Kisco - Jozefiak,10504
+NY - MT. Kisco - Jozefiak,10505
+NY - MT. Kisco - Jozefiak,10506
+NY - MT. Kisco - Jozefiak,10507
+NY - MT. Kisco - Jozefiak,10509
+NY - MT. Kisco - Jozefiak,10510
+NY - MT. Kisco - Jozefiak,10511
+NY - MT. Kisco - Jozefiak,10512
+NY - MT. Kisco - Jozefiak,10514
+NY - MT. Kisco - Jozefiak,10517
+NY - MT. Kisco - Jozefiak,10518
+NY - MT. Kisco - Jozefiak,10519
+NY - MT. Kisco - Jozefiak,10520
+NY - MT. Kisco - Jozefiak,10521
+NY - MT. Kisco - Jozefiak,10524
+NY - MT. Kisco - Jozefiak,10526
+NY - MT. Kisco - Jozefiak,10527
+NY - MT. Kisco - Jozefiak,10535
+NY - MT. Kisco - Jozefiak,10536
+NY - MT. Kisco - Jozefiak,10537
+NY - MT. Kisco - Jozefiak,10540
+NY - MT. Kisco - Jozefiak,10541
+NY - MT. Kisco - Jozefiak,10542
+NY - MT. Kisco - Jozefiak,10545
+NY - MT. Kisco - Jozefiak,10546
+NY - MT. Kisco - Jozefiak,10547
+NY - MT. Kisco - Jozefiak,10548
+NY - MT. Kisco - Jozefiak,10549
+NY - MT. Kisco - Jozefiak,10560
+NY - MT. Kisco - Jozefiak,10562
+NY - MT. Kisco - Jozefiak,10566
+NY - MT. Kisco - Jozefiak,10567
+NY - MT. Kisco - Jozefiak,10570
+NY - MT. Kisco - Jozefiak,10576
+NY - MT. Kisco - Jozefiak,10578
+NY - MT. Kisco - Jozefiak,10579
+NY - MT. Kisco - Jozefiak,10587
+NY - MT. Kisco - Jozefiak,10588
+NY - MT. Kisco - Jozefiak,10589
+NY - MT. Kisco - Jozefiak,10590
+NY - MT. Kisco - Jozefiak,10594
+NY - MT. Kisco - Jozefiak,10597
+NY - MT. Kisco - Jozefiak,10598
+NY - MT. Kisco - Jozefiak,12563
 NY - Westchester - Yewdell,10502
 NY - Westchester - Yewdell,10503
 NY - Westchester - Yewdell,10522
@@ -7262,34 +7390,9 @@ NY - Westchester - Yewdell,10474
 NY - Westchester - Yewdell,10475
 NY - Westchester - Yewdell,10477
 NY - Westchester - Yewdell,10499
-NY - Westchester - Yewdell,10501
-NY - Westchester - Yewdell,10504
-NY - Westchester - Yewdell,10505
-NY - Westchester - Yewdell,10506
-NY - Westchester - Yewdell,10507
-NY - Westchester - Yewdell,10510
-NY - Westchester - Yewdell,10511
-NY - Westchester - Yewdell,10514
-NY - Westchester - Yewdell,10518
-NY - Westchester - Yewdell,10520
-NY - Westchester - Yewdell,10526
-NY - Westchester - Yewdell,10536
-NY - Westchester - Yewdell,10540
-NY - Westchester - Yewdell,10545
-NY - Westchester - Yewdell,10546
-NY - Westchester - Yewdell,10547
-NY - Westchester - Yewdell,10549
 NY - Westchester - Yewdell,10557
 NY - Westchester - Yewdell,10558
 NY - Westchester - Yewdell,10559
-NY - Westchester - Yewdell,10562
-NY - Westchester - Yewdell,10567
-NY - Westchester - Yewdell,10570
-NY - Westchester - Yewdell,10576
-NY - Westchester - Yewdell,10589
-NY - Westchester - Yewdell,10590
-NY - Westchester - Yewdell,10594
-NY - Westchester - Yewdell,10598
 NY - Westchester - Yewdell,10913
 NY - Westchester - Yewdell,10920
 NY - Westchester - Yewdell,10954
@@ -7539,6 +7642,7 @@ OH - Columbus North - Francis,43214
 OH - Columbus North - Francis,43215
 OH - Columbus North - Francis,43221
 OH - Columbus North - Francis,43224
+OH - Columbus North - Francis,43235
 OK - Oklahoma City - Dufek,73020
 OK - Oklahoma City - Dufek,73066
 OK - Oklahoma City - Dufek,73069
@@ -8257,7 +8361,6 @@ PA - Philadelphia - Ort,19351
 PA - Philadelphia - Ort,19352
 PA - Philadelphia - Ort,19357
 PA - Philadelphia - Ort,19360
-PA - Philadelphia - Ort,19362
 PA - Philadelphia - Ort,19363
 PA - Philadelphia - Ort,19365
 PA - Philadelphia - Ort,19367
@@ -8670,6 +8773,7 @@ SC - Greenville - Truelove,29605
 SC - Greenville - Truelove,29607
 SC - Greenville - Truelove,29609
 SC - Greenville - Truelove,29611
+SC - Greenville - Truelove,29613
 SC - Greenville - Truelove,29615
 SC - Greenville - Truelove,29617
 SC - Greenville - Truelove,29640
@@ -8682,14 +8786,16 @@ SC - Greenville - Truelove,29621
 SC - Greenville - Truelove,29624
 SC - Greenville - Truelove,29625
 SC - Greenville - Truelove,29626
-SC - Greenville - Truelove,29627
-SC - Greenville - Truelove,29645
-SC - Greenville - Truelove,29671
+SC - Greenville - Truelove,29630
+SC - Greenville - Truelove,29631
+SC - Greenville - Truelove,29657
+SC - Greenville - Truelove,29667
+SC - Greenville - Truelove,29669
+SC - Greenville - Truelove,29670
 SC - Greenville - Truelove,29672
 SC - Greenville - Truelove,29678
-SC - Greenville - Truelove,29682
-SC - Greenville - Truelove,29684
 SC - Greenville - Truelove,29689
+SC - Greenville - Truelove,29697
 SC - Myrtle Beach - Smith,29440
 SC - Myrtle Beach - Smith,29442
 SC - Myrtle Beach - Smith,29510
@@ -10048,9 +10154,11 @@ VA - Arlington - Craig,20148
 VA - Arlington - Craig,20151
 VA - Arlington - Craig,20152
 VA - Arlington - Craig,20158
+VA - Arlington - Craig,20163
 VA - Arlington - Craig,20164
 VA - Arlington - Craig,20165
 VA - Arlington - Craig,20166
+VA - Arlington - Craig,20167
 VA - Arlington - Craig,20168
 VA - Arlington - Craig,20170
 VA - Arlington - Craig,20171
@@ -10562,8 +10670,10 @@ WA - Renton - Davis,98188
 WA - Renton - Davis,98190
 WA - Renton - Davis,98198
 WA - Renton - Davis,98010
+WA - Renton - Davis,98022
 WA - Renton - Davis,98027
 WA - Renton - Davis,98038
+WA - Renton - Davis,98321
 WA - Renton - Davis,98360
 WA - Seattle Central - Olason,98101
 WA - Seattle Central - Olason,98102
@@ -10756,8 +10866,6 @@ WA - Tacoma - Christian/Evans,98490
 WA - Tacoma - Christian/Evans,98493
 WA - Tacoma - Christian/Evans,98360
 WA - Tacoma - Christian/Evans,98391
-WA - Tacoma - Christian/Evans,98503
-WA - Tacoma - Christian/Evans,98580
 WI - Germantown - Wetzel,53004
 WI - Germantown - Wetzel,53012
 WI - Germantown - Wetzel,53017
