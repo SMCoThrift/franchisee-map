@@ -263,6 +263,7 @@ AZ - Phoenix West - Harvin,85308
 AZ - Phoenix West - Harvin,85310
 AZ - Phoenix West - Harvin,85326
 AZ - Phoenix West - Harvin,85381
+AZ - Phoenix West - Harvin,85821
 AZ - Scottsdale - Graham,85010
 AZ - Scottsdale - Graham,85018
 AZ - Scottsdale - Graham,85054
@@ -300,14 +301,17 @@ CA - Carlsbad - Parsons,92057
 CA - Carlsbad - Parsons,92058
 CA - Carlsbad - Parsons,92068
 CA - Carlsbad - Parsons,92081
+CA - Carlsbad - Parsons,92003
 CA - Carlsbad - Parsons,92007
 CA - Carlsbad - Parsons,92014
 CA - Carlsbad - Parsons,92024
+CA - Carlsbad - Parsons,92028
 CA - Carlsbad - Parsons,92067
 CA - Carlsbad - Parsons,92075
 CA - Carlsbad - Parsons,92078
 CA - Carlsbad - Parsons,92083
 CA - Carlsbad - Parsons,92084
+CA - Carlsbad - Parsons,92088
 CA - Clovis - Dunn/Guenther,93611
 CA - Clovis - Dunn/Guenther,93612
 CA - Clovis - Dunn/Guenther,93613
@@ -470,6 +474,9 @@ CA - San Diego - Harris,92171
 CA - San Diego - Harris,92176
 CA - San Diego - Harris,92186
 CA - San Diego - Harris,92193
+CA - San Diego - Harris,91902
+CA - San Diego - Harris,91910
+CA - San Diego - Harris,91932
 CA - San Diego - Harris,92118
 CA - San Diego - Harris,92124
 CA - San Diego North - Allen,92037
@@ -2477,6 +2484,28 @@ GA - Columbus - Scott,36868
 GA - Columbus - Scott,36869
 GA - Columbus - Scott,36870
 GA - Columbus - Scott,36877
+GA - Griffin - Moss,30204
+GA - Griffin - Moss,30212
+GA - Griffin - Moss,30223
+GA - Griffin - Moss,30224
+GA - Griffin - Moss,30228
+GA - Griffin - Moss,30236
+GA - Griffin - Moss,30237
+GA - Griffin - Moss,30248
+GA - Griffin - Moss,30250
+GA - Griffin - Moss,30252
+GA - Griffin - Moss,30253
+GA - Griffin - Moss,30256
+GA - Griffin - Moss,30257
+GA - Griffin - Moss,30266
+GA - Griffin - Moss,30284
+GA - Griffin - Moss,30285
+GA - Griffin - Moss,30286
+GA - Griffin - Moss,30292
+GA - Griffin - Moss,30295
+GA - Griffin - Moss,31016
+GA - Griffin - Moss,31029
+GA - Griffin - Moss,31097
 GA - Jasper - Nieves/Holcombe,30028
 GA - Jasper - Nieves/Holcombe,30107
 GA - Jasper - Nieves/Holcombe,30115
@@ -2982,20 +3011,14 @@ IL - Lake County - Djokic,60208
 IL - Lake County - Djokic,60209
 IL - Lake County - Djokic,60004
 IL - Lake County - Djokic,60005
-IL - Lake County - Djokic,60008
 IL - Lake County - Djokic,60030
 IL - Lake County - Djokic,60031
 IL - Lake County - Djokic,60046
 IL - Lake County - Djokic,60053
 IL - Lake County - Djokic,60056
-IL - Lake County - Djokic,60067
-IL - Lake County - Djokic,60068
-IL - Lake County - Djokic,60073
 IL - Lake County - Djokic,60074
 IL - Lake County - Djokic,60076
 IL - Lake County - Djokic,60085
-IL - Lake County - Djokic,60173
-IL - Lake County - Djokic,60194
 IL - Lake County - Djokic,60714
 IL - Naperville - Cossyleon/Klimala,60440
 IL - Naperville - Cossyleon/Klimala,60490
@@ -7172,241 +7195,241 @@ NY - MT. Kisco - Jozefiak,10594
 NY - MT. Kisco - Jozefiak,10597
 NY - MT. Kisco - Jozefiak,10598
 NY - MT. Kisco - Jozefiak,12563
-NY - Westchester - Yewdell,10502
-NY - Westchester - Yewdell,10503
-NY - Westchester - Yewdell,10522
-NY - Westchester - Yewdell,10523
-NY - Westchester - Yewdell,10528
-NY - Westchester - Yewdell,10530
-NY - Westchester - Yewdell,10532
-NY - Westchester - Yewdell,10533
-NY - Westchester - Yewdell,10543
-NY - Westchester - Yewdell,10573
-NY - Westchester - Yewdell,10577
-NY - Westchester - Yewdell,10580
-NY - Westchester - Yewdell,10583
-NY - Westchester - Yewdell,10591
-NY - Westchester - Yewdell,10595
-NY - Westchester - Yewdell,10601
-NY - Westchester - Yewdell,10602
-NY - Westchester - Yewdell,10603
-NY - Westchester - Yewdell,10604
-NY - Westchester - Yewdell,10605
-NY - Westchester - Yewdell,10606
-NY - Westchester - Yewdell,10607
-NY - Westchester - Yewdell,10610
-NY - Westchester - Yewdell,6807
-NY - Westchester - Yewdell,6820
-NY - Westchester - Yewdell,6830
-NY - Westchester - Yewdell,6831
-NY - Westchester - Yewdell,6836
-NY - Westchester - Yewdell,6840
-NY - Westchester - Yewdell,6850
-NY - Westchester - Yewdell,6851
-NY - Westchester - Yewdell,6852
-NY - Westchester - Yewdell,6853
-NY - Westchester - Yewdell,6854
-NY - Westchester - Yewdell,6855
-NY - Westchester - Yewdell,6856
-NY - Westchester - Yewdell,6857
-NY - Westchester - Yewdell,6858
-NY - Westchester - Yewdell,6860
-NY - Westchester - Yewdell,6870
-NY - Westchester - Yewdell,6878
-NY - Westchester - Yewdell,6897
-NY - Westchester - Yewdell,6901
-NY - Westchester - Yewdell,6902
-NY - Westchester - Yewdell,6903
-NY - Westchester - Yewdell,6904
-NY - Westchester - Yewdell,6905
-NY - Westchester - Yewdell,6906
-NY - Westchester - Yewdell,6907
-NY - Westchester - Yewdell,6910
-NY - Westchester - Yewdell,6911
-NY - Westchester - Yewdell,6912
-NY - Westchester - Yewdell,6913
-NY - Westchester - Yewdell,6914
-NY - Westchester - Yewdell,6920
-NY - Westchester - Yewdell,6921
-NY - Westchester - Yewdell,6922
-NY - Westchester - Yewdell,6926
-NY - Westchester - Yewdell,6927
-NY - Westchester - Yewdell,10538
-NY - Westchester - Yewdell,10550
-NY - Westchester - Yewdell,10551
-NY - Westchester - Yewdell,10552
-NY - Westchester - Yewdell,10553
-NY - Westchester - Yewdell,10701
-NY - Westchester - Yewdell,10702
-NY - Westchester - Yewdell,10703
-NY - Westchester - Yewdell,10704
-NY - Westchester - Yewdell,10705
-NY - Westchester - Yewdell,10706
-NY - Westchester - Yewdell,10707
-NY - Westchester - Yewdell,10708
-NY - Westchester - Yewdell,10709
-NY - Westchester - Yewdell,10710
-NY - Westchester - Yewdell,10801
-NY - Westchester - Yewdell,10802
-NY - Westchester - Yewdell,10803
-NY - Westchester - Yewdell,10804
-NY - Westchester - Yewdell,10805
-NY - Westchester - Yewdell,6606
-NY - Westchester - Yewdell,6824
-NY - Westchester - Yewdell,6825
-NY - Westchester - Yewdell,6828
-NY - Westchester - Yewdell,6829
-NY - Westchester - Yewdell,6880
-NY - Westchester - Yewdell,6881
-NY - Westchester - Yewdell,6883
-NY - Westchester - Yewdell,6888
-NY - Westchester - Yewdell,6889
-NY - Westchester - Yewdell,6890
-NY - Westchester - Yewdell,10001
-NY - Westchester - Yewdell,10002
-NY - Westchester - Yewdell,10003
-NY - Westchester - Yewdell,10004
-NY - Westchester - Yewdell,10005
-NY - Westchester - Yewdell,10006
-NY - Westchester - Yewdell,10007
-NY - Westchester - Yewdell,10008
-NY - Westchester - Yewdell,10009
-NY - Westchester - Yewdell,10010
-NY - Westchester - Yewdell,10011
-NY - Westchester - Yewdell,10012
-NY - Westchester - Yewdell,10013
-NY - Westchester - Yewdell,10014
-NY - Westchester - Yewdell,10015
-NY - Westchester - Yewdell,10016
-NY - Westchester - Yewdell,10017
-NY - Westchester - Yewdell,10018
-NY - Westchester - Yewdell,10019
-NY - Westchester - Yewdell,10020
-NY - Westchester - Yewdell,10021
-NY - Westchester - Yewdell,10022
-NY - Westchester - Yewdell,10023
-NY - Westchester - Yewdell,10024
-NY - Westchester - Yewdell,10025
-NY - Westchester - Yewdell,10026
-NY - Westchester - Yewdell,10027
-NY - Westchester - Yewdell,10028
-NY - Westchester - Yewdell,10029
-NY - Westchester - Yewdell,10030
-NY - Westchester - Yewdell,10031
-NY - Westchester - Yewdell,10032
-NY - Westchester - Yewdell,10033
-NY - Westchester - Yewdell,10034
-NY - Westchester - Yewdell,10035
-NY - Westchester - Yewdell,10036
-NY - Westchester - Yewdell,10037
-NY - Westchester - Yewdell,10038
-NY - Westchester - Yewdell,10039
-NY - Westchester - Yewdell,10040
-NY - Westchester - Yewdell,10041
-NY - Westchester - Yewdell,10043
-NY - Westchester - Yewdell,10045
-NY - Westchester - Yewdell,10055
-NY - Westchester - Yewdell,10060
-NY - Westchester - Yewdell,10065
-NY - Westchester - Yewdell,10069
-NY - Westchester - Yewdell,10075
-NY - Westchester - Yewdell,10080
-NY - Westchester - Yewdell,10081
-NY - Westchester - Yewdell,10087
-NY - Westchester - Yewdell,10090
-NY - Westchester - Yewdell,10095
-NY - Westchester - Yewdell,10101
-NY - Westchester - Yewdell,10102
-NY - Westchester - Yewdell,10103
-NY - Westchester - Yewdell,10104
-NY - Westchester - Yewdell,10105
-NY - Westchester - Yewdell,10106
-NY - Westchester - Yewdell,10107
-NY - Westchester - Yewdell,10108
-NY - Westchester - Yewdell,10109
-NY - Westchester - Yewdell,10110
-NY - Westchester - Yewdell,10111
-NY - Westchester - Yewdell,10112
-NY - Westchester - Yewdell,10113
-NY - Westchester - Yewdell,10114
-NY - Westchester - Yewdell,10115
-NY - Westchester - Yewdell,10116
-NY - Westchester - Yewdell,10117
-NY - Westchester - Yewdell,10118
-NY - Westchester - Yewdell,10119
-NY - Westchester - Yewdell,10120
-NY - Westchester - Yewdell,10121
-NY - Westchester - Yewdell,10122
-NY - Westchester - Yewdell,10123
-NY - Westchester - Yewdell,10124
-NY - Westchester - Yewdell,10125
-NY - Westchester - Yewdell,10126
-NY - Westchester - Yewdell,10128
-NY - Westchester - Yewdell,10129
-NY - Westchester - Yewdell,10130
-NY - Westchester - Yewdell,10131
-NY - Westchester - Yewdell,10132
-NY - Westchester - Yewdell,10133
-NY - Westchester - Yewdell,10138
-NY - Westchester - Yewdell,10150
-NY - Westchester - Yewdell,10151
-NY - Westchester - Yewdell,10152
-NY - Westchester - Yewdell,10153
-NY - Westchester - Yewdell,10154
-NY - Westchester - Yewdell,10155
-NY - Westchester - Yewdell,10156
-NY - Westchester - Yewdell,10157
-NY - Westchester - Yewdell,10158
-NY - Westchester - Yewdell,10159
-NY - Westchester - Yewdell,10160
-NY - Westchester - Yewdell,10161
-NY - Westchester - Yewdell,10162
-NY - Westchester - Yewdell,10163
-NY - Westchester - Yewdell,10450
-NY - Westchester - Yewdell,10451
-NY - Westchester - Yewdell,10452
-NY - Westchester - Yewdell,10453
-NY - Westchester - Yewdell,10454
-NY - Westchester - Yewdell,10455
-NY - Westchester - Yewdell,10456
-NY - Westchester - Yewdell,10457
-NY - Westchester - Yewdell,10458
-NY - Westchester - Yewdell,10459
-NY - Westchester - Yewdell,10460
-NY - Westchester - Yewdell,10461
-NY - Westchester - Yewdell,10462
-NY - Westchester - Yewdell,10463
-NY - Westchester - Yewdell,10464
-NY - Westchester - Yewdell,10465
-NY - Westchester - Yewdell,10466
-NY - Westchester - Yewdell,10467
-NY - Westchester - Yewdell,10468
-NY - Westchester - Yewdell,10469
-NY - Westchester - Yewdell,10470
-NY - Westchester - Yewdell,10471
-NY - Westchester - Yewdell,10472
-NY - Westchester - Yewdell,10473
-NY - Westchester - Yewdell,10474
-NY - Westchester - Yewdell,10475
-NY - Westchester - Yewdell,10477
-NY - Westchester - Yewdell,10499
-NY - Westchester - Yewdell,10557
-NY - Westchester - Yewdell,10558
-NY - Westchester - Yewdell,10559
-NY - Westchester - Yewdell,10913
-NY - Westchester - Yewdell,10920
-NY - Westchester - Yewdell,10954
-NY - Westchester - Yewdell,10956
-NY - Westchester - Yewdell,10960
-NY - Westchester - Yewdell,10962
-NY - Westchester - Yewdell,10964
-NY - Westchester - Yewdell,10965
-NY - Westchester - Yewdell,10968
-NY - Westchester - Yewdell,10976
-NY - Westchester - Yewdell,10977
-NY - Westchester - Yewdell,10983
-NY - Westchester - Yewdell,10989
-NY - Westchester - Yewdell,10994
+NY - Westchester - Corp,10502
+NY - Westchester - Corp,10503
+NY - Westchester - Corp,10522
+NY - Westchester - Corp,10523
+NY - Westchester - Corp,10528
+NY - Westchester - Corp,10530
+NY - Westchester - Corp,10532
+NY - Westchester - Corp,10533
+NY - Westchester - Corp,10543
+NY - Westchester - Corp,10573
+NY - Westchester - Corp,10577
+NY - Westchester - Corp,10580
+NY - Westchester - Corp,10583
+NY - Westchester - Corp,10591
+NY - Westchester - Corp,10595
+NY - Westchester - Corp,10601
+NY - Westchester - Corp,10602
+NY - Westchester - Corp,10603
+NY - Westchester - Corp,10604
+NY - Westchester - Corp,10605
+NY - Westchester - Corp,10606
+NY - Westchester - Corp,10607
+NY - Westchester - Corp,10610
+NY - Westchester - Corp,6807
+NY - Westchester - Corp,6820
+NY - Westchester - Corp,6830
+NY - Westchester - Corp,6831
+NY - Westchester - Corp,6836
+NY - Westchester - Corp,6840
+NY - Westchester - Corp,6850
+NY - Westchester - Corp,6851
+NY - Westchester - Corp,6852
+NY - Westchester - Corp,6853
+NY - Westchester - Corp,6854
+NY - Westchester - Corp,6855
+NY - Westchester - Corp,6856
+NY - Westchester - Corp,6857
+NY - Westchester - Corp,6858
+NY - Westchester - Corp,6860
+NY - Westchester - Corp,6870
+NY - Westchester - Corp,6878
+NY - Westchester - Corp,6897
+NY - Westchester - Corp,6901
+NY - Westchester - Corp,6902
+NY - Westchester - Corp,6903
+NY - Westchester - Corp,6904
+NY - Westchester - Corp,6905
+NY - Westchester - Corp,6906
+NY - Westchester - Corp,6907
+NY - Westchester - Corp,6910
+NY - Westchester - Corp,6911
+NY - Westchester - Corp,6912
+NY - Westchester - Corp,6913
+NY - Westchester - Corp,6914
+NY - Westchester - Corp,6920
+NY - Westchester - Corp,6921
+NY - Westchester - Corp,6922
+NY - Westchester - Corp,6926
+NY - Westchester - Corp,6927
+NY - Westchester - Corp,10538
+NY - Westchester - Corp,10550
+NY - Westchester - Corp,10551
+NY - Westchester - Corp,10552
+NY - Westchester - Corp,10553
+NY - Westchester - Corp,10701
+NY - Westchester - Corp,10702
+NY - Westchester - Corp,10703
+NY - Westchester - Corp,10704
+NY - Westchester - Corp,10705
+NY - Westchester - Corp,10706
+NY - Westchester - Corp,10707
+NY - Westchester - Corp,10708
+NY - Westchester - Corp,10709
+NY - Westchester - Corp,10710
+NY - Westchester - Corp,10801
+NY - Westchester - Corp,10802
+NY - Westchester - Corp,10803
+NY - Westchester - Corp,10804
+NY - Westchester - Corp,10805
+NY - Westchester - Corp,6606
+NY - Westchester - Corp,6824
+NY - Westchester - Corp,6825
+NY - Westchester - Corp,6828
+NY - Westchester - Corp,6829
+NY - Westchester - Corp,6880
+NY - Westchester - Corp,6881
+NY - Westchester - Corp,6883
+NY - Westchester - Corp,6888
+NY - Westchester - Corp,6889
+NY - Westchester - Corp,6890
+NY - Westchester - Corp,10001
+NY - Westchester - Corp,10002
+NY - Westchester - Corp,10003
+NY - Westchester - Corp,10004
+NY - Westchester - Corp,10005
+NY - Westchester - Corp,10006
+NY - Westchester - Corp,10007
+NY - Westchester - Corp,10008
+NY - Westchester - Corp,10009
+NY - Westchester - Corp,10010
+NY - Westchester - Corp,10011
+NY - Westchester - Corp,10012
+NY - Westchester - Corp,10013
+NY - Westchester - Corp,10014
+NY - Westchester - Corp,10015
+NY - Westchester - Corp,10016
+NY - Westchester - Corp,10017
+NY - Westchester - Corp,10018
+NY - Westchester - Corp,10019
+NY - Westchester - Corp,10020
+NY - Westchester - Corp,10021
+NY - Westchester - Corp,10022
+NY - Westchester - Corp,10023
+NY - Westchester - Corp,10024
+NY - Westchester - Corp,10025
+NY - Westchester - Corp,10026
+NY - Westchester - Corp,10027
+NY - Westchester - Corp,10028
+NY - Westchester - Corp,10029
+NY - Westchester - Corp,10030
+NY - Westchester - Corp,10031
+NY - Westchester - Corp,10032
+NY - Westchester - Corp,10033
+NY - Westchester - Corp,10034
+NY - Westchester - Corp,10035
+NY - Westchester - Corp,10036
+NY - Westchester - Corp,10037
+NY - Westchester - Corp,10038
+NY - Westchester - Corp,10039
+NY - Westchester - Corp,10040
+NY - Westchester - Corp,10041
+NY - Westchester - Corp,10043
+NY - Westchester - Corp,10045
+NY - Westchester - Corp,10055
+NY - Westchester - Corp,10060
+NY - Westchester - Corp,10065
+NY - Westchester - Corp,10069
+NY - Westchester - Corp,10075
+NY - Westchester - Corp,10080
+NY - Westchester - Corp,10081
+NY - Westchester - Corp,10087
+NY - Westchester - Corp,10090
+NY - Westchester - Corp,10095
+NY - Westchester - Corp,10101
+NY - Westchester - Corp,10102
+NY - Westchester - Corp,10103
+NY - Westchester - Corp,10104
+NY - Westchester - Corp,10105
+NY - Westchester - Corp,10106
+NY - Westchester - Corp,10107
+NY - Westchester - Corp,10108
+NY - Westchester - Corp,10109
+NY - Westchester - Corp,10110
+NY - Westchester - Corp,10111
+NY - Westchester - Corp,10112
+NY - Westchester - Corp,10113
+NY - Westchester - Corp,10114
+NY - Westchester - Corp,10115
+NY - Westchester - Corp,10116
+NY - Westchester - Corp,10117
+NY - Westchester - Corp,10118
+NY - Westchester - Corp,10119
+NY - Westchester - Corp,10120
+NY - Westchester - Corp,10121
+NY - Westchester - Corp,10122
+NY - Westchester - Corp,10123
+NY - Westchester - Corp,10124
+NY - Westchester - Corp,10125
+NY - Westchester - Corp,10126
+NY - Westchester - Corp,10128
+NY - Westchester - Corp,10129
+NY - Westchester - Corp,10130
+NY - Westchester - Corp,10131
+NY - Westchester - Corp,10132
+NY - Westchester - Corp,10133
+NY - Westchester - Corp,10138
+NY - Westchester - Corp,10150
+NY - Westchester - Corp,10151
+NY - Westchester - Corp,10152
+NY - Westchester - Corp,10153
+NY - Westchester - Corp,10154
+NY - Westchester - Corp,10155
+NY - Westchester - Corp,10156
+NY - Westchester - Corp,10157
+NY - Westchester - Corp,10158
+NY - Westchester - Corp,10159
+NY - Westchester - Corp,10160
+NY - Westchester - Corp,10161
+NY - Westchester - Corp,10162
+NY - Westchester - Corp,10163
+NY - Westchester - Corp,10450
+NY - Westchester - Corp,10451
+NY - Westchester - Corp,10452
+NY - Westchester - Corp,10453
+NY - Westchester - Corp,10454
+NY - Westchester - Corp,10455
+NY - Westchester - Corp,10456
+NY - Westchester - Corp,10457
+NY - Westchester - Corp,10458
+NY - Westchester - Corp,10459
+NY - Westchester - Corp,10460
+NY - Westchester - Corp,10461
+NY - Westchester - Corp,10462
+NY - Westchester - Corp,10463
+NY - Westchester - Corp,10464
+NY - Westchester - Corp,10465
+NY - Westchester - Corp,10466
+NY - Westchester - Corp,10467
+NY - Westchester - Corp,10468
+NY - Westchester - Corp,10469
+NY - Westchester - Corp,10470
+NY - Westchester - Corp,10471
+NY - Westchester - Corp,10472
+NY - Westchester - Corp,10473
+NY - Westchester - Corp,10474
+NY - Westchester - Corp,10475
+NY - Westchester - Corp,10477
+NY - Westchester - Corp,10499
+NY - Westchester - Corp,10557
+NY - Westchester - Corp,10558
+NY - Westchester - Corp,10559
+NY - Westchester - Corp,10913
+NY - Westchester - Corp,10920
+NY - Westchester - Corp,10954
+NY - Westchester - Corp,10956
+NY - Westchester - Corp,10960
+NY - Westchester - Corp,10962
+NY - Westchester - Corp,10964
+NY - Westchester - Corp,10965
+NY - Westchester - Corp,10968
+NY - Westchester - Corp,10976
+NY - Westchester - Corp,10977
+NY - Westchester - Corp,10983
+NY - Westchester - Corp,10989
+NY - Westchester - Corp,10994
 OH - Cincinnati - Rogers,45040
 OH - Cincinnati - Rogers,45069
 OH - Cincinnati - Rogers,45071
@@ -7632,22 +7655,28 @@ OH - Columbus North - Francis,43336
 OH - Columbus North - Francis,43342
 OH - Columbus North - Francis,43344
 OH - Columbus North - Francis,43356
+OH - Columbus North - Francis,43001
 OH - Columbus North - Francis,43017
+OH - Columbus North - Francis,43023
 OH - Columbus North - Francis,43026
+OH - Columbus North - Francis,43031
 OH - Columbus North - Francis,43054
+OH - Columbus North - Francis,43055
+OH - Columbus North - Francis,43062
 OH - Columbus North - Francis,43065
 OH - Columbus North - Francis,43085
 OH - Columbus North - Francis,43209
+OH - Columbus North - Francis,43212
 OH - Columbus North - Francis,43214
 OH - Columbus North - Francis,43215
 OH - Columbus North - Francis,43221
 OH - Columbus North - Francis,43224
 OH - Columbus North - Francis,43235
+OH - Columbus North - Francis,43324
 OK - Oklahoma City - Dufek,73020
 OK - Oklahoma City - Dufek,73066
 OK - Oklahoma City - Dufek,73069
 OK - Oklahoma City - Dufek,73070
-OK - Oklahoma City - Dufek,73071
 OK - Oklahoma City - Dufek,73072
 OK - Oklahoma City - Dufek,73109
 OK - Oklahoma City - Dufek,73115
@@ -7665,6 +7694,7 @@ OK - Oklahoma City - Dufek,73160
 OK - Oklahoma City - Dufek,73165
 OK - Oklahoma City - Dufek,73170
 OK - Oklahoma City - Dufek,73190
+OK - Oklahoma City - Dufek,73071
 OK - Oklahoma City - Dufek,73003
 OK - Oklahoma City - Dufek,73012
 OK - Oklahoma City - Dufek,73013
@@ -8493,96 +8523,7 @@ PA - Pittsburgh West - Charles,15221
 PA - Pittsburgh West - Charles,15224
 PA - Pittsburgh West - Charles,15227
 PA - Pittsburgh West - Charles,15232
-PA - South Chester - Lawrie,17011
-PA - South Chester - Lawrie,17025
-PA - South Chester - Lawrie,17033
-PA - South Chester - Lawrie,17036
-PA - South Chester - Lawrie,17043
-PA - South Chester - Lawrie,17057
-PA - South Chester - Lawrie,17070
-PA - South Chester - Lawrie,17078
-PA - South Chester - Lawrie,17101
-PA - South Chester - Lawrie,17102
-PA - South Chester - Lawrie,17103
-PA - South Chester - Lawrie,17104
-PA - South Chester - Lawrie,17105
-PA - South Chester - Lawrie,17108
-PA - South Chester - Lawrie,17110
-PA - South Chester - Lawrie,17112
-PA - South Chester - Lawrie,17113
-PA - South Chester - Lawrie,17120
-PA - South Chester - Lawrie,17121
-PA - South Chester - Lawrie,17122
-PA - South Chester - Lawrie,17123
-PA - South Chester - Lawrie,17124
-PA - South Chester - Lawrie,17125
-PA - South Chester - Lawrie,17126
-PA - South Chester - Lawrie,17127
-PA - South Chester - Lawrie,17128
-PA - South Chester - Lawrie,17129
-PA - South Chester - Lawrie,17130
-PA - South Chester - Lawrie,17368
-PA - South Chester - Lawrie,17541
-PA - South Chester - Lawrie,19565
-PA - South Chester - Lawrie,19601
-PA - South Chester - Lawrie,19604
-PA - South Chester - Lawrie,19606
-PA - South Chester - Lawrie,19701
-PA - South Chester - Lawrie,19702
-PA - South Chester - Lawrie,19703
-PA - South Chester - Lawrie,19706
 PA - South Chester - Lawrie,19707
-PA - South Chester - Lawrie,19709
-PA - South Chester - Lawrie,19710
-PA - South Chester - Lawrie,19711
-PA - South Chester - Lawrie,19713
-PA - South Chester - Lawrie,19716
-PA - South Chester - Lawrie,19717
-PA - South Chester - Lawrie,19720
-PA - South Chester - Lawrie,19730
-PA - South Chester - Lawrie,19731
-PA - South Chester - Lawrie,19732
-PA - South Chester - Lawrie,19733
-PA - South Chester - Lawrie,19734
-PA - South Chester - Lawrie,19735
-PA - South Chester - Lawrie,19736
-PA - South Chester - Lawrie,19801
-PA - South Chester - Lawrie,19802
-PA - South Chester - Lawrie,19803
-PA - South Chester - Lawrie,19804
-PA - South Chester - Lawrie,19805
-PA - South Chester - Lawrie,19806
-PA - South Chester - Lawrie,19807
-PA - South Chester - Lawrie,19808
-PA - South Chester - Lawrie,19809
-PA - South Chester - Lawrie,19810
-PA - South Chester - Lawrie,19901
-PA - South Chester - Lawrie,19902
-PA - South Chester - Lawrie,19904
-PA - South Chester - Lawrie,19934
-PA - South Chester - Lawrie,19936
-PA - South Chester - Lawrie,19938
-PA - South Chester - Lawrie,19953
-PA - South Chester - Lawrie,19955
-PA - South Chester - Lawrie,19964
-PA - South Chester - Lawrie,19977
-PA - South Chester - Lawrie,21013
-PA - South Chester - Lawrie,21030
-PA - South Chester - Lawrie,21047
-PA - South Chester - Lawrie,21093
-PA - South Chester - Lawrie,21117
-PA - South Chester - Lawrie,21201
-PA - South Chester - Lawrie,21204
-PA - South Chester - Lawrie,21206
-PA - South Chester - Lawrie,21208
-PA - South Chester - Lawrie,21209
-PA - South Chester - Lawrie,21211
-PA - South Chester - Lawrie,21213
-PA - South Chester - Lawrie,21218
-PA - South Chester - Lawrie,21219
-PA - South Chester - Lawrie,21221
-PA - South Chester - Lawrie,21234
-PA - South Chester - Lawrie,21244
 RI - Providence - DeNunzio,2806
 RI - Providence - DeNunzio,2809
 RI - Providence - DeNunzio,2885
@@ -8965,21 +8906,38 @@ TN - Knoxville - Secore,37830
 TN - Knoxville - Secore,37831
 TN - Knoxville - Secore,37853
 TN - Knoxville - Secore,37865
+TN - Knoxville - Secore,37354
 TN - Knoxville - Secore,37385
 TN - Knoxville - Secore,37705
 TN - Knoxville - Secore,37716
+TN - Knoxville - Secore,37717
+TN - Knoxville - Secore,37721
 TN - Knoxville - Secore,37725
 TN - Knoxville - Secore,37738
+TN - Knoxville - Secore,37748
+TN - Knoxville - Secore,37754
 TN - Knoxville - Secore,37760
 TN - Knoxville - Secore,37763
+TN - Knoxville - Secore,37764
+TN - Knoxville - Secore,37806
+TN - Knoxville - Secore,37813
+TN - Knoxville - Secore,37814
+TN - Knoxville - Secore,37820
+TN - Knoxville - Secore,37826
+TN - Knoxville - Secore,37829
 TN - Knoxville - Secore,37840
 TN - Knoxville - Secore,37846
 TN - Knoxville - Secore,37854
 TN - Knoxville - Secore,37862
+TN - Knoxville - Secore,37863
 TN - Knoxville - Secore,37874
 TN - Knoxville - Secore,37876
+TN - Knoxville - Secore,37877
+TN - Knoxville - Secore,37878
 TN - Knoxville - Secore,37882
+TN - Knoxville - Secore,37885
 TN - Knoxville - Secore,37886
+TN - Knoxville - Secore,37890
 TN - Nashville - Lombardi,37011
 TN - Nashville - Lombardi,37013
 TN - Nashville - Lombardi,37014
@@ -9657,6 +9615,23 @@ TX - Dallas Central - Syed,76021
 TX - Dallas Central - Syed,76034
 TX - Dallas Central - Syed,76039
 TX - Dallas Central - Syed,76092
+TX - Denton - Ablitt,75065
+TX - Denton - Ablitt,75068
+TX - Denton - Ablitt,75077
+TX - Denton - Ablitt,76201
+TX - Denton - Ablitt,76202
+TX - Denton - Ablitt,76203
+TX - Denton - Ablitt,76204
+TX - Denton - Ablitt,76205
+TX - Denton - Ablitt,76206
+TX - Denton - Ablitt,76208
+TX - Denton - Ablitt,76209
+TX - Denton - Ablitt,76210
+TX - Denton - Ablitt,76227
+TX - Denton - Ablitt,76233
+TX - Denton - Ablitt,76258
+TX - Denton - Ablitt,76271
+TX - Denton - Ablitt,76272
 TX - Eldridge - Mance,77042
 TX - Eldridge - Mance,77072
 TX - Eldridge - Mance,77077
@@ -9862,6 +9837,7 @@ TX - League City - Wilkins,77592
 TX - League City - Wilkins,77047
 TX - League City - Wilkins,77059
 TX - League City - Wilkins,77062
+TX - League City - Wilkins,77505
 TX - League City - Wilkins,77546
 TX - League City - Wilkins,77571
 TX - League City - Wilkins,77572
@@ -10018,7 +9994,6 @@ TX - Waco - Mills,76716
 TX - Waco - Mills,76797
 TX - Waco - Mills,76798
 TX - Waco - Mills,76799
-TX - Waco - Mills,76544
 TX - Waco - Mills,76633
 TX - Waco - Mills,76638
 TX - Waco - Mills,76645
