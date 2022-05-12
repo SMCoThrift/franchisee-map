@@ -59,6 +59,7 @@ $franchisees_map = [
   'GA - Augusta - McKinney' => 272506,
   'GA - Columbus - Scott' => 435024,
   'GA - Douglasville - Copenhaver/Hammer/Ison' => 290128,
+  'GA - Griffin - Moss' => 443225,
 	'GA - Jasper - Nieves/Holcombe' => 366529,
   'GA - Macon - Corn' => 257892,
   'GA - Marietta - Ihm' => 257853,
