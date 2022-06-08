@@ -186,6 +186,7 @@ AR - Springdale - Hudgeons,72702
 AR - Springdale - Hudgeons,72703
 AR - Springdale - Hudgeons,72704
 AR - Springdale - Hudgeons,72712
+AR - Springdale - Hudgeons,72713
 AR - Springdale - Hudgeons,72716
 AR - Springdale - Hudgeons,72718
 AR - Springdale - Hudgeons,72719
@@ -205,6 +206,7 @@ AR - Springdale - Hudgeons,72766
 AR - Springdale - Hudgeons,72770
 AR - Springdale - Hudgeons,72774
 AR - Springdale - Hudgeons,72756
+AR - Springdale - Hudgeons,72761
 AZ - Phoenix West - Harvin,85031
 AZ - Phoenix West - Harvin,85033
 AZ - Phoenix West - Harvin,85035
@@ -238,7 +240,6 @@ AZ - Phoenix West - Harvin,85378
 AZ - Phoenix West - Harvin,85379
 AZ - Phoenix West - Harvin,85380
 AZ - Phoenix West - Harvin,85382
-AZ - Phoenix West - Harvin,85385
 AZ - Phoenix West - Harvin,85388
 AZ - Phoenix West - Harvin,85396
 AZ - Phoenix West - Harvin,85373
@@ -378,6 +379,8 @@ CA - Fresno - Gragnani,93793
 CA - Fresno - Gragnani,93794
 CA - Fresno - Gragnani,93844
 CA - Fresno - Gragnani,93888
+CA - Fresno - Gragnani,93610
+CA - Fresno - Gragnani,93626
 CA - Palo Alto - Marquez,94010
 CA - Palo Alto - Marquez,94011
 CA - Palo Alto - Marquez,94019
@@ -1419,53 +1422,53 @@ FL - Jacksonville - Tully,32136
 FL - Jacksonville - Tully,32137
 FL - Jacksonville - Tully,32164
 FL - Jacksonville - Tully,32189
-FL - Miami - Soliman/Murphy/Richards,33101
-FL - Miami - Soliman/Murphy/Richards,33102
-FL - Miami - Soliman/Murphy/Richards,33111
-FL - Miami - Soliman/Murphy/Richards,33114
-FL - Miami - Soliman/Murphy/Richards,33119
-FL - Miami - Soliman/Murphy/Richards,33122
-FL - Miami - Soliman/Murphy/Richards,33124
-FL - Miami - Soliman/Murphy/Richards,33125
-FL - Miami - Soliman/Murphy/Richards,33126
-FL - Miami - Soliman/Murphy/Richards,33128
-FL - Miami - Soliman/Murphy/Richards,33129
-FL - Miami - Soliman/Murphy/Richards,33130
-FL - Miami - Soliman/Murphy/Richards,33131
-FL - Miami - Soliman/Murphy/Richards,33132
-FL - Miami - Soliman/Murphy/Richards,33133
-FL - Miami - Soliman/Murphy/Richards,33134
-FL - Miami - Soliman/Murphy/Richards,33135
-FL - Miami - Soliman/Murphy/Richards,33136
-FL - Miami - Soliman/Murphy/Richards,33139
-FL - Miami - Soliman/Murphy/Richards,33143
-FL - Miami - Soliman/Murphy/Richards,33144
-FL - Miami - Soliman/Murphy/Richards,33145
-FL - Miami - Soliman/Murphy/Richards,33146
-FL - Miami - Soliman/Murphy/Richards,33149
-FL - Miami - Soliman/Murphy/Richards,33151
-FL - Miami - Soliman/Murphy/Richards,33155
-FL - Miami - Soliman/Murphy/Richards,33156
-FL - Miami - Soliman/Murphy/Richards,33158
-FL - Miami - Soliman/Murphy/Richards,33165
-FL - Miami - Soliman/Murphy/Richards,33172
-FL - Miami - Soliman/Murphy/Richards,33173
-FL - Miami - Soliman/Murphy/Richards,33174
-FL - Miami - Soliman/Murphy/Richards,33182
-FL - Miami - Soliman/Murphy/Richards,33184
-FL - Miami - Soliman/Murphy/Richards,33188
-FL - Miami - Soliman/Murphy/Richards,33192
-FL - Miami - Soliman/Murphy/Richards,33199
-FL - Miami - Soliman/Murphy/Richards,33222
-FL - Miami - Soliman/Murphy/Richards,33231
-FL - Miami - Soliman/Murphy/Richards,33233
-FL - Miami - Soliman/Murphy/Richards,33234
-FL - Miami - Soliman/Murphy/Richards,33239
-FL - Miami - Soliman/Murphy/Richards,33243
-FL - Miami - Soliman/Murphy/Richards,33245
-FL - Miami - Soliman/Murphy/Richards,33255
-FL - Miami - Soliman/Murphy/Richards,33256
-FL - Miami - Soliman/Murphy/Richards,34034
+FL - Miami - Richards,33101
+FL - Miami - Richards,33102
+FL - Miami - Richards,33111
+FL - Miami - Richards,33114
+FL - Miami - Richards,33119
+FL - Miami - Richards,33122
+FL - Miami - Richards,33124
+FL - Miami - Richards,33125
+FL - Miami - Richards,33126
+FL - Miami - Richards,33128
+FL - Miami - Richards,33129
+FL - Miami - Richards,33130
+FL - Miami - Richards,33131
+FL - Miami - Richards,33132
+FL - Miami - Richards,33133
+FL - Miami - Richards,33134
+FL - Miami - Richards,33135
+FL - Miami - Richards,33136
+FL - Miami - Richards,33139
+FL - Miami - Richards,33143
+FL - Miami - Richards,33144
+FL - Miami - Richards,33145
+FL - Miami - Richards,33146
+FL - Miami - Richards,33149
+FL - Miami - Richards,33151
+FL - Miami - Richards,33155
+FL - Miami - Richards,33156
+FL - Miami - Richards,33158
+FL - Miami - Richards,33165
+FL - Miami - Richards,33172
+FL - Miami - Richards,33173
+FL - Miami - Richards,33174
+FL - Miami - Richards,33182
+FL - Miami - Richards,33184
+FL - Miami - Richards,33188
+FL - Miami - Richards,33192
+FL - Miami - Richards,33199
+FL - Miami - Richards,33222
+FL - Miami - Richards,33231
+FL - Miami - Richards,33233
+FL - Miami - Richards,33234
+FL - Miami - Richards,33239
+FL - Miami - Richards,33243
+FL - Miami - Richards,33245
+FL - Miami - Richards,33255
+FL - Miami - Richards,33256
+FL - Miami - Richards,34034
 FL - Miami Beach - Garcia/Gomez,33109
 FL - Miami Beach - Garcia/Gomez,33127
 FL - Miami Beach - Garcia/Gomez,33137
@@ -1996,128 +1999,128 @@ FL - Sarasota - Bailey,34293
 FL - Sarasota - Bailey,34295
 FL - Sarasota - Bailey,34216
 FL - Sarasota - Bailey,34220
-FL - St. Petersburg - Underwood/Ignacio,33708
-FL - St. Petersburg - Underwood/Ignacio,33729
-FL - St. Petersburg - Underwood/Ignacio,33738
-FL - St. Petersburg - Underwood/Ignacio,33744
-FL - St. Petersburg - Underwood/Ignacio,33755
-FL - St. Petersburg - Underwood/Ignacio,33756
-FL - St. Petersburg - Underwood/Ignacio,33757
-FL - St. Petersburg - Underwood/Ignacio,33758
-FL - St. Petersburg - Underwood/Ignacio,33759
-FL - St. Petersburg - Underwood/Ignacio,33760
-FL - St. Petersburg - Underwood/Ignacio,33762
-FL - St. Petersburg - Underwood/Ignacio,33763
-FL - St. Petersburg - Underwood/Ignacio,33764
-FL - St. Petersburg - Underwood/Ignacio,33765
-FL - St. Petersburg - Underwood/Ignacio,33766
-FL - St. Petersburg - Underwood/Ignacio,33767
-FL - St. Petersburg - Underwood/Ignacio,33769
-FL - St. Petersburg - Underwood/Ignacio,33770
-FL - St. Petersburg - Underwood/Ignacio,33771
-FL - St. Petersburg - Underwood/Ignacio,33772
-FL - St. Petersburg - Underwood/Ignacio,33773
-FL - St. Petersburg - Underwood/Ignacio,33774
-FL - St. Petersburg - Underwood/Ignacio,33775
-FL - St. Petersburg - Underwood/Ignacio,33776
-FL - St. Petersburg - Underwood/Ignacio,33777
-FL - St. Petersburg - Underwood/Ignacio,33778
-FL - St. Petersburg - Underwood/Ignacio,33779
-FL - St. Petersburg - Underwood/Ignacio,33780
-FL - St. Petersburg - Underwood/Ignacio,33785
-FL - St. Petersburg - Underwood/Ignacio,33786
-FL - St. Petersburg - Underwood/Ignacio,34697
-FL - St. Petersburg - Underwood/Ignacio,33523
-FL - St. Petersburg - Underwood/Ignacio,33525
-FL - St. Petersburg - Underwood/Ignacio,33526
-FL - St. Petersburg - Underwood/Ignacio,33537
-FL - St. Petersburg - Underwood/Ignacio,33545
-FL - St. Petersburg - Underwood/Ignacio,33574
-FL - St. Petersburg - Underwood/Ignacio,33576
-FL - St. Petersburg - Underwood/Ignacio,33593
-FL - St. Petersburg - Underwood/Ignacio,34436
-FL - St. Petersburg - Underwood/Ignacio,34446
-FL - St. Petersburg - Underwood/Ignacio,34447
-FL - St. Petersburg - Underwood/Ignacio,34448
-FL - St. Petersburg - Underwood/Ignacio,34450
-FL - St. Petersburg - Underwood/Ignacio,34451
-FL - St. Petersburg - Underwood/Ignacio,34452
-FL - St. Petersburg - Underwood/Ignacio,34453
-FL - St. Petersburg - Underwood/Ignacio,34460
-FL - St. Petersburg - Underwood/Ignacio,34461
-FL - St. Petersburg - Underwood/Ignacio,34487
-FL - St. Petersburg - Underwood/Ignacio,34601
-FL - St. Petersburg - Underwood/Ignacio,34602
-FL - St. Petersburg - Underwood/Ignacio,34603
-FL - St. Petersburg - Underwood/Ignacio,34604
-FL - St. Petersburg - Underwood/Ignacio,34605
-FL - St. Petersburg - Underwood/Ignacio,34606
-FL - St. Petersburg - Underwood/Ignacio,34607
-FL - St. Petersburg - Underwood/Ignacio,34608
-FL - St. Petersburg - Underwood/Ignacio,34609
-FL - St. Petersburg - Underwood/Ignacio,34610
-FL - St. Petersburg - Underwood/Ignacio,34611
-FL - St. Petersburg - Underwood/Ignacio,34613
-FL - St. Petersburg - Underwood/Ignacio,34614
-FL - St. Petersburg - Underwood/Ignacio,34636
-FL - St. Petersburg - Underwood/Ignacio,34661
-FL - St. Petersburg - Underwood/Ignacio,34667
-FL - St. Petersburg - Underwood/Ignacio,34669
-FL - St. Petersburg - Underwood/Ignacio,34674
-FL - St. Petersburg - Underwood/Ignacio,33761
-FL - St. Petersburg - Underwood/Ignacio,34652
-FL - St. Petersburg - Underwood/Ignacio,34653
-FL - St. Petersburg - Underwood/Ignacio,34654
-FL - St. Petersburg - Underwood/Ignacio,34655
-FL - St. Petersburg - Underwood/Ignacio,34656
-FL - St. Petersburg - Underwood/Ignacio,34660
-FL - St. Petersburg - Underwood/Ignacio,34668
-FL - St. Petersburg - Underwood/Ignacio,34673
-FL - St. Petersburg - Underwood/Ignacio,34677
-FL - St. Petersburg - Underwood/Ignacio,34680
-FL - St. Petersburg - Underwood/Ignacio,34682
-FL - St. Petersburg - Underwood/Ignacio,34683
-FL - St. Petersburg - Underwood/Ignacio,34684
-FL - St. Petersburg - Underwood/Ignacio,34685
-FL - St. Petersburg - Underwood/Ignacio,34688
-FL - St. Petersburg - Underwood/Ignacio,34689
-FL - St. Petersburg - Underwood/Ignacio,34690
-FL - St. Petersburg - Underwood/Ignacio,34691
-FL - St. Petersburg - Underwood/Ignacio,34692
-FL - St. Petersburg - Underwood/Ignacio,34695
-FL - St. Petersburg - Underwood/Ignacio,34698
-FL - St. Petersburg - Underwood/Ignacio,33701
-FL - St. Petersburg - Underwood/Ignacio,33702
-FL - St. Petersburg - Underwood/Ignacio,33703
-FL - St. Petersburg - Underwood/Ignacio,33704
-FL - St. Petersburg - Underwood/Ignacio,33705
-FL - St. Petersburg - Underwood/Ignacio,33706
-FL - St. Petersburg - Underwood/Ignacio,33707
-FL - St. Petersburg - Underwood/Ignacio,33709
-FL - St. Petersburg - Underwood/Ignacio,33710
-FL - St. Petersburg - Underwood/Ignacio,33711
-FL - St. Petersburg - Underwood/Ignacio,33712
-FL - St. Petersburg - Underwood/Ignacio,33713
-FL - St. Petersburg - Underwood/Ignacio,33714
-FL - St. Petersburg - Underwood/Ignacio,33715
-FL - St. Petersburg - Underwood/Ignacio,33716
-FL - St. Petersburg - Underwood/Ignacio,33730
-FL - St. Petersburg - Underwood/Ignacio,33731
-FL - St. Petersburg - Underwood/Ignacio,33732
-FL - St. Petersburg - Underwood/Ignacio,33733
-FL - St. Petersburg - Underwood/Ignacio,33734
-FL - St. Petersburg - Underwood/Ignacio,33736
-FL - St. Petersburg - Underwood/Ignacio,33737
-FL - St. Petersburg - Underwood/Ignacio,33740
-FL - St. Petersburg - Underwood/Ignacio,33741
-FL - St. Petersburg - Underwood/Ignacio,33742
-FL - St. Petersburg - Underwood/Ignacio,33743
-FL - St. Petersburg - Underwood/Ignacio,33747
-FL - St. Petersburg - Underwood/Ignacio,33781
-FL - St. Petersburg - Underwood/Ignacio,33782
-FL - St. Petersburg - Underwood/Ignacio,33784
-FL - St. Petersburg - Underwood/Ignacio,33608
-FL - St. Petersburg - Underwood/Ignacio,34681
+FL - St. Petersburg - Underwood,33708
+FL - St. Petersburg - Underwood,33729
+FL - St. Petersburg - Underwood,33738
+FL - St. Petersburg - Underwood,33744
+FL - St. Petersburg - Underwood,33755
+FL - St. Petersburg - Underwood,33756
+FL - St. Petersburg - Underwood,33757
+FL - St. Petersburg - Underwood,33758
+FL - St. Petersburg - Underwood,33759
+FL - St. Petersburg - Underwood,33760
+FL - St. Petersburg - Underwood,33762
+FL - St. Petersburg - Underwood,33763
+FL - St. Petersburg - Underwood,33764
+FL - St. Petersburg - Underwood,33765
+FL - St. Petersburg - Underwood,33766
+FL - St. Petersburg - Underwood,33767
+FL - St. Petersburg - Underwood,33769
+FL - St. Petersburg - Underwood,33770
+FL - St. Petersburg - Underwood,33771
+FL - St. Petersburg - Underwood,33772
+FL - St. Petersburg - Underwood,33773
+FL - St. Petersburg - Underwood,33774
+FL - St. Petersburg - Underwood,33775
+FL - St. Petersburg - Underwood,33776
+FL - St. Petersburg - Underwood,33777
+FL - St. Petersburg - Underwood,33778
+FL - St. Petersburg - Underwood,33779
+FL - St. Petersburg - Underwood,33780
+FL - St. Petersburg - Underwood,33785
+FL - St. Petersburg - Underwood,33786
+FL - St. Petersburg - Underwood,34697
+FL - St. Petersburg - Underwood,33523
+FL - St. Petersburg - Underwood,33525
+FL - St. Petersburg - Underwood,33526
+FL - St. Petersburg - Underwood,33537
+FL - St. Petersburg - Underwood,33545
+FL - St. Petersburg - Underwood,33574
+FL - St. Petersburg - Underwood,33576
+FL - St. Petersburg - Underwood,33593
+FL - St. Petersburg - Underwood,34436
+FL - St. Petersburg - Underwood,34446
+FL - St. Petersburg - Underwood,34447
+FL - St. Petersburg - Underwood,34448
+FL - St. Petersburg - Underwood,34450
+FL - St. Petersburg - Underwood,34451
+FL - St. Petersburg - Underwood,34452
+FL - St. Petersburg - Underwood,34453
+FL - St. Petersburg - Underwood,34460
+FL - St. Petersburg - Underwood,34461
+FL - St. Petersburg - Underwood,34487
+FL - St. Petersburg - Underwood,34601
+FL - St. Petersburg - Underwood,34602
+FL - St. Petersburg - Underwood,34603
+FL - St. Petersburg - Underwood,34604
+FL - St. Petersburg - Underwood,34605
+FL - St. Petersburg - Underwood,34606
+FL - St. Petersburg - Underwood,34607
+FL - St. Petersburg - Underwood,34608
+FL - St. Petersburg - Underwood,34609
+FL - St. Petersburg - Underwood,34610
+FL - St. Petersburg - Underwood,34611
+FL - St. Petersburg - Underwood,34613
+FL - St. Petersburg - Underwood,34614
+FL - St. Petersburg - Underwood,34636
+FL - St. Petersburg - Underwood,34661
+FL - St. Petersburg - Underwood,34667
+FL - St. Petersburg - Underwood,34669
+FL - St. Petersburg - Underwood,34674
+FL - St. Petersburg - Underwood,33761
+FL - St. Petersburg - Underwood,34652
+FL - St. Petersburg - Underwood,34653
+FL - St. Petersburg - Underwood,34654
+FL - St. Petersburg - Underwood,34655
+FL - St. Petersburg - Underwood,34656
+FL - St. Petersburg - Underwood,34660
+FL - St. Petersburg - Underwood,34668
+FL - St. Petersburg - Underwood,34673
+FL - St. Petersburg - Underwood,34677
+FL - St. Petersburg - Underwood,34680
+FL - St. Petersburg - Underwood,34682
+FL - St. Petersburg - Underwood,34683
+FL - St. Petersburg - Underwood,34684
+FL - St. Petersburg - Underwood,34685
+FL - St. Petersburg - Underwood,34688
+FL - St. Petersburg - Underwood,34689
+FL - St. Petersburg - Underwood,34690
+FL - St. Petersburg - Underwood,34691
+FL - St. Petersburg - Underwood,34692
+FL - St. Petersburg - Underwood,34695
+FL - St. Petersburg - Underwood,34698
+FL - St. Petersburg - Underwood,33701
+FL - St. Petersburg - Underwood,33702
+FL - St. Petersburg - Underwood,33703
+FL - St. Petersburg - Underwood,33704
+FL - St. Petersburg - Underwood,33705
+FL - St. Petersburg - Underwood,33706
+FL - St. Petersburg - Underwood,33707
+FL - St. Petersburg - Underwood,33709
+FL - St. Petersburg - Underwood,33710
+FL - St. Petersburg - Underwood,33711
+FL - St. Petersburg - Underwood,33712
+FL - St. Petersburg - Underwood,33713
+FL - St. Petersburg - Underwood,33714
+FL - St. Petersburg - Underwood,33715
+FL - St. Petersburg - Underwood,33716
+FL - St. Petersburg - Underwood,33730
+FL - St. Petersburg - Underwood,33731
+FL - St. Petersburg - Underwood,33732
+FL - St. Petersburg - Underwood,33733
+FL - St. Petersburg - Underwood,33734
+FL - St. Petersburg - Underwood,33736
+FL - St. Petersburg - Underwood,33737
+FL - St. Petersburg - Underwood,33740
+FL - St. Petersburg - Underwood,33741
+FL - St. Petersburg - Underwood,33742
+FL - St. Petersburg - Underwood,33743
+FL - St. Petersburg - Underwood,33747
+FL - St. Petersburg - Underwood,33781
+FL - St. Petersburg - Underwood,33782
+FL - St. Petersburg - Underwood,33784
+FL - St. Petersburg - Underwood,33608
+FL - St. Petersburg - Underwood,34681
 FL - Tampa - CFPB,33601
 FL - Tampa - CFPB,33602
 FL - Tampa - CFPB,33603
@@ -3034,11 +3037,19 @@ IL - Naperville - Cossyleon/Klimala,60567
 IL - Naperville - Cossyleon/Klimala,60572
 IL - Naperville - Cossyleon/Klimala,60598
 IL - Naperville - Cossyleon/Klimala,60599
+IL - Naperville - Cossyleon/Klimala,60404
+IL - Naperville - Cossyleon/Klimala,60431
+IL - Naperville - Cossyleon/Klimala,60435
 IL - Naperville - Cossyleon/Klimala,60502
+IL - Naperville - Cossyleon/Klimala,60503
+IL - Naperville - Cossyleon/Klimala,60506
+IL - Naperville - Cossyleon/Klimala,60542
+IL - Naperville - Cossyleon/Klimala,60543
 IL - Naperville - Cossyleon/Klimala,60544
 IL - Naperville - Cossyleon/Klimala,60555
 IL - Naperville - Cossyleon/Klimala,60563
 IL - Naperville - Cossyleon/Klimala,60585
+IL - Naperville - Cossyleon/Klimala,60586
 IL - Rockford - Chin,60113
 IL - Rockford - Chin,61007
 IL - Rockford - Chin,61008
@@ -4267,50 +4278,50 @@ MD - Howard County - Perkins,21163
 MD - Howard County - Perkins,21776
 MD - Howard County - Perkins,21788
 MD - Howard County - Perkins,21793
-MD - Prince Georges County - Betancourt/Fortun,20703
-MD - Prince Georges County - Betancourt/Fortun,20704
-MD - Prince Georges County - Betancourt/Fortun,20705
-MD - Prince Georges County - Betancourt/Fortun,20706
-MD - Prince Georges County - Betancourt/Fortun,20710
-MD - Prince Georges County - Betancourt/Fortun,20712
-MD - Prince Georges County - Betancourt/Fortun,20721
-MD - Prince Georges County - Betancourt/Fortun,20722
-MD - Prince Georges County - Betancourt/Fortun,20737
-MD - Prince Georges County - Betancourt/Fortun,20738
-MD - Prince Georges County - Betancourt/Fortun,20740
-MD - Prince Georges County - Betancourt/Fortun,20741
-MD - Prince Georges County - Betancourt/Fortun,20742
-MD - Prince Georges County - Betancourt/Fortun,20768
-MD - Prince Georges County - Betancourt/Fortun,20769
-MD - Prince Georges County - Betancourt/Fortun,20770
-MD - Prince Georges County - Betancourt/Fortun,20771
-MD - Prince Georges County - Betancourt/Fortun,20774
-MD - Prince Georges County - Betancourt/Fortun,20775
-MD - Prince Georges County - Betancourt/Fortun,20781
-MD - Prince Georges County - Betancourt/Fortun,20782
-MD - Prince Georges County - Betancourt/Fortun,20783
-MD - Prince Georges County - Betancourt/Fortun,20784
-MD - Prince Georges County - Betancourt/Fortun,20785
-MD - Prince Georges County - Betancourt/Fortun,20787
-MD - Prince Georges County - Betancourt/Fortun,20788
-MD - Prince Georges County - Betancourt/Fortun,20792
-MD - Prince Georges County - Betancourt/Fortun,20607
-MD - Prince Georges County - Betancourt/Fortun,20623
-MD - Prince Georges County - Betancourt/Fortun,20711
-MD - Prince Georges County - Betancourt/Fortun,20733
-MD - Prince Georges County - Betancourt/Fortun,20735
-MD - Prince Georges County - Betancourt/Fortun,20743
-MD - Prince Georges County - Betancourt/Fortun,20744
-MD - Prince Georges County - Betancourt/Fortun,20745
-MD - Prince Georges County - Betancourt/Fortun,20746
-MD - Prince Georges County - Betancourt/Fortun,20747
-MD - Prince Georges County - Betancourt/Fortun,20748
-MD - Prince Georges County - Betancourt/Fortun,20751
-MD - Prince Georges County - Betancourt/Fortun,20762
-MD - Prince Georges County - Betancourt/Fortun,20772
-MD - Prince Georges County - Betancourt/Fortun,20776
-MD - Prince Georges County - Betancourt/Fortun,20778
-MD - Prince Georges County - Betancourt/Fortun,20779
+MD - Prince Georges County - Stevens/Tompkins,20703
+MD - Prince Georges County - Stevens/Tompkins,20704
+MD - Prince Georges County - Stevens/Tompkins,20705
+MD - Prince Georges County - Stevens/Tompkins,20706
+MD - Prince Georges County - Stevens/Tompkins,20710
+MD - Prince Georges County - Stevens/Tompkins,20712
+MD - Prince Georges County - Stevens/Tompkins,20721
+MD - Prince Georges County - Stevens/Tompkins,20722
+MD - Prince Georges County - Stevens/Tompkins,20737
+MD - Prince Georges County - Stevens/Tompkins,20738
+MD - Prince Georges County - Stevens/Tompkins,20740
+MD - Prince Georges County - Stevens/Tompkins,20741
+MD - Prince Georges County - Stevens/Tompkins,20742
+MD - Prince Georges County - Stevens/Tompkins,20768
+MD - Prince Georges County - Stevens/Tompkins,20769
+MD - Prince Georges County - Stevens/Tompkins,20770
+MD - Prince Georges County - Stevens/Tompkins,20771
+MD - Prince Georges County - Stevens/Tompkins,20774
+MD - Prince Georges County - Stevens/Tompkins,20775
+MD - Prince Georges County - Stevens/Tompkins,20781
+MD - Prince Georges County - Stevens/Tompkins,20782
+MD - Prince Georges County - Stevens/Tompkins,20783
+MD - Prince Georges County - Stevens/Tompkins,20784
+MD - Prince Georges County - Stevens/Tompkins,20785
+MD - Prince Georges County - Stevens/Tompkins,20788
+MD - Prince Georges County - Stevens/Tompkins,20792
+MD - Prince Georges County - Stevens/Tompkins,20607
+MD - Prince Georges County - Stevens/Tompkins,20623
+MD - Prince Georges County - Stevens/Tompkins,20711
+MD - Prince Georges County - Stevens/Tompkins,20733
+MD - Prince Georges County - Stevens/Tompkins,20735
+MD - Prince Georges County - Stevens/Tompkins,20743
+MD - Prince Georges County - Stevens/Tompkins,20744
+MD - Prince Georges County - Stevens/Tompkins,20745
+MD - Prince Georges County - Stevens/Tompkins,20746
+MD - Prince Georges County - Stevens/Tompkins,20747
+MD - Prince Georges County - Stevens/Tompkins,20748
+MD - Prince Georges County - Stevens/Tompkins,20751
+MD - Prince Georges County - Stevens/Tompkins,20762
+MD - Prince Georges County - Stevens/Tompkins,20772
+MD - Prince Georges County - Stevens/Tompkins,20776
+MD - Prince Georges County - Stevens/Tompkins,20778
+MD - Prince Georges County - Stevens/Tompkins,20779
+MD - Prince Georges County - Stevens/Tompkins,20787
 MD - Upper Marlboro - Westbrooks,20030
 MD - Upper Marlboro - Westbrooks,20607
 MD - Upper Marlboro - Westbrooks,20623
@@ -4806,18 +4817,8 @@ MI - Flint - Hawley,48430
 MI - Flint - Hawley,48442
 MI - Flint - Hawley,48451
 MI - Flint - Hawley,48462
-MI - Flint - Hawley,48103
-MI - Flint - Hawley,48104
-MI - Flint - Hawley,48105
-MI - Flint - Hawley,48106
-MI - Flint - Hawley,48107
-MI - Flint - Hawley,48108
-MI - Flint - Hawley,48109
-MI - Flint - Hawley,48113
 MI - Flint - Hawley,48126
 MI - Flint - Hawley,48180
-MI - Flint - Hawley,48197
-MI - Flint - Hawley,48198
 MI - Flint - Hawley,48201
 MI - Flint - Hawley,48202
 MI - Flint - Hawley,48204
@@ -4913,6 +4914,7 @@ MI - Grand Rapids - Cusack,49544
 MI - Grand Rapids - Cusack,49546
 MI - Grand Rapids - Cusack,49555
 MI - Grand Rapids - Cusack,49599
+MI - Grand Rapids - Cusack,49127
 MI - Grosse Pointe - Hagerman,48015
 MI - Grosse Pointe - Hagerman,48021
 MI - Grosse Pointe - Hagerman,48026
@@ -6016,6 +6018,7 @@ NC - Statesville Mooresville - McCormick,28682
 NC - Statesville Mooresville - McCormick,28687
 NC - Statesville Mooresville - McCormick,28688
 NC - Statesville Mooresville - McCormick,28699
+NC - Statesville Mooresville - McCormick,28025
 NC - Thomasville - Shone,27006
 NC - Thomasville - Shone,27012
 NC - Thomasville - Shone,27023
@@ -6726,35 +6729,6 @@ NJ - Trenton - Changpertitum/Liao,8562
 NJ - Trenton - Changpertitum/Liao,8620
 NJ - Trenton - Changpertitum/Liao,8640
 NJ - Trenton - Changpertitum/Liao,8641
-NV - Henderson - Epstein,89002
-NV - Henderson - Epstein,89005
-NV - Henderson - Epstein,89009
-NV - Henderson - Epstein,89011
-NV - Henderson - Epstein,89012
-NV - Henderson - Epstein,89014
-NV - Henderson - Epstein,89015
-NV - Henderson - Epstein,89016
-NV - Henderson - Epstein,89053
-NV - Henderson - Epstein,89074
-NV - Henderson - Epstein,89112
-NV - Henderson - Epstein,89120
-NV - Henderson - Epstein,89122
-NV - Henderson - Epstein,89142
-NV - Henderson - Epstein,89160
-NV - Henderson - Epstein,89162
-NV - Henderson - Epstein,89101
-NV - Henderson - Epstein,89104
-NV - Henderson - Epstein,89109
-NV - Henderson - Epstein,89110
-NV - Henderson - Epstein,89115
-NV - Henderson - Epstein,89121
-NV - Henderson - Epstein,89139
-NV - Henderson - Epstein,89141
-NV - Henderson - Epstein,89148
-NV - Henderson - Epstein,89156
-NV - Henderson - Epstein,89169
-NV - Henderson - Epstein,89183
-NV - Henderson - Epstein,89191
 NV - Las Vegas - Guy,89052
 NV - Las Vegas - Guy,89077
 NV - Las Vegas - Guy,89102
@@ -6783,13 +6757,46 @@ NV - Las Vegas - Guy,89183
 NV - Las Vegas - Guy,89193
 NV - Las Vegas - Guy,89195
 NV - Las Vegas - Guy,89199
+NV - Las Vegas - Guy,89011
+NV - Las Vegas - Guy,89012
+NV - Las Vegas - Guy,89014
 NV - Las Vegas - Guy,89044
+NV - Las Vegas - Guy,89074
 NV - Las Vegas - Guy,89113
 NV - Las Vegas - Guy,89117
+NV - Las Vegas - Guy,89122
 NV - Las Vegas - Guy,89141
 NV - Las Vegas - Guy,89147
 NV - Las Vegas - Guy,89148
 NV - Las Vegas - Guy,89178
+NV - Reno - Severson,89431
+NV - Reno - Severson,89432
+NV - Reno - Severson,89433
+NV - Reno - Severson,89434
+NV - Reno - Severson,89435
+NV - Reno - Severson,89436
+NV - Reno - Severson,89439
+NV - Reno - Severson,89441
+NV - Reno - Severson,89501
+NV - Reno - Severson,89502
+NV - Reno - Severson,89503
+NV - Reno - Severson,89504
+NV - Reno - Severson,89505
+NV - Reno - Severson,89506
+NV - Reno - Severson,89508
+NV - Reno - Severson,89509
+NV - Reno - Severson,89512
+NV - Reno - Severson,89513
+NV - Reno - Severson,89515
+NV - Reno - Severson,89519
+NV - Reno - Severson,89520
+NV - Reno - Severson,89523
+NV - Reno - Severson,89533
+NV - Reno - Severson,89555
+NV - Reno - Severson,89557
+NV - Reno - Severson,89570
+NV - Reno - Severson,89595
+NV - Reno - Severson,89599
 NV - Summerlin - Bethune,89107
 NV - Summerlin - Bethune,89108
 NV - Summerlin - Bethune,89128
@@ -7656,6 +7663,7 @@ OH - Columbus North - Francis,43342
 OH - Columbus North - Francis,43344
 OH - Columbus North - Francis,43356
 OH - Columbus North - Francis,43001
+OH - Columbus North - Francis,43004
 OH - Columbus North - Francis,43017
 OH - Columbus North - Francis,43023
 OH - Columbus North - Francis,43026
@@ -7665,12 +7673,15 @@ OH - Columbus North - Francis,43055
 OH - Columbus North - Francis,43062
 OH - Columbus North - Francis,43065
 OH - Columbus North - Francis,43085
+OH - Columbus North - Francis,43201
 OH - Columbus North - Francis,43209
 OH - Columbus North - Francis,43212
 OH - Columbus North - Francis,43214
 OH - Columbus North - Francis,43215
 OH - Columbus North - Francis,43221
 OH - Columbus North - Francis,43224
+OH - Columbus North - Francis,43228
+OH - Columbus North - Francis,43229
 OH - Columbus North - Francis,43235
 OH - Columbus North - Francis,43324
 OK - Oklahoma City - Dufek,73020
@@ -7705,6 +7716,7 @@ OK - Oklahoma City - Dufek,73099
 OK - Oklahoma City - Dufek,73102
 OK - Oklahoma City - Dufek,73103
 OK - Oklahoma City - Dufek,73104
+OK - Oklahoma City - Dufek,73105
 OK - Oklahoma City - Dufek,73106
 OK - Oklahoma City - Dufek,73107
 OK - Oklahoma City - Dufek,73108
@@ -7861,6 +7873,27 @@ OR - Happy Valley - Lane,97236
 OR - Happy Valley - Lane,97266
 OR - Happy Valley - Lane,97286
 OR - Happy Valley - Lane,97290
+OR - Happy Valley - Lane,97013
+OR - Happy Valley - Lane,97017
+OR - Happy Valley - Lane,97019
+OR - Happy Valley - Lane,97023
+OR - Happy Valley - Lane,97026
+OR - Happy Valley - Lane,97071
+OR - Happy Valley - Lane,97204
+OR - Happy Valley - Lane,97209
+OR - Happy Valley - Lane,97211
+OR - Happy Valley - Lane,97212
+OR - Happy Valley - Lane,97213
+OR - Happy Valley - Lane,97214
+OR - Happy Valley - Lane,97215
+OR - Happy Valley - Lane,97216
+OR - Happy Valley - Lane,97218
+OR - Happy Valley - Lane,97220
+OR - Happy Valley - Lane,97227
+OR - Happy Valley - Lane,97228
+OR - Happy Valley - Lane,97230
+OR - Happy Valley - Lane,97232
+OR - Happy Valley - Lane,97233
 OR - Portland - Lombardo,97003
 OR - Portland - Lombardo,97005
 OR - Portland - Lombardo,97006
@@ -7906,11 +7939,27 @@ OR - Portland - Lombardo,97124
 OR - Portland - Lombardo,97137
 OR - Portland - Lombardo,97148
 OR - Portland - Lombardo,97201
+OR - Portland - Lombardo,97203
+OR - Portland - Lombardo,97204
 OR - Portland - Lombardo,97205
+OR - Portland - Lombardo,97208
+OR - Portland - Lombardo,97209
 OR - Portland - Lombardo,97210
+OR - Portland - Lombardo,97211
+OR - Portland - Lombardo,97212
+OR - Portland - Lombardo,97213
 OR - Portland - Lombardo,97214
 OR - Portland - Lombardo,97215
+OR - Portland - Lombardo,97216
+OR - Portland - Lombardo,97217
+OR - Portland - Lombardo,97218
+OR - Portland - Lombardo,97220
+OR - Portland - Lombardo,97227
+OR - Portland - Lombardo,97230
 OR - Portland - Lombardo,97231
+OR - Portland - Lombardo,97232
+OR - Portland - Lombardo,97233
+OR - Portland - Lombardo,97258
 PA - Allentown - Gall,18001
 PA - Allentown - Gall,18002
 PA - Allentown - Gall,18003
@@ -8139,6 +8188,46 @@ PA - Bucks County - Losco,19115
 PA - Bucks County - Losco,19116
 PA - Bucks County - Losco,19423
 PA - Bucks County - Losco,19474
+PA - Carlisle - Wickard/Kassel ,17001
+PA - Carlisle - Wickard/Kassel ,17011
+PA - Carlisle - Wickard/Kassel ,17013
+PA - Carlisle - Wickard/Kassel ,17015
+PA - Carlisle - Wickard/Kassel ,17025
+PA - Carlisle - Wickard/Kassel ,17034
+PA - Carlisle - Wickard/Kassel ,17036
+PA - Carlisle - Wickard/Kassel ,17043
+PA - Carlisle - Wickard/Kassel ,17050
+PA - Carlisle - Wickard/Kassel ,17055
+PA - Carlisle - Wickard/Kassel ,17057
+PA - Carlisle - Wickard/Kassel ,17070
+PA - Carlisle - Wickard/Kassel ,17072
+PA - Carlisle - Wickard/Kassel ,17081
+PA - Carlisle - Wickard/Kassel ,17089
+PA - Carlisle - Wickard/Kassel ,17093
+PA - Carlisle - Wickard/Kassel ,17101
+PA - Carlisle - Wickard/Kassel ,17102
+PA - Carlisle - Wickard/Kassel ,17103
+PA - Carlisle - Wickard/Kassel ,17104
+PA - Carlisle - Wickard/Kassel ,17105
+PA - Carlisle - Wickard/Kassel ,17106
+PA - Carlisle - Wickard/Kassel ,17107
+PA - Carlisle - Wickard/Kassel ,17108
+PA - Carlisle - Wickard/Kassel ,17109
+PA - Carlisle - Wickard/Kassel ,17110
+PA - Carlisle - Wickard/Kassel ,17111
+PA - Carlisle - Wickard/Kassel ,17113
+PA - Carlisle - Wickard/Kassel ,17120
+PA - Carlisle - Wickard/Kassel ,17121
+PA - Carlisle - Wickard/Kassel ,17122
+PA - Carlisle - Wickard/Kassel ,17123
+PA - Carlisle - Wickard/Kassel ,17124
+PA - Carlisle - Wickard/Kassel ,17125
+PA - Carlisle - Wickard/Kassel ,17126
+PA - Carlisle - Wickard/Kassel ,17127
+PA - Carlisle - Wickard/Kassel ,17128
+PA - Carlisle - Wickard/Kassel ,17129
+PA - Carlisle - Wickard/Kassel ,17140
+PA - Carlisle - Wickard/Kassel ,17177
 PA - Levittown - Patel,18966
 PA - Levittown - Patel,19007
 PA - Levittown - Patel,19020
@@ -8523,7 +8612,6 @@ PA - Pittsburgh West - Charles,15221
 PA - Pittsburgh West - Charles,15224
 PA - Pittsburgh West - Charles,15227
 PA - Pittsburgh West - Charles,15232
-PA - South Chester - Lawrie,19707
 RI - Providence - DeNunzio,2806
 RI - Providence - DeNunzio,2809
 RI - Providence - DeNunzio,2885
@@ -8760,25 +8848,6 @@ SC - Myrtle Beach - Smith,29588
 SC - Myrtle Beach - Smith,29597
 SC - Myrtle Beach - Smith,29598
 SC - Myrtle Beach - Smith,29544
-SC - Rock Hill - Hernandez,29703
-SC - Rock Hill - Hernandez,29704
-SC - Rock Hill - Hernandez,29707
-SC - Rock Hill - Hernandez,29708
-SC - Rock Hill - Hernandez,29710
-SC - Rock Hill - Hernandez,29712
-SC - Rock Hill - Hernandez,29715
-SC - Rock Hill - Hernandez,29716
-SC - Rock Hill - Hernandez,29720
-SC - Rock Hill - Hernandez,29721
-SC - Rock Hill - Hernandez,29722
-SC - Rock Hill - Hernandez,29726
-SC - Rock Hill - Hernandez,29730
-SC - Rock Hill - Hernandez,29731
-SC - Rock Hill - Hernandez,29732
-SC - Rock Hill - Hernandez,29733
-SC - Rock Hill - Hernandez,29734
-SC - Rock Hill - Hernandez,29744
-SC - Rock Hill - Hernandez,29745
 SC - Spartanburg - Wells,29301
 SC - Spartanburg - Wells,29302
 SC - Spartanburg - Wells,29303
@@ -9337,6 +9406,9 @@ TX - Austin Move North - Hiegel,78732
 TX - Austin Move North - Hiegel,78750
 TX - Austin Move North - Hiegel,78755
 TX - Austin Move North - Hiegel,78759
+TX - Austin Move North - Hiegel,78628
+TX - Austin Move North - Hiegel,78633
+TX - Austin Move North - Hiegel,78642
 TX - Beaumont - Danna,77514
 TX - Beaumont - Danna,77538
 TX - Beaumont - Danna,77611
@@ -9415,7 +9487,6 @@ TX - Conroe - Quintanilha,77021
 TX - Conroe - Quintanilha,77044
 TX - Conroe - Quintanilha,77068
 TX - Conroe - Quintanilha,77069
-TX - Conroe - Quintanilha,77070
 TX - Conroe - Quintanilha,77090
 TX - Conroe - Quintanilha,77318
 TX - Conroe - Quintanilha,77320
@@ -9427,16 +9498,9 @@ TX - Conroe - Quintanilha,77346
 TX - Conroe - Quintanilha,77355
 TX - Conroe - Quintanilha,77356
 TX - Conroe - Quintanilha,77362
-TX - Conroe - Quintanilha,77375
-TX - Conroe - Quintanilha,77377
 TX - Conroe - Quintanilha,77379
-TX - Conroe - Quintanilha,77380
-TX - Conroe - Quintanilha,77381
-TX - Conroe - Quintanilha,77382
 TX - Conroe - Quintanilha,77388
-TX - Conroe - Quintanilha,77389
 TX - Conroe - Quintanilha,77396
-TX - Conroe - Quintanilha,77429
 TX - Conroe - Quintanilha,77447
 TX - Conroe - Quintanilha,77504
 TX - Conroe - Quintanilha,77505
@@ -9444,12 +9508,6 @@ TX - Conroe - Quintanilha,77521
 TX - Conroe - Quintanilha,77532
 TX - Conroe - Quintanilha,77536
 TX - Conroe - Quintanilha,77562
-TX - Copperfield - Sopitan/Folowosele,77065
-TX - Copperfield - Sopitan/Folowosele,77095
-TX - Copperfield - Sopitan/Folowosele,77433
-TX - Copperfield - Sopitan/Folowosele,77449
-TX - Copperfield - Sopitan/Folowosele,77491
-TX - Copperfield - Sopitan/Folowosele,77493
 TX - Dallas Carrollton - Leffel,75006
 TX - Dallas Carrollton - Leffel,75014
 TX - Dallas Carrollton - Leffel,75015
@@ -9646,8 +9704,14 @@ TX - Eldridge - Mance,77411
 TX - Eldridge - Mance,77413
 TX - Eldridge - Mance,77450
 TX - Eldridge - Mance,77043
+TX - Eldridge - Mance,77065
 TX - Eldridge - Mance,77079
 TX - Eldridge - Mance,77084
+TX - Eldridge - Mance,77095
+TX - Eldridge - Mance,77433
+TX - Eldridge - Mance,77449
+TX - Eldridge - Mance,77491
+TX - Eldridge - Mance,77493
 TX - Houston Central - Smith,77001
 TX - Houston Central - Smith,77002
 TX - Houston Central - Smith,77006
@@ -9748,20 +9812,11 @@ TX - Houston Central - Smith,77087
 TX - Houston Central - Smith,77089
 TX - Houston Central - Smith,77092
 TX - Houston Central - Smith,77224
-TX - Houston Central - Smith,77269
 TX - Houston Central - Smith,77273
 TX - Houston Central - Smith,77279
 TX - Houston Central - Smith,77284
-TX - Houston Central - Smith,77337
-TX - Houston Central - Smith,77375
 TX - Houston Central - Smith,77379
-TX - Houston Central - Smith,77380
-TX - Houston Central - Smith,77381
-TX - Houston Central - Smith,77382
-TX - Houston Central - Smith,77387
 TX - Houston Central - Smith,77391
-TX - Houston Central - Smith,77393
-TX - Houston Central - Smith,77410
 TX - Houston Central - Smith,77411
 TX - Houston Central - Smith,77492
 TX - Houston Central - Smith,77502
@@ -9888,6 +9943,28 @@ TX - Plano - Steinman,75083
 TX - Plano - Steinman,75085
 TX - Plano - Steinman,75251
 TX - Plano - Steinman,75287
+TX - Rockwall - Lee,75032
+TX - Rockwall - Lee,75087
+TX - Rockwall - Lee,75121
+TX - Rockwall - Lee,75126
+TX - Rockwall - Lee,75132
+TX - Rockwall - Lee,75135
+TX - Rockwall - Lee,75164
+TX - Rockwall - Lee,75166
+TX - Rockwall - Lee,75173
+TX - Rockwall - Lee,75181
+TX - Rockwall - Lee,75182
+TX - Rockwall - Lee,75189
+TX - Rockwall - Lee,75401
+TX - Rockwall - Lee,75402
+TX - Rockwall - Lee,75403
+TX - Rockwall - Lee,75404
+TX - Rockwall - Lee,75407
+TX - Rockwall - Lee,75409
+TX - Rockwall - Lee,75424
+TX - Rockwall - Lee,75442
+TX - Rockwall - Lee,75474
+TX - Rockwall - Lee,75485
 TX - San Antonio - Marlowe,78004
 TX - San Antonio - Marlowe,78006
 TX - San Antonio - Marlowe,78015
@@ -9962,6 +10039,19 @@ TX - SW Ft. Worth - Winegarden,76162
 TX - SW Ft. Worth - Winegarden,76163
 TX - SW Ft. Worth - Winegarden,76185
 TX - SW Ft. Worth - Winegarden,76439
+TX - The Woodlands - Mejia,77070
+TX - The Woodlands - Mejia,77269
+TX - The Woodlands - Mejia,77337
+TX - The Woodlands - Mejia,77375
+TX - The Woodlands - Mejia,77377
+TX - The Woodlands - Mejia,77380
+TX - The Woodlands - Mejia,77381
+TX - The Woodlands - Mejia,77382
+TX - The Woodlands - Mejia,77387
+TX - The Woodlands - Mejia,77389
+TX - The Woodlands - Mejia,77393
+TX - The Woodlands - Mejia,77410
+TX - The Woodlands - Mejia,77429
 TX - Waco - Mills,76501
 TX - Waco - Mills,76502
 TX - Waco - Mills,76503
@@ -10000,6 +10090,22 @@ TX - Waco - Mills,76645
 TX - Waco - Mills,76657
 TX - Waco - Mills,76689
 TX - Waco - Mills,76691
+UT - Provo - Hendrickson,84057
+UT - Provo - Hendrickson,84058
+UT - Provo - Hendrickson,84082
+UT - Provo - Hendrickson,84097
+UT - Provo - Hendrickson,84601
+UT - Provo - Hendrickson,84602
+UT - Provo - Hendrickson,84603
+UT - Provo - Hendrickson,84604
+UT - Provo - Hendrickson,84605
+UT - Provo - Hendrickson,84606
+UT - Provo - Hendrickson,84651
+UT - Provo - Hendrickson,84653
+UT - Provo - Hendrickson,84655
+UT - Provo - Hendrickson,84660
+UT - Provo - Hendrickson,84663
+UT - Provo - Hendrickson,84664
 VA - Arlington - Craig,20107
 VA - Arlington - Craig,20069
 VA - Arlington - Craig,20070
@@ -10118,32 +10224,19 @@ VA - Arlington - Craig,22320
 VA - Arlington - Craig,22331
 VA - Arlington - Craig,22332
 VA - Arlington - Craig,22333
-VA - Arlington - Craig,20105
-VA - Arlington - Craig,20108
-VA - Arlington - Craig,20113
-VA - Arlington - Craig,20117
-VA - Arlington - Craig,20132
-VA - Arlington - Craig,20141
 VA - Arlington - Craig,20147
 VA - Arlington - Craig,20148
 VA - Arlington - Craig,20151
-VA - Arlington - Craig,20152
-VA - Arlington - Craig,20158
 VA - Arlington - Craig,20163
 VA - Arlington - Craig,20164
 VA - Arlington - Craig,20165
 VA - Arlington - Craig,20166
 VA - Arlington - Craig,20167
-VA - Arlington - Craig,20168
 VA - Arlington - Craig,20170
 VA - Arlington - Craig,20171
-VA - Arlington - Craig,20176
-VA - Arlington - Craig,20180
-VA - Arlington - Craig,20184
 VA - Arlington - Craig,20190
 VA - Arlington - Craig,20191
 VA - Arlington - Craig,20194
-VA - Arlington - Craig,20197
 VA - Arlington - Craig,22025
 VA - Arlington - Craig,22066
 VA - Arlington - Craig,22125
@@ -10619,6 +10712,21 @@ WA - Gig Harbor - Beisley,98589
 WA - Gig Harbor - Beisley,98597
 WA - Gig Harbor - Beisley,98599
 WA - Gig Harbor - Beisley,98337
+WA - Lynnwood - Thirlwall,98020
+WA - Lynnwood - Thirlwall,98026
+WA - Lynnwood - Thirlwall,98036
+WA - Lynnwood - Thirlwall,98037
+WA - Lynnwood - Thirlwall,98043
+WA - Lynnwood - Thirlwall,98046
+WA - Lynnwood - Thirlwall,98087
+WA - Lynnwood - Thirlwall,98201
+WA - Lynnwood - Thirlwall,98203
+WA - Lynnwood - Thirlwall,98204
+WA - Lynnwood - Thirlwall,98206
+WA - Lynnwood - Thirlwall,98207
+WA - Lynnwood - Thirlwall,98213
+WA - Lynnwood - Thirlwall,98258
+WA - Lynnwood - Thirlwall,98275
 WA - Renton - Davis,98042
 WA - Renton - Davis,98092
 WA - Renton - Davis,98391
@@ -10714,13 +10822,10 @@ WA - Seattle Central - Olason,98175
 WA - Seattle Central - Olason,98177
 WA - Seattle Central - Olason,98185
 WA - Seattle Central - Olason,98011
-WA - Seattle Central - Olason,98020
 WA - Seattle Central - Olason,98021
 WA - Seattle Central - Olason,98028
 WA - Seattle Central - Olason,98029
 WA - Seattle Central - Olason,98034
-WA - Seattle Central - Olason,98036
-WA - Seattle Central - Olason,98043
 WA - Seattle Central - Olason,98053
 WA - Seattle Central - Olason,98057
 WA - Seattle Central - Olason,98062
