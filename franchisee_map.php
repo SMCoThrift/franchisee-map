@@ -199,6 +199,7 @@ $franchisees_map = [
   'TX - Lubbock - Ritter' => 320877,
   'TX - McKinney - O\'Hanna' => 222534,
   'TX - Plano - Steinman' => 82301,
+  'TX - Rockwall - Lee' => 457146,
   'TX - San Antonio - Marlowe' => 82304,
   'TX - San Antonio West - Lauderdale/Czarobski/Wilson/Lane' => 82308,
   'TX - NW San Antonio - Joiner' => 82308,
