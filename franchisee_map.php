@@ -212,7 +212,7 @@ $franchisees_map = [
   'TX - Lubbock - Ritter' => 320877,
   'TX - McKinney - O\'Hanna' => 222534,
   'TX - New Braunfels - Kalambayi' => 473442,
-  'TX - Plano - Steinman' => 82301,
+  'TX - Plano - Bhakta' => 82301,
   'TX - Rockwall - Lee' => 457146,
   'TX - San Antonio - Marlowe' => 82304,
   'TX - San Antonio West - Lauderdale/Czarobski/Wilson/Lane' => 82308,
@@ -242,7 +242,7 @@ $franchisees_map = [
 	'WI - Appleton - Holt' => 498059,
   'WI - Greenbay - Holt' => 487076,
 	'WI - Madison - Larsen' => 133808,
-  'WI - Milwaukee - Biggam' => 133810,
+  'WI - Milwaukee - Coenen' => 133810,
 	'WI - Oak Creek - Gunderson' => 354231,
   'WI - Germantown - Wetzel' => 321995,
 ];
