@@ -221,12 +221,6 @@ AZ - Glendale - Rivera,85306
 AZ - Glendale - Rivera,85308
 AZ - Glendale - Rivera,85310
 AZ - Glendale - Rivera,85381
-AZ - Phoenix West - Harvin,85054
-AZ - Phoenix West - Harvin,85251
-AZ - Phoenix West - Harvin,85254
-AZ - Phoenix West - Harvin,85255
-AZ - Phoenix West - Harvin,85258
-AZ - Phoenix West - Harvin,85260
 AZ - Phoenix West - Harvin,85031
 AZ - Phoenix West - Harvin,85033
 AZ - Phoenix West - Harvin,85035
@@ -234,7 +228,6 @@ AZ - Phoenix West - Harvin,85037
 AZ - Phoenix West - Harvin,85043
 AZ - Phoenix West - Harvin,85063
 AZ - Phoenix West - Harvin,85064
-AZ - Phoenix West - Harvin,85070
 AZ - Phoenix West - Harvin,85075
 AZ - Phoenix West - Harvin,85097
 AZ - Phoenix West - Harvin,85323
@@ -268,17 +261,43 @@ AZ - Phoenix West - Harvin,85376
 AZ - Phoenix West - Harvin,85383
 AZ - Phoenix West - Harvin,85387
 AZ - Phoenix West - Harvin,85006
+AZ - Phoenix West - Harvin,85013
+AZ - Phoenix West - Harvin,85014
+AZ - Phoenix West - Harvin,85016
+AZ - Phoenix West - Harvin,85018
+AZ - Phoenix West - Harvin,85020
 AZ - Phoenix West - Harvin,85021
+AZ - Phoenix West - Harvin,85022
 AZ - Phoenix West - Harvin,85023
+AZ - Phoenix West - Harvin,85024
 AZ - Phoenix West - Harvin,85027
+AZ - Phoenix West - Harvin,85028
 AZ - Phoenix West - Harvin,85029
+AZ - Phoenix West - Harvin,85032
+AZ - Phoenix West - Harvin,85050
 AZ - Phoenix West - Harvin,85053
+AZ - Phoenix West - Harvin,85054
+AZ - Phoenix West - Harvin,85070
 AZ - Phoenix West - Harvin,85085
 AZ - Phoenix West - Harvin,85224
+AZ - Phoenix West - Harvin,85251
+AZ - Phoenix West - Harvin,85253
+AZ - Phoenix West - Harvin,85254
+AZ - Phoenix West - Harvin,85255
+AZ - Phoenix West - Harvin,85256
+AZ - Phoenix West - Harvin,85258
+AZ - Phoenix West - Harvin,85259
+AZ - Phoenix West - Harvin,85260
+AZ - Phoenix West - Harvin,85262
+AZ - Phoenix West - Harvin,85263
+AZ - Phoenix West - Harvin,85264
+AZ - Phoenix West - Harvin,85266
+AZ - Phoenix West - Harvin,85268
 AZ - Phoenix West - Harvin,85281
 AZ - Phoenix West - Harvin,85286
 AZ - Phoenix West - Harvin,85288
 AZ - Phoenix West - Harvin,85326
+AZ - Phoenix West - Harvin,85331
 AZ - Phoenix West - Harvin,85821
 CA - Carlsbad - Parsons,92008
 CA - Carlsbad - Parsons,92009
@@ -307,45 +326,6 @@ CA - Carlsbad - Parsons,92082
 CA - Carlsbad - Parsons,92083
 CA - Carlsbad - Parsons,92084
 CA - Carlsbad - Parsons,92088
-CA - Clovis - Dunn/Guenther,93611
-CA - Clovis - Dunn/Guenther,93612
-CA - Clovis - Dunn/Guenther,93613
-CA - Clovis - Dunn/Guenther,93702
-CA - Clovis - Dunn/Guenther,93703
-CA - Clovis - Dunn/Guenther,93707
-CA - Clovis - Dunn/Guenther,93708
-CA - Clovis - Dunn/Guenther,93709
-CA - Clovis - Dunn/Guenther,93710
-CA - Clovis - Dunn/Guenther,93712
-CA - Clovis - Dunn/Guenther,93714
-CA - Clovis - Dunn/Guenther,93715
-CA - Clovis - Dunn/Guenther,93716
-CA - Clovis - Dunn/Guenther,93717
-CA - Clovis - Dunn/Guenther,93718
-CA - Clovis - Dunn/Guenther,93720
-CA - Clovis - Dunn/Guenther,93725
-CA - Clovis - Dunn/Guenther,93726
-CA - Clovis - Dunn/Guenther,93727
-CA - Clovis - Dunn/Guenther,93729
-CA - Clovis - Dunn/Guenther,93745
-CA - Clovis - Dunn/Guenther,93747
-CA - Clovis - Dunn/Guenther,93750
-CA - Clovis - Dunn/Guenther,93760
-CA - Clovis - Dunn/Guenther,93761
-CA - Clovis - Dunn/Guenther,93764
-CA - Clovis - Dunn/Guenther,93765
-CA - Clovis - Dunn/Guenther,93771
-CA - Clovis - Dunn/Guenther,93772
-CA - Clovis - Dunn/Guenther,93773
-CA - Clovis - Dunn/Guenther,93774
-CA - Clovis - Dunn/Guenther,93775
-CA - Clovis - Dunn/Guenther,93776
-CA - Clovis - Dunn/Guenther,93777
-CA - Clovis - Dunn/Guenther,93778
-CA - Clovis - Dunn/Guenther,93779
-CA - Clovis - Dunn/Guenther,93786
-CA - Clovis - Dunn/Guenther,93619
-CA - Clovis - Dunn/Guenther,93730
 CA - Fremont - Chang,94536
 CA - Fremont - Chang,94537
 CA - Fremont - Chang,94538
@@ -363,6 +343,43 @@ CA - Fremont - Chang,94568
 CA - Fremont - Chang,94580
 CA - Fremont - Chang,94587
 CA - Fremont - Chang,94588
+CA - Fresno - Gragnani,93611
+CA - Fresno - Gragnani,93612
+CA - Fresno - Gragnani,93613
+CA - Fresno - Gragnani,93702
+CA - Fresno - Gragnani,93703
+CA - Fresno - Gragnani,93707
+CA - Fresno - Gragnani,93708
+CA - Fresno - Gragnani,93709
+CA - Fresno - Gragnani,93710
+CA - Fresno - Gragnani,93712
+CA - Fresno - Gragnani,93714
+CA - Fresno - Gragnani,93715
+CA - Fresno - Gragnani,93716
+CA - Fresno - Gragnani,93717
+CA - Fresno - Gragnani,93718
+CA - Fresno - Gragnani,93720
+CA - Fresno - Gragnani,93725
+CA - Fresno - Gragnani,93726
+CA - Fresno - Gragnani,93727
+CA - Fresno - Gragnani,93729
+CA - Fresno - Gragnani,93745
+CA - Fresno - Gragnani,93747
+CA - Fresno - Gragnani,93750
+CA - Fresno - Gragnani,93760
+CA - Fresno - Gragnani,93761
+CA - Fresno - Gragnani,93764
+CA - Fresno - Gragnani,93765
+CA - Fresno - Gragnani,93771
+CA - Fresno - Gragnani,93772
+CA - Fresno - Gragnani,93773
+CA - Fresno - Gragnani,93774
+CA - Fresno - Gragnani,93775
+CA - Fresno - Gragnani,93776
+CA - Fresno - Gragnani,93777
+CA - Fresno - Gragnani,93778
+CA - Fresno - Gragnani,93779
+CA - Fresno - Gragnani,93786
 CA - Fresno - Gragnani,93606
 CA - Fresno - Gragnani,93630
 CA - Fresno - Gragnani,93636
@@ -390,11 +407,15 @@ CA - Fresno - Gragnani,93793
 CA - Fresno - Gragnani,93794
 CA - Fresno - Gragnani,93844
 CA - Fresno - Gragnani,93888
+CA - Fresno - Gragnani,93737
 CA - Fresno - Gragnani,93610
+CA - Fresno - Gragnani,93619
 CA - Fresno - Gragnani,93625
 CA - Fresno - Gragnani,93626
 CA - Fresno - Gragnani,93631
 CA - Fresno - Gragnani,93662
+CA - Fresno - Gragnani,93668
+CA - Fresno - Gragnani,93730
 CA - Palo Alto - Marquez,94010
 CA - Palo Alto - Marquez,94011
 CA - Palo Alto - Marquez,94019
@@ -433,36 +454,39 @@ CA - Palo Alto - Marquez,94304
 CA - Palo Alto - Marquez,94305
 CA - Palo Alto - Marquez,94309
 CA - Palo Alto - Marquez,94404
+CA - Poway - Jabbour,92007
+CA - Poway - Jabbour,92014
 CA - Poway - Jabbour,92021
+CA - Poway - Jabbour,92023
+CA - Poway - Jabbour,92025
+CA - Poway - Jabbour,92029
 CA - Poway - Jabbour,92040
 CA - Poway - Jabbour,92064
 CA - Poway - Jabbour,92065
+CA - Poway - Jabbour,92067
 CA - Poway - Jabbour,92071
 CA - Poway - Jabbour,92072
 CA - Poway - Jabbour,92074
+CA - Poway - Jabbour,92075
+CA - Poway - Jabbour,92091
 CA - Poway - Jabbour,92119
 CA - Poway - Jabbour,92120
-CA - Poway - Jabbour,92131
-CA - Poway - Jabbour,92142
-CA - Poway - Jabbour,92159
-CA - Poway - Jabbour,92160
-CA - Poway - Jabbour,92007
-CA - Poway - Jabbour,92014
-CA - Poway - Jabbour,92029
-CA - Poway - Jabbour,92030
-CA - Poway - Jabbour,92033
-CA - Poway - Jabbour,92046
-CA - Poway - Jabbour,92067
-CA - Poway - Jabbour,92075
-CA - Poway - Jabbour,92079
-CA - Poway - Jabbour,92085
-CA - Poway - Jabbour,92091
-CA - Poway - Jabbour,92096
 CA - Poway - Jabbour,92127
 CA - Poway - Jabbour,92128
 CA - Poway - Jabbour,92129
 CA - Poway - Jabbour,92130
-CA - San Diego - Harris,91911
+CA - Poway - Jabbour,92131
+CA - Poway - Jabbour,92142
+CA - Poway - Jabbour,92159
+CA - Poway - Jabbour,92160
+CA - Poway - Jabbour,92172
+CA - Poway - Jabbour,92198
+CA - Poway - Jabbour,92030
+CA - Poway - Jabbour,92033
+CA - Poway - Jabbour,92046
+CA - Poway - Jabbour,92079
+CA - Poway - Jabbour,92085
+CA - Poway - Jabbour,92096
 CA - San Diego - Harris,92101
 CA - San Diego - Harris,92102
 CA - San Diego - Harris,92103
@@ -475,7 +499,6 @@ CA - San Diego - Harris,92111
 CA - San Diego - Harris,92112
 CA - San Diego - Harris,92116
 CA - San Diego - Harris,92123
-CA - San Diego - Harris,92132
 CA - San Diego - Harris,92134
 CA - San Diego - Harris,92137
 CA - San Diego - Harris,92138
@@ -489,11 +512,13 @@ CA - San Diego - Harris,92171
 CA - San Diego - Harris,92176
 CA - San Diego - Harris,92186
 CA - San Diego - Harris,92193
+CA - San Diego - Harris,92132
+CA - San Diego - Harris,91902
+CA - San Diego - Harris,91910
+CA - San Diego - Harris,91911
 CA - San Diego - Harris,91913
 CA - San Diego - Harris,91914
 CA - San Diego - Harris,91915
-CA - San Diego - Harris,91902
-CA - San Diego - Harris,91910
 CA - San Diego - Harris,91932
 CA - San Diego - Harris,92118
 CA - San Diego - Harris,92124
@@ -925,72 +950,94 @@ CT - Danbury - Harrington/Claffey,6758
 CT - Danbury - Harrington/Claffey,6763
 CT - Danbury - Harrington/Claffey,6779
 CT - Danbury - Harrington/Claffey,6787
+CT - Danbury - Harrington/Claffey,6790
 CT - Danbury - Harrington/Claffey,6796
-CT - East Hartford - Dabkowski,6040
-CT - East Hartford - Dabkowski,6041
-CT - East Hartford - Dabkowski,6042
-CT - East Hartford - Dabkowski,6045
-CT - East Hartford - Dabkowski,6001
-CT - East Hartford - Dabkowski,6002
-CT - East Hartford - Dabkowski,6019
-CT - East Hartford - Dabkowski,6026
-CT - East Hartford - Dabkowski,6027
-CT - East Hartford - Dabkowski,6032
-CT - East Hartford - Dabkowski,6035
-CT - East Hartford - Dabkowski,6057
-CT - East Hartford - Dabkowski,6059
-CT - East Hartford - Dabkowski,6060
-CT - East Hartford - Dabkowski,6063
-CT - East Hartford - Dabkowski,6065
-CT - East Hartford - Dabkowski,6070
-CT - East Hartford - Dabkowski,6078
-CT - East Hartford - Dabkowski,6081
-CT - East Hartford - Dabkowski,6085
-CT - East Hartford - Dabkowski,6089
-CT - East Hartford - Dabkowski,6090
-CT - East Hartford - Dabkowski,6091
-CT - East Hartford - Dabkowski,6092
-CT - East Hartford - Dabkowski,6093
-CT - East Hartford - Dabkowski,6095
-CT - East Hartford - Dabkowski,6096
-CT - East Hartford - Dabkowski,6103
-CT - East Hartford - Dabkowski,6105
-CT - East Hartford - Dabkowski,6106
-CT - East Hartford - Dabkowski,6107
-CT - East Hartford - Dabkowski,6110
-CT - East Hartford - Dabkowski,6112
-CT - East Hartford - Dabkowski,6114
-CT - East Hartford - Dabkowski,6117
-CT - East Hartford - Dabkowski,6119
-CT - East Hartford - Dabkowski,6120
-CT - East Hartford - Dabkowski,6010
-CT - East Hartford - Dabkowski,6011
-CT - East Hartford - Dabkowski,6023
-CT - East Hartford - Dabkowski,6033
-CT - East Hartford - Dabkowski,6037
-CT - East Hartford - Dabkowski,6050
-CT - East Hartford - Dabkowski,6051
-CT - East Hartford - Dabkowski,6052
-CT - East Hartford - Dabkowski,6053
-CT - East Hartford - Dabkowski,6062
-CT - East Hartford - Dabkowski,6067
-CT - East Hartford - Dabkowski,6073
-CT - East Hartford - Dabkowski,6109
-CT - East Hartford - Dabkowski,6111
-CT - East Hartford - Dabkowski,6129
-CT - East Hartford - Dabkowski,6131
-CT - East Hartford - Dabkowski,6153
-CT - East Hartford - Dabkowski,6410
-CT - East Hartford - Dabkowski,6416
-CT - East Hartford - Dabkowski,6444
-CT - East Hartford - Dabkowski,6450
-CT - East Hartford - Dabkowski,6451
-CT - East Hartford - Dabkowski,6455
-CT - East Hartford - Dabkowski,6457
-CT - East Hartford - Dabkowski,6459
-CT - East Hartford - Dabkowski,6467
-CT - East Hartford - Dabkowski,6479
-CT - East Hartford - Dabkowski,6489
+CT - Hartford - Dabkowski,6001
+CT - Hartford - Dabkowski,6002
+CT - Hartford - Dabkowski,6019
+CT - Hartford - Dabkowski,6026
+CT - Hartford - Dabkowski,6027
+CT - Hartford - Dabkowski,6032
+CT - Hartford - Dabkowski,6035
+CT - Hartford - Dabkowski,6057
+CT - Hartford - Dabkowski,6059
+CT - Hartford - Dabkowski,6060
+CT - Hartford - Dabkowski,6063
+CT - Hartford - Dabkowski,6065
+CT - Hartford - Dabkowski,6070
+CT - Hartford - Dabkowski,6078
+CT - Hartford - Dabkowski,6081
+CT - Hartford - Dabkowski,6085
+CT - Hartford - Dabkowski,6089
+CT - Hartford - Dabkowski,6090
+CT - Hartford - Dabkowski,6091
+CT - Hartford - Dabkowski,6092
+CT - Hartford - Dabkowski,6093
+CT - Hartford - Dabkowski,6095
+CT - Hartford - Dabkowski,6096
+CT - Hartford - Dabkowski,6103
+CT - Hartford - Dabkowski,6105
+CT - Hartford - Dabkowski,6106
+CT - Hartford - Dabkowski,6107
+CT - Hartford - Dabkowski,6110
+CT - Hartford - Dabkowski,6112
+CT - Hartford - Dabkowski,6114
+CT - Hartford - Dabkowski,6117
+CT - Hartford - Dabkowski,6119
+CT - Hartford - Dabkowski,6120
+CT - Hartford - Dabkowski,6023
+CT - Hartford - Dabkowski,6025
+CT - Hartford - Dabkowski,6033
+CT - Hartford - Dabkowski,6037
+CT - Hartford - Dabkowski,6050
+CT - Hartford - Dabkowski,6051
+CT - Hartford - Dabkowski,6067
+CT - Hartford - Dabkowski,6073
+CT - Hartford - Dabkowski,6102
+CT - Hartford - Dabkowski,6109
+CT - Hartford - Dabkowski,6111
+CT - Hartford - Dabkowski,6126
+CT - Hartford - Dabkowski,6128
+CT - Hartford - Dabkowski,6129
+CT - Hartford - Dabkowski,6131
+CT - Hartford - Dabkowski,6133
+CT - Hartford - Dabkowski,6134
+CT - Hartford - Dabkowski,6167
+CT - Hartford - Dabkowski,6231
+CT - Hartford - Dabkowski,6237
+CT - Hartford - Dabkowski,6248
+CT - Hartford - Dabkowski,6414
+CT - Hartford - Dabkowski,6415
+CT - Hartford - Dabkowski,6416
+CT - Hartford - Dabkowski,6423
+CT - Hartford - Dabkowski,6424
+CT - Hartford - Dabkowski,6447
+CT - Hartford - Dabkowski,6456
+CT - Hartford - Dabkowski,6457
+CT - Hartford - Dabkowski,6459
+CT - Hartford - Dabkowski,6469
+CT - Hartford - Dabkowski,6474
+CT - Hartford - Dabkowski,6480
+CT - Hartford - Dabkowski,6010
+CT - Hartford - Dabkowski,6011
+CT - Hartford - Dabkowski,6040
+CT - Hartford - Dabkowski,6041
+CT - Hartford - Dabkowski,6042
+CT - Hartford - Dabkowski,6045
+CT - Hartford - Dabkowski,6052
+CT - Hartford - Dabkowski,6053
+CT - Hartford - Dabkowski,6062
+CT - Hartford - Dabkowski,6074
+CT - Hartford - Dabkowski,6082
+CT - Hartford - Dabkowski,6083
+CT - Hartford - Dabkowski,6088
+CT - Hartford - Dabkowski,6108
+CT - Hartford - Dabkowski,6118
+CT - Hartford - Dabkowski,6138
+CT - Hartford - Dabkowski,6153
+CT - Hartford - Dabkowski,6450
+CT - Hartford - Dabkowski,6479
+CT - Hartford - Dabkowski,6489
 CT - Shoreline - Morra,6405
 CT - Shoreline - Morra,6409
 CT - Shoreline - Morra,6412
@@ -1066,6 +1113,23 @@ DE - Dover - Gonyo,19963
 DE - Dover - Gonyo,19964
 DE - Dover - Gonyo,19977
 DE - Dover - Gonyo,19979
+FL - Avon Park  - Perez/Hiraldo,33825
+FL - Avon Park  - Perez/Hiraldo,33826
+FL - Avon Park  - Perez/Hiraldo,33834
+FL - Avon Park  - Perez/Hiraldo,33852
+FL - Avon Park  - Perez/Hiraldo,33857
+FL - Avon Park  - Perez/Hiraldo,33862
+FL - Avon Park  - Perez/Hiraldo,33865
+FL - Avon Park  - Perez/Hiraldo,33870
+FL - Avon Park  - Perez/Hiraldo,33871
+FL - Avon Park  - Perez/Hiraldo,33872
+FL - Avon Park  - Perez/Hiraldo,33873
+FL - Avon Park  - Perez/Hiraldo,33875
+FL - Avon Park  - Perez/Hiraldo,33876
+FL - Avon Park  - Perez/Hiraldo,33890
+FL - Avon Park  - Perez/Hiraldo,33935
+FL - Avon Park  - Perez/Hiraldo,33960
+FL - Avon Park  - Perez/Hiraldo,33975
 FL - Brevard County - Sexton,32775
 FL - Brevard County - Sexton,32780
 FL - Brevard County - Sexton,32783
@@ -1942,18 +2006,26 @@ FL - Plant City - Lott,33867
 FL - Plant City - Lott,33524
 FL - Plant City - Lott,33539
 FL - Plant City - Lott,33834
+FL - Port St. Lucie - Ackman,32960
+FL - Port St. Lucie - Ackman,32961
+FL - Port St. Lucie - Ackman,32962
+FL - Port St. Lucie - Ackman,32965
 FL - Port St. Lucie - Ackman,33455
 FL - Port St. Lucie - Ackman,33475
-FL - Port St. Lucie - Ackman,33852
-FL - Port St. Lucie - Ackman,33862
-FL - Port St. Lucie - Ackman,33960
+FL - Port St. Lucie - Ackman,34946
+FL - Port St. Lucie - Ackman,34947
+FL - Port St. Lucie - Ackman,34948
+FL - Port St. Lucie - Ackman,34949
+FL - Port St. Lucie - Ackman,34950
+FL - Port St. Lucie - Ackman,34951
 FL - Port St. Lucie - Ackman,34952
 FL - Port St. Lucie - Ackman,34953
-FL - Port St. Lucie - Ackman,34956
+FL - Port St. Lucie - Ackman,34954
 FL - Port St. Lucie - Ackman,34957
 FL - Port St. Lucie - Ackman,34958
-FL - Port St. Lucie - Ackman,34973
-FL - Port St. Lucie - Ackman,34974
+FL - Port St. Lucie - Ackman,34979
+FL - Port St. Lucie - Ackman,34981
+FL - Port St. Lucie - Ackman,34982
 FL - Port St. Lucie - Ackman,34983
 FL - Port St. Lucie - Ackman,34984
 FL - Port St. Lucie - Ackman,34985
@@ -1970,12 +2042,8 @@ FL - Port St. Lucie - Ackman,34997
 FL - Port St. Lucie - Ackman,32948
 FL - Port St. Lucie - Ackman,32957
 FL - Port St. Lucie - Ackman,32958
-FL - Port St. Lucie - Ackman,32960
-FL - Port St. Lucie - Ackman,32961
-FL - Port St. Lucie - Ackman,32962
 FL - Port St. Lucie - Ackman,32963
 FL - Port St. Lucie - Ackman,32964
-FL - Port St. Lucie - Ackman,32965
 FL - Port St. Lucie - Ackman,32966
 FL - Port St. Lucie - Ackman,32967
 FL - Port St. Lucie - Ackman,32968
@@ -1985,7 +2053,9 @@ FL - Port St. Lucie - Ackman,32971
 FL - Port St. Lucie - Ackman,32978
 FL - Port St. Lucie - Ackman,33825
 FL - Port St. Lucie - Ackman,33826
+FL - Port St. Lucie - Ackman,33852
 FL - Port St. Lucie - Ackman,33857
+FL - Port St. Lucie - Ackman,33862
 FL - Port St. Lucie - Ackman,33870
 FL - Port St. Lucie - Ackman,33871
 FL - Port St. Lucie - Ackman,33872
@@ -1993,18 +2063,12 @@ FL - Port St. Lucie - Ackman,33873
 FL - Port St. Lucie - Ackman,33875
 FL - Port St. Lucie - Ackman,33876
 FL - Port St. Lucie - Ackman,33890
+FL - Port St. Lucie - Ackman,33960
 FL - Port St. Lucie - Ackman,34945
-FL - Port St. Lucie - Ackman,34946
-FL - Port St. Lucie - Ackman,34947
-FL - Port St. Lucie - Ackman,34948
-FL - Port St. Lucie - Ackman,34949
-FL - Port St. Lucie - Ackman,34950
-FL - Port St. Lucie - Ackman,34951
-FL - Port St. Lucie - Ackman,34954
+FL - Port St. Lucie - Ackman,34956
 FL - Port St. Lucie - Ackman,34972
-FL - Port St. Lucie - Ackman,34979
-FL - Port St. Lucie - Ackman,34981
-FL - Port St. Lucie - Ackman,34982
+FL - Port St. Lucie - Ackman,34973
+FL - Port St. Lucie - Ackman,34974
 FL - Sarasota - Bailey,34201
 FL - Sarasota - Bailey,34202
 FL - Sarasota - Bailey,34203
@@ -2072,37 +2136,7 @@ FL - Sarasota - Bailey,34293
 FL - Sarasota - Bailey,34295
 FL - Sarasota - Bailey,34216
 FL - Sarasota - Bailey,34220
-FL - St. Petersburg - Underwood,33708
-FL - St. Petersburg - Underwood,33729
-FL - St. Petersburg - Underwood,33738
 FL - St. Petersburg - Underwood,33744
-FL - St. Petersburg - Underwood,33755
-FL - St. Petersburg - Underwood,33756
-FL - St. Petersburg - Underwood,33757
-FL - St. Petersburg - Underwood,33758
-FL - St. Petersburg - Underwood,33759
-FL - St. Petersburg - Underwood,33760
-FL - St. Petersburg - Underwood,33762
-FL - St. Petersburg - Underwood,33763
-FL - St. Petersburg - Underwood,33764
-FL - St. Petersburg - Underwood,33765
-FL - St. Petersburg - Underwood,33766
-FL - St. Petersburg - Underwood,33767
-FL - St. Petersburg - Underwood,33769
-FL - St. Petersburg - Underwood,33770
-FL - St. Petersburg - Underwood,33771
-FL - St. Petersburg - Underwood,33772
-FL - St. Petersburg - Underwood,33773
-FL - St. Petersburg - Underwood,33774
-FL - St. Petersburg - Underwood,33775
-FL - St. Petersburg - Underwood,33776
-FL - St. Petersburg - Underwood,33777
-FL - St. Petersburg - Underwood,33778
-FL - St. Petersburg - Underwood,33779
-FL - St. Petersburg - Underwood,33780
-FL - St. Petersburg - Underwood,33785
-FL - St. Petersburg - Underwood,33786
-FL - St. Petersburg - Underwood,34697
 FL - St. Petersburg - Underwood,33523
 FL - St. Petersburg - Underwood,33525
 FL - St. Petersburg - Underwood,33526
@@ -2140,7 +2174,8 @@ FL - St. Petersburg - Underwood,34661
 FL - St. Petersburg - Underwood,34667
 FL - St. Petersburg - Underwood,34669
 FL - St. Petersburg - Underwood,34674
-FL - St. Petersburg - Underwood,33761
+FL - St. Petersburg - Underwood,33707
+FL - St. Petersburg - Underwood,33737
 FL - St. Petersburg - Underwood,34652
 FL - St. Petersburg - Underwood,34653
 FL - St. Petersburg - Underwood,34654
@@ -2151,7 +2186,6 @@ FL - St. Petersburg - Underwood,34668
 FL - St. Petersburg - Underwood,34673
 FL - St. Petersburg - Underwood,34677
 FL - St. Petersburg - Underwood,34680
-FL - St. Petersburg - Underwood,34681
 FL - St. Petersburg - Underwood,34682
 FL - St. Petersburg - Underwood,34683
 FL - St. Petersburg - Underwood,34684
@@ -2162,14 +2196,46 @@ FL - St. Petersburg - Underwood,34690
 FL - St. Petersburg - Underwood,34691
 FL - St. Petersburg - Underwood,34692
 FL - St. Petersburg - Underwood,34695
+FL - St. Petersburg - Underwood,34697
 FL - St. Petersburg - Underwood,34698
+FL - St. Petersburg - Underwood,33708
+FL - St. Petersburg - Underwood,33716
+FL - St. Petersburg - Underwood,33729
+FL - St. Petersburg - Underwood,33738
+FL - St. Petersburg - Underwood,33755
+FL - St. Petersburg - Underwood,33756
+FL - St. Petersburg - Underwood,33757
+FL - St. Petersburg - Underwood,33758
+FL - St. Petersburg - Underwood,33759
+FL - St. Petersburg - Underwood,33760
+FL - St. Petersburg - Underwood,33762
+FL - St. Petersburg - Underwood,33763
+FL - St. Petersburg - Underwood,33764
+FL - St. Petersburg - Underwood,33765
+FL - St. Petersburg - Underwood,33766
+FL - St. Petersburg - Underwood,33767
+FL - St. Petersburg - Underwood,33769
+FL - St. Petersburg - Underwood,33770
+FL - St. Petersburg - Underwood,33771
+FL - St. Petersburg - Underwood,33772
+FL - St. Petersburg - Underwood,33773
+FL - St. Petersburg - Underwood,33774
+FL - St. Petersburg - Underwood,33775
+FL - St. Petersburg - Underwood,33776
+FL - St. Petersburg - Underwood,33777
+FL - St. Petersburg - Underwood,33778
+FL - St. Petersburg - Underwood,33779
+FL - St. Petersburg - Underwood,33780
+FL - St. Petersburg - Underwood,33781
+FL - St. Petersburg - Underwood,33782
+FL - St. Petersburg - Underwood,33785
+FL - St. Petersburg - Underwood,33786
 FL - St. Petersburg - Underwood,33701
 FL - St. Petersburg - Underwood,33702
 FL - St. Petersburg - Underwood,33703
 FL - St. Petersburg - Underwood,33704
 FL - St. Petersburg - Underwood,33705
 FL - St. Petersburg - Underwood,33706
-FL - St. Petersburg - Underwood,33707
 FL - St. Petersburg - Underwood,33709
 FL - St. Petersburg - Underwood,33710
 FL - St. Petersburg - Underwood,33711
@@ -2177,23 +2243,58 @@ FL - St. Petersburg - Underwood,33712
 FL - St. Petersburg - Underwood,33713
 FL - St. Petersburg - Underwood,33714
 FL - St. Petersburg - Underwood,33715
-FL - St. Petersburg - Underwood,33716
 FL - St. Petersburg - Underwood,33730
 FL - St. Petersburg - Underwood,33731
 FL - St. Petersburg - Underwood,33732
 FL - St. Petersburg - Underwood,33733
 FL - St. Petersburg - Underwood,33734
 FL - St. Petersburg - Underwood,33736
-FL - St. Petersburg - Underwood,33737
 FL - St. Petersburg - Underwood,33740
 FL - St. Petersburg - Underwood,33741
 FL - St. Petersburg - Underwood,33742
 FL - St. Petersburg - Underwood,33743
 FL - St. Petersburg - Underwood,33747
-FL - St. Petersburg - Underwood,33781
-FL - St. Petersburg - Underwood,33782
 FL - St. Petersburg - Underwood,33784
+FL - St. Petersburg - Underwood,33761
+FL - St. Petersburg - Underwood,33523
+FL - St. Petersburg - Underwood,33525
+FL - St. Petersburg - Underwood,33526
+FL - St. Petersburg - Underwood,33537
+FL - St. Petersburg - Underwood,33545
+FL - St. Petersburg - Underwood,33574
+FL - St. Petersburg - Underwood,33576
+FL - St. Petersburg - Underwood,33593
 FL - St. Petersburg - Underwood,33608
+FL - St. Petersburg - Underwood,33737
+FL - St. Petersburg - Underwood,33744
+FL - St. Petersburg - Underwood,34446
+FL - St. Petersburg - Underwood,34447
+FL - St. Petersburg - Underwood,34448
+FL - St. Petersburg - Underwood,34450
+FL - St. Petersburg - Underwood,34451
+FL - St. Petersburg - Underwood,34452
+FL - St. Petersburg - Underwood,34453
+FL - St. Petersburg - Underwood,34460
+FL - St. Petersburg - Underwood,34461
+FL - St. Petersburg - Underwood,34487
+FL - St. Petersburg - Underwood,34601
+FL - St. Petersburg - Underwood,34602
+FL - St. Petersburg - Underwood,34603
+FL - St. Petersburg - Underwood,34604
+FL - St. Petersburg - Underwood,34605
+FL - St. Petersburg - Underwood,34606
+FL - St. Petersburg - Underwood,34607
+FL - St. Petersburg - Underwood,34608
+FL - St. Petersburg - Underwood,34609
+FL - St. Petersburg - Underwood,34610
+FL - St. Petersburg - Underwood,34611
+FL - St. Petersburg - Underwood,34613
+FL - St. Petersburg - Underwood,34614
+FL - St. Petersburg - Underwood,34636
+FL - St. Petersburg - Underwood,34661
+FL - St. Petersburg - Underwood,34667
+FL - St. Petersburg - Underwood,34669
+FL - St. Petersburg - Underwood,34674
 FL - St. Petersburg - Underwood,34681
 FL - Tampa - CFPB,33601
 FL - Tampa - CFPB,33602
@@ -2275,41 +2376,6 @@ FL - Tampa - CFPB,34682
 FL - Tampa - CFPB,34690
 FL - Tampa - CFPB,34691
 FL - Tampa - CFPB,34692
-FL - Winter Haven - Dennis,33820
-FL - Winter Haven - Dennis,33823
-FL - Winter Haven - Dennis,33827
-FL - Winter Haven - Dennis,33830
-FL - Winter Haven - Dennis,33831
-FL - Winter Haven - Dennis,33836
-FL - Winter Haven - Dennis,33837
-FL - Winter Haven - Dennis,33838
-FL - Winter Haven - Dennis,33839
-FL - Winter Haven - Dennis,33841
-FL - Winter Haven - Dennis,33843
-FL - Winter Haven - Dennis,33844
-FL - Winter Haven - Dennis,33845
-FL - Winter Haven - Dennis,33847
-FL - Winter Haven - Dennis,33848
-FL - Winter Haven - Dennis,33850
-FL - Winter Haven - Dennis,33851
-FL - Winter Haven - Dennis,33853
-FL - Winter Haven - Dennis,33854
-FL - Winter Haven - Dennis,33855
-FL - Winter Haven - Dennis,33856
-FL - Winter Haven - Dennis,33858
-FL - Winter Haven - Dennis,33859
-FL - Winter Haven - Dennis,33868
-FL - Winter Haven - Dennis,33877
-FL - Winter Haven - Dennis,33880
-FL - Winter Haven - Dennis,33881
-FL - Winter Haven - Dennis,33882
-FL - Winter Haven - Dennis,33883
-FL - Winter Haven - Dennis,33884
-FL - Winter Haven - Dennis,33885
-FL - Winter Haven - Dennis,33888
-FL - Winter Haven - Dennis,33896
-FL - Winter Haven - Dennis,33897
-FL - Winter Haven - Dennis,33898
 GA - Atlanta - Panitch,30004
 GA - Atlanta - Panitch,30009
 GA - Atlanta - Panitch,30023
@@ -2448,6 +2514,9 @@ GA - Atlanta East - Castle/De Las Casas,30374
 GA - Atlanta East - Castle/De Las Casas,30375
 GA - Atlanta East - Castle/De Las Casas,30392
 GA - Atlanta East - Castle/De Las Casas,31193
+GA - Atlanta East - Castle/De Las Casas,30014
+GA - Atlanta East - Castle/De Las Casas,30016
+GA - Atlanta East - Castle/De Las Casas,30054
 GA - Atlanta East - Castle/De Las Casas,30112
 GA - Atlanta East - Castle/De Las Casas,30274
 GA - Atlanta East - Castle/De Las Casas,30310
@@ -2574,6 +2643,10 @@ GA - Griffin - Moss,30295
 GA - Griffin - Moss,31016
 GA - Griffin - Moss,31029
 GA - Griffin - Moss,31097
+GA - Griffin - Moss,31046
+GA - Griffin - Moss,31210
+GA - Griffin - Moss,31211
+GA - Griffin - Moss,31220
 GA - Jasper - Nieves/Holcombe,30028
 GA - Jasper - Nieves/Holcombe,30107
 GA - Jasper - Nieves/Holcombe,30115
@@ -2740,6 +2813,11 @@ GA - Savannah - O'Rourke,31418
 GA - Savannah - O'Rourke,31419
 GA - Savannah - O'Rourke,31420
 GA - Savannah - O'Rourke,31421
+GA - Savannah - O'Rourke,29910
+GA - Savannah - O'Rourke,29926
+GA - Savannah - O'Rourke,29927
+GA - Savannah - O'Rourke,29928
+GA - Savannah - O'Rourke,31321
 GA - Savannah - O'Rourke,31525
 IA - Des Moines - Felker,50003
 IA - Des Moines - Felker,50012
@@ -3044,10 +3122,10 @@ IL - DuPage County - Conboy/Gignac,60521
 IL - DuPage County - Conboy/Gignac,60523
 IL - DuPage County - Conboy/Gignac,60532
 IL - DuPage County - Conboy/Gignac,60559
-IL - DuPage County - Conboy/Gignac,60018
 IL - DuPage County - Conboy/Gignac,60007
 IL - DuPage County - Conboy/Gignac,60009
 IL - DuPage County - Conboy/Gignac,60017
+IL - DuPage County - Conboy/Gignac,60018
 IL - DuPage County - Conboy/Gignac,60019
 IL - DuPage County - Conboy/Gignac,60103
 IL - DuPage County - Conboy/Gignac,60105
@@ -3279,34 +3357,6 @@ IN - Indianapolis - Snyder,46075
 IN - Indianapolis - Snyder,46217
 IN - Indianapolis - Snyder,46237
 IN - Indianapolis - Snyder,46262
-IN - Indianapolis SW - Hunter,46107
-IN - Indianapolis SW - Hunter,46113
-IN - Indianapolis SW - Hunter,46142
-IN - Indianapolis SW - Hunter,46143
-IN - Indianapolis SW - Hunter,46183
-IN - Indianapolis SW - Hunter,46203
-IN - Indianapolis SW - Hunter,46206
-IN - Indianapolis SW - Hunter,46207
-IN - Indianapolis SW - Hunter,46209
-IN - Indianapolis SW - Hunter,46221
-IN - Indianapolis SW - Hunter,46225
-IN - Indianapolis SW - Hunter,46227
-IN - Indianapolis SW - Hunter,46239
-IN - Indianapolis SW - Hunter,46241
-IN - Indianapolis SW - Hunter,46242
-IN - Indianapolis SW - Hunter,46247
-IN - Indianapolis SW - Hunter,46251
-IN - Indianapolis SW - Hunter,46255
-IN - Indianapolis SW - Hunter,46259
-IN - Indianapolis SW - Hunter,46277
-IN - Indianapolis SW - Hunter,46283
-IN - Indianapolis SW - Hunter,46285
-IN - Indianapolis SW - Hunter,46298
-IN - Indianapolis SW - Hunter,46213
-IN - Indianapolis SW - Hunter,46217
-IN - Indianapolis SW - Hunter,46237
-IN - Indianapolis SW - Hunter,46262
-IN - Indianapolis SW - Hunter,46288
 IN - Indianapolis SW - Hunter,46112
 IN - Indianapolis SW - Hunter,46123
 IN - Indianapolis SW - Hunter,46167
@@ -3343,6 +3393,34 @@ IN - Indianapolis SW - Hunter,46082
 IN - Indianapolis SW - Hunter,46085
 IN - Indianapolis SW - Hunter,46280
 IN - Indianapolis SW - Hunter,46290
+IN - Indianapolis SW - Hunter,46107
+IN - Indianapolis SW - Hunter,46113
+IN - Indianapolis SW - Hunter,46142
+IN - Indianapolis SW - Hunter,46143
+IN - Indianapolis SW - Hunter,46183
+IN - Indianapolis SW - Hunter,46203
+IN - Indianapolis SW - Hunter,46206
+IN - Indianapolis SW - Hunter,46207
+IN - Indianapolis SW - Hunter,46209
+IN - Indianapolis SW - Hunter,46213
+IN - Indianapolis SW - Hunter,46217
+IN - Indianapolis SW - Hunter,46221
+IN - Indianapolis SW - Hunter,46225
+IN - Indianapolis SW - Hunter,46227
+IN - Indianapolis SW - Hunter,46237
+IN - Indianapolis SW - Hunter,46239
+IN - Indianapolis SW - Hunter,46241
+IN - Indianapolis SW - Hunter,46242
+IN - Indianapolis SW - Hunter,46247
+IN - Indianapolis SW - Hunter,46251
+IN - Indianapolis SW - Hunter,46255
+IN - Indianapolis SW - Hunter,46259
+IN - Indianapolis SW - Hunter,46262
+IN - Indianapolis SW - Hunter,46277
+IN - Indianapolis SW - Hunter,46283
+IN - Indianapolis SW - Hunter,46285
+IN - Indianapolis SW - Hunter,46288
+IN - Indianapolis SW - Hunter,46298
 IN - Indianapolis SW - Hunter,46168
 IN - South Bend - Dorvilien/Scutt,46514
 IN - South Bend - Dorvilien/Scutt,46515
@@ -3374,147 +3452,147 @@ IN - South Bend - Dorvilien/Scutt,46637
 IN - South Bend - Dorvilien/Scutt,46660
 IN - South Bend - Dorvilien/Scutt,46680
 IN - South Bend - Dorvilien/Scutt,46699
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64018
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64079
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64089
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64092
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64098
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64118
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64150
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64151
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64152
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64153
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64154
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64155
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64163
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64164
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64165
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64168
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64188
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64190
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64195
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64444
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64011
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64014
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64015
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64029
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64052
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64055
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64057
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64064
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64075
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64110
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64111
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64112
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64113
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64128
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64129
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64130
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64133
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64136
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64138
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64139
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64121
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64162
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66085
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66201
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66202
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66204
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66206
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66207
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66208
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66209
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66210
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66211
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66212
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66213
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66214
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66215
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66219
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66221
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66223
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66224
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66225
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66250
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66251
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66276
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66282
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66283
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66285
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64013
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64065
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64171
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66007
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66012
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66018
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66025
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66044
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66046
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66051
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66052
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66061
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66062
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66063
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66086
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66101
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66102
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66103
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66104
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66105
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66106
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66109
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66110
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66111
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66112
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66113
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66115
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66117
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66118
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66119
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66203
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66205
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66216
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66217
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66218
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66220
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66222
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66226
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66227
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66286
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64012
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64030
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64034
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64056
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64063
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64081
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64082
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64083
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64086
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64114
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64131
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64132
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64134
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64137
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64142
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64145
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64146
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64147
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64149
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64160
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64170
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64172
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64173
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64183
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64185
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64189
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64192
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64193
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64194
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64746
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64944
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,64999
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66013
-KS - Kansas City - Blundell/Helmer/Henry/Lampson,66160
+KS - Kansas City - Henry,64018
+KS - Kansas City - Henry,64079
+KS - Kansas City - Henry,64089
+KS - Kansas City - Henry,64092
+KS - Kansas City - Henry,64098
+KS - Kansas City - Henry,64118
+KS - Kansas City - Henry,64150
+KS - Kansas City - Henry,64151
+KS - Kansas City - Henry,64152
+KS - Kansas City - Henry,64153
+KS - Kansas City - Henry,64154
+KS - Kansas City - Henry,64155
+KS - Kansas City - Henry,64163
+KS - Kansas City - Henry,64164
+KS - Kansas City - Henry,64165
+KS - Kansas City - Henry,64168
+KS - Kansas City - Henry,64188
+KS - Kansas City - Henry,64190
+KS - Kansas City - Henry,64195
+KS - Kansas City - Henry,64444
+KS - Kansas City - Henry,64011
+KS - Kansas City - Henry,64014
+KS - Kansas City - Henry,64015
+KS - Kansas City - Henry,64029
+KS - Kansas City - Henry,64052
+KS - Kansas City - Henry,64055
+KS - Kansas City - Henry,64057
+KS - Kansas City - Henry,64064
+KS - Kansas City - Henry,64075
+KS - Kansas City - Henry,64110
+KS - Kansas City - Henry,64111
+KS - Kansas City - Henry,64112
+KS - Kansas City - Henry,64113
+KS - Kansas City - Henry,64128
+KS - Kansas City - Henry,64129
+KS - Kansas City - Henry,64130
+KS - Kansas City - Henry,64133
+KS - Kansas City - Henry,64136
+KS - Kansas City - Henry,64138
+KS - Kansas City - Henry,64139
+KS - Kansas City - Henry,64121
+KS - Kansas City - Henry,64162
+KS - Kansas City - Henry,66085
+KS - Kansas City - Henry,66201
+KS - Kansas City - Henry,66202
+KS - Kansas City - Henry,66204
+KS - Kansas City - Henry,66206
+KS - Kansas City - Henry,66207
+KS - Kansas City - Henry,66208
+KS - Kansas City - Henry,66209
+KS - Kansas City - Henry,66210
+KS - Kansas City - Henry,66211
+KS - Kansas City - Henry,66212
+KS - Kansas City - Henry,66213
+KS - Kansas City - Henry,66214
+KS - Kansas City - Henry,66215
+KS - Kansas City - Henry,66219
+KS - Kansas City - Henry,66221
+KS - Kansas City - Henry,66223
+KS - Kansas City - Henry,66224
+KS - Kansas City - Henry,66225
+KS - Kansas City - Henry,66250
+KS - Kansas City - Henry,66251
+KS - Kansas City - Henry,66276
+KS - Kansas City - Henry,66282
+KS - Kansas City - Henry,66283
+KS - Kansas City - Henry,66285
+KS - Kansas City - Henry,64013
+KS - Kansas City - Henry,64065
+KS - Kansas City - Henry,64171
+KS - Kansas City - Henry,66007
+KS - Kansas City - Henry,66012
+KS - Kansas City - Henry,66018
+KS - Kansas City - Henry,66025
+KS - Kansas City - Henry,66044
+KS - Kansas City - Henry,66046
+KS - Kansas City - Henry,66051
+KS - Kansas City - Henry,66052
+KS - Kansas City - Henry,66061
+KS - Kansas City - Henry,66062
+KS - Kansas City - Henry,66063
+KS - Kansas City - Henry,66086
+KS - Kansas City - Henry,66101
+KS - Kansas City - Henry,66102
+KS - Kansas City - Henry,66103
+KS - Kansas City - Henry,66104
+KS - Kansas City - Henry,66105
+KS - Kansas City - Henry,66106
+KS - Kansas City - Henry,66109
+KS - Kansas City - Henry,66110
+KS - Kansas City - Henry,66111
+KS - Kansas City - Henry,66112
+KS - Kansas City - Henry,66113
+KS - Kansas City - Henry,66115
+KS - Kansas City - Henry,66117
+KS - Kansas City - Henry,66118
+KS - Kansas City - Henry,66119
+KS - Kansas City - Henry,66203
+KS - Kansas City - Henry,66205
+KS - Kansas City - Henry,66216
+KS - Kansas City - Henry,66217
+KS - Kansas City - Henry,66218
+KS - Kansas City - Henry,66220
+KS - Kansas City - Henry,66222
+KS - Kansas City - Henry,66226
+KS - Kansas City - Henry,66227
+KS - Kansas City - Henry,66286
+KS - Kansas City - Henry,64012
+KS - Kansas City - Henry,64030
+KS - Kansas City - Henry,64034
+KS - Kansas City - Henry,64056
+KS - Kansas City - Henry,64063
+KS - Kansas City - Henry,64081
+KS - Kansas City - Henry,64082
+KS - Kansas City - Henry,64083
+KS - Kansas City - Henry,64086
+KS - Kansas City - Henry,64114
+KS - Kansas City - Henry,64131
+KS - Kansas City - Henry,64132
+KS - Kansas City - Henry,64134
+KS - Kansas City - Henry,64137
+KS - Kansas City - Henry,64142
+KS - Kansas City - Henry,64145
+KS - Kansas City - Henry,64146
+KS - Kansas City - Henry,64147
+KS - Kansas City - Henry,64149
+KS - Kansas City - Henry,64160
+KS - Kansas City - Henry,64170
+KS - Kansas City - Henry,64172
+KS - Kansas City - Henry,64173
+KS - Kansas City - Henry,64183
+KS - Kansas City - Henry,64185
+KS - Kansas City - Henry,64189
+KS - Kansas City - Henry,64192
+KS - Kansas City - Henry,64193
+KS - Kansas City - Henry,64194
+KS - Kansas City - Henry,64746
+KS - Kansas City - Henry,64944
+KS - Kansas City - Henry,64999
+KS - Kansas City - Henry,66013
+KS - Kansas City - Henry,66160
 KS - Topeka - McDowell,64018
 KS - Topeka - McDowell,64028
 KS - Topeka - McDowell,64079
@@ -3633,10 +3711,6 @@ KS - Topeka - McDowell,66223
 KS - Topeka - McDowell,66224
 KS - Topeka - McDowell,66226
 KS - Topeka - McDowell,66227
-KS - Wichita - Byrnes,67202
-KS - Wichita - Byrnes,67215
-KS - Wichita - Byrnes,67223
-KS - Wichita - Byrnes,67227
 KS - Wichita - Byrnes,67002
 KS - Wichita - Byrnes,67010
 KS - Wichita - Byrnes,67017
@@ -3671,13 +3745,17 @@ KS - Wichita - Byrnes,67260
 KS - Wichita - Byrnes,67278
 KS - Wichita - Byrnes,67026
 KS - Wichita - Byrnes,67101
+KS - Wichita - Byrnes,67202
 KS - Wichita - Byrnes,67203
 KS - Wichita - Byrnes,67204
 KS - Wichita - Byrnes,67205
 KS - Wichita - Byrnes,67209
 KS - Wichita - Byrnes,67212
 KS - Wichita - Byrnes,67213
+KS - Wichita - Byrnes,67215
 KS - Wichita - Byrnes,67217
+KS - Wichita - Byrnes,67223
+KS - Wichita - Byrnes,67227
 KS - Wichita - Byrnes,67235
 KY - Florence - Gordon,41001
 KY - Florence - Gordon,41005
@@ -3869,6 +3947,35 @@ LA - Baton Rouge - Breaux,70726
 LA - Baton Rouge - Breaux,70739
 LA - Baton Rouge - Breaux,70791
 LA - Baton Rouge - Breaux,70806
+LA - Covington - McAndrew/Henry,70401
+LA - Covington - McAndrew/Henry,70403
+LA - Covington - McAndrew/Henry,70404
+LA - Covington - McAndrew/Henry,70420
+LA - Covington - McAndrew/Henry,70421
+LA - Covington - McAndrew/Henry,70433
+LA - Covington - McAndrew/Henry,70434
+LA - Covington - McAndrew/Henry,70435
+LA - Covington - McAndrew/Henry,70445
+LA - Covington - McAndrew/Henry,70447
+LA - Covington - McAndrew/Henry,70448
+LA - Covington - McAndrew/Henry,70449
+LA - Covington - McAndrew/Henry,70451
+LA - Covington - McAndrew/Henry,70452
+LA - Covington - McAndrew/Henry,70454
+LA - Covington - McAndrew/Henry,70455
+LA - Covington - McAndrew/Henry,70457
+LA - Covington - McAndrew/Henry,70458
+LA - Covington - McAndrew/Henry,70459
+LA - Covington - McAndrew/Henry,70460
+LA - Covington - McAndrew/Henry,70461
+LA - Covington - McAndrew/Henry,70462
+LA - Covington - McAndrew/Henry,70466
+LA - Covington - McAndrew/Henry,70469
+LA - Covington - McAndrew/Henry,70470
+LA - Covington - McAndrew/Henry,70471
+LA - Covington - McAndrew/Henry,70711
+LA - Covington - McAndrew/Henry,70744
+LA - Covington - McAndrew/Henry,70774
 MA - Boston South - Tereshko,2108
 MA - Boston South - Tereshko,2109
 MA - Boston South - Tereshko,2110
@@ -4097,16 +4204,20 @@ MA - Chelmsford - MarcAurele,1983
 MA - Chelmsford - MarcAurele,1985
 MA - Chelmsford - MarcAurele,2155
 MA - Chelmsford - MarcAurele,2180
+MA - Chelmsford - MarcAurele,3031
 MA - Chelmsford - MarcAurele,3032
 MA - Chelmsford - MarcAurele,3034
 MA - Chelmsford - MarcAurele,3036
 MA - Chelmsford - MarcAurele,3038
 MA - Chelmsford - MarcAurele,3042
 MA - Chelmsford - MarcAurele,3044
+MA - Chelmsford - MarcAurele,3045
+MA - Chelmsford - MarcAurele,3049
 MA - Chelmsford - MarcAurele,3051
 MA - Chelmsford - MarcAurele,3052
 MA - Chelmsford - MarcAurele,3053
 MA - Chelmsford - MarcAurele,3054
+MA - Chelmsford - MarcAurele,3055
 MA - Chelmsford - MarcAurele,3060
 MA - Chelmsford - MarcAurele,3062
 MA - Chelmsford - MarcAurele,3063
@@ -4950,6 +5061,7 @@ MI - Detroit - Hagerman,48230
 MI - Detroit - Hagerman,48236
 MI - Detroit - Hagerman,48101
 MI - Detroit - Hagerman,48138
+MI - Detroit - Hagerman,48146
 MI - Detroit - Hagerman,48183
 MI - Detroit - Hagerman,48192
 MI - Flint - Hawley,48114
@@ -5063,7 +5175,6 @@ MI - Flint - Hawley,48210
 MI - Flint - Hawley,48211
 MI - Flint - Hawley,48214
 MI - Flint - Hawley,48216
-MI - Flint - Hawley,48217
 MI - Flint - Hawley,48221
 MI - Flint - Hawley,48226
 MI - Flint - Hawley,48233
@@ -5148,6 +5259,16 @@ MI - Grand Rapids - Cusack,49546
 MI - Grand Rapids - Cusack,49555
 MI - Grand Rapids - Cusack,49599
 MI - Grand Rapids - Cusack,49127
+MI - Grand Rapids - Cusack,49332
+MI - Grand Rapids - Cusack,49401
+MI - Grand Rapids - Cusack,49404
+MI - Grand Rapids - Cusack,49406
+MI - Grand Rapids - Cusack,49417
+MI - Grand Rapids - Cusack,49423
+MI - Grand Rapids - Cusack,49426
+MI - Grand Rapids - Cusack,49427
+MI - Grand Rapids - Cusack,49435
+MI - Grand Rapids - Cusack,49441
 MI - Kalamazoo - Jacob,49017
 MI - Kalamazoo - Jacob,49018
 MI - Kalamazoo - Jacob,49020
@@ -5220,9 +5341,6 @@ MI - Kalamazoo - Jacob,49094
 MI - Kalamazoo - Jacob,49095
 MI - Kalamazoo - Jacob,49098
 MI - Kalamazoo - Jacob,49103
-MI - Kalamazoo - Jacob,49417
-MI - Kalamazoo - Jacob,49424
-MI - Kalamazoo - Jacob,49426
 MI - Lansing - Burkle/Willbrandt,49757
 MI - Lansing - Burkle/Willbrandt,48805
 MI - Lansing - Burkle/Willbrandt,48808
@@ -5643,7 +5761,9 @@ MN - Shoreview - Spille,55090
 MN - Shoreview - Spille,55110
 MN - Shoreview - Spille,55115
 MN - Shoreview - Spille,55127
+MN - Shoreview - Spille,55303
 MN - Shoreview - Spille,55304
+MN - Shoreview - Spille,55330
 MN - Shoreview - Spille,55433
 MN - Shoreview - Spille,55434
 MN - Shoreview - Spille,55448
@@ -6212,7 +6332,6 @@ NC - Raleigh - Roper,27592
 NC - Raleigh - Roper,27593
 NC - Raleigh - Roper,27596
 NC - Raleigh - Roper,27597
-NC - Statesville Mooresville - McCormick,28761
 NC - Statesville Mooresville - McCormick,27013
 NC - Statesville Mooresville - McCormick,27014
 NC - Statesville Mooresville - McCormick,27028
@@ -6236,8 +6355,12 @@ NC - Statesville Mooresville - McCormick,28147
 NC - Statesville Mooresville - McCormick,28159
 NC - Statesville Mooresville - McCormick,28166
 NC - Statesville Mooresville - McCormick,28609
+NC - Statesville Mooresville - McCormick,28610
+NC - Statesville Mooresville - McCormick,28613
 NC - Statesville Mooresville - McCormick,28625
 NC - Statesville Mooresville - McCormick,28634
+NC - Statesville Mooresville - McCormick,28650
+NC - Statesville Mooresville - McCormick,28658
 NC - Statesville Mooresville - McCormick,28660
 NC - Statesville Mooresville - McCormick,28673
 NC - Statesville Mooresville - McCormick,28677
@@ -6245,12 +6368,11 @@ NC - Statesville Mooresville - McCormick,28682
 NC - Statesville Mooresville - McCormick,28687
 NC - Statesville Mooresville - McCormick,28688
 NC - Statesville Mooresville - McCormick,28699
-NC - Statesville Mooresville - McCormick,28610
-NC - Statesville Mooresville - McCormick,28613
-NC - Statesville Mooresville - McCormick,28650
-NC - Statesville Mooresville - McCormick,28658
+NC - Statesville Mooresville - McCormick,28001
+NC - Statesville Mooresville - McCormick,28002
 NC - Statesville Mooresville - McCormick,28025
 NC - Statesville Mooresville - McCormick,28675
+NC - Statesville Mooresville - McCormick,28761
 NC - Thomasville - Shone,27006
 NC - Thomasville - Shone,27012
 NC - Thomasville - Shone,27023
@@ -7836,16 +7958,22 @@ OH - Columbus North - Francis,43016
 OH - Columbus North - Francis,43017
 OH - Columbus North - Francis,43026
 OH - Columbus North - Francis,43054
+OH - Columbus North - Francis,43055
 OH - Columbus North - Francis,43065
 OH - Columbus North - Francis,43085
+OH - Columbus North - Francis,43119
+OH - Columbus North - Francis,43123
 OH - Columbus North - Francis,43201
 OH - Columbus North - Francis,43209
 OH - Columbus North - Francis,43212
 OH - Columbus North - Francis,43214
 OH - Columbus North - Francis,43215
 OH - Columbus North - Francis,43220
+OH - Columbus North - Francis,43221
+OH - Columbus North - Francis,43224
 OH - Columbus North - Francis,43228
 OH - Columbus North - Francis,43230
+OH - Columbus North - Francis,43231
 OH - Columbus North - Francis,43235
 OK - Jenks - Foster,74008
 OK - Jenks - Foster,74010
@@ -7879,6 +8007,7 @@ OK - Oklahoma City - Dufek,73020
 OK - Oklahoma City - Dufek,73066
 OK - Oklahoma City - Dufek,73069
 OK - Oklahoma City - Dufek,73070
+OK - Oklahoma City - Dufek,73071
 OK - Oklahoma City - Dufek,73072
 OK - Oklahoma City - Dufek,73109
 OK - Oklahoma City - Dufek,73115
@@ -7896,7 +8025,6 @@ OK - Oklahoma City - Dufek,73160
 OK - Oklahoma City - Dufek,73165
 OK - Oklahoma City - Dufek,73170
 OK - Oklahoma City - Dufek,73190
-OK - Oklahoma City - Dufek,73071
 OK - Oklahoma City - Dufek,73003
 OK - Oklahoma City - Dufek,73012
 OK - Oklahoma City - Dufek,73013
@@ -9158,16 +9286,6 @@ TN - Knoxville - Secore,37882
 TN - Knoxville - Secore,37885
 TN - Knoxville - Secore,37886
 TN - Knoxville - Secore,37890
-TN - Nashville - Lombardi,37016
-TN - Nashville - Lombardi,37037
-TN - Nashville - Lombardi,37060
-TN - Nashville - Lombardi,37085
-TN - Nashville - Lombardi,37089
-TN - Nashville - Lombardi,37118
-TN - Nashville - Lombardi,37131
-TN - Nashville - Lombardi,37133
-TN - Nashville - Lombardi,37149
-TN - Nashville - Lombardi,37153
 TN - Nashville - Lombardi,37011
 TN - Nashville - Lombardi,37013
 TN - Nashville - Lombardi,37014
@@ -9219,11 +9337,22 @@ TN - Nashville - Lombardi,37243
 TN - Nashville - Lombardi,37244
 TN - Nashville - Lombardi,37246
 TN - Nashville - Lombardi,37250
+TN - Nashville - Lombardi,37016
+TN - Nashville - Lombardi,37037
+TN - Nashville - Lombardi,37060
+TN - Nashville - Lombardi,37085
 TN - Nashville - Lombardi,37086
+TN - Nashville - Lombardi,37089
+TN - Nashville - Lombardi,37118
 TN - Nashville - Lombardi,37127
 TN - Nashville - Lombardi,37128
 TN - Nashville - Lombardi,37129
 TN - Nashville - Lombardi,37130
+TN - Nashville - Lombardi,37131
+TN - Nashville - Lombardi,37132
+TN - Nashville - Lombardi,37133
+TN - Nashville - Lombardi,37149
+TN - Nashville - Lombardi,37153
 TN - Nashville - Lombardi,37167
 TN - Nashville - Lombardi,37070
 TN - Nashville - Lombardi,37071
@@ -9242,7 +9371,6 @@ TN - Nashville - Lombardi,37136
 TN - Nashville - Lombardi,37138
 TN - Nashville - Lombardi,37184
 TN - Nashville - Lombardi,37216
-TN - Nashville - Lombardi,37132
 TN - Nashville - Lombardi,37011
 TN - Nashville - Lombardi,37013
 TN - Nashville - Lombardi,37014
@@ -9416,6 +9544,7 @@ TX - Austin Junk - Lampson,78630
 TX - Austin Junk - Lampson,78651
 TX - Austin Junk - Lampson,78653
 TX - Austin Junk - Lampson,78660
+TX - Austin Junk - Lampson,78665
 TX - Austin Junk - Lampson,78673
 TX - Austin Junk - Lampson,78674
 TX - Austin Junk - Lampson,78680
@@ -9439,7 +9568,6 @@ TX - Austin Junk - Lampson,78753
 TX - Austin Junk - Lampson,78754
 TX - Austin Junk - Lampson,78756
 TX - Austin Junk - Lampson,78757
-TX - Austin Junk - Lampson,78665
 TX - Austin Junk - Lampson,78737
 TX - Austin Junk - Lampson,78780
 TX - Austin Junk - Lampson,78781
@@ -9558,8 +9686,6 @@ TX - Austin Move North - Hiegel,78732
 TX - Austin Move North - Hiegel,78750
 TX - Austin Move North - Hiegel,78755
 TX - Austin Move North - Hiegel,78759
-TX - Austin Move North - Hiegel,78628
-TX - Austin Move North - Hiegel,78633
 TX - Austin Move North - Hiegel,78642
 TX - Beaumont - Danna,77514
 TX - Beaumont - Danna,77538
@@ -9670,6 +9796,38 @@ TX - Conroe - Quintanilha,77521
 TX - Conroe - Quintanilha,77523
 TX - Conroe - Quintanilha,77532
 TX - Conroe - Quintanilha,77562
+TX - Copperfield - Witkowsky,77018
+TX - Copperfield - Witkowsky,77040
+TX - Copperfield - Witkowsky,77041
+TX - Copperfield - Witkowsky,77043
+TX - Copperfield - Witkowsky,77079
+TX - Copperfield - Witkowsky,77084
+TX - Copperfield - Witkowsky,77091
+TX - Copperfield - Witkowsky,77092
+TX - Copperfield - Witkowsky,77206
+TX - Copperfield - Witkowsky,77218
+TX - Copperfield - Witkowsky,77240
+TX - Copperfield - Witkowsky,77241
+TX - Copperfield - Witkowsky,77284
+TX - Copperfield - Witkowsky,77292
+TX - Dallas Carrollton - Leffel,76005
+TX - Dallas Carrollton - Leffel,76006
+TX - Dallas Carrollton - Leffel,76012
+TX - Dallas Carrollton - Leffel,76021
+TX - Dallas Carrollton - Leffel,76022
+TX - Dallas Carrollton - Leffel,76034
+TX - Dallas Carrollton - Leffel,76039
+TX - Dallas Carrollton - Leffel,76040
+TX - Dallas Carrollton - Leffel,76053
+TX - Dallas Carrollton - Leffel,76054
+TX - Dallas Carrollton - Leffel,76095
+TX - Dallas Carrollton - Leffel,76117
+TX - Dallas Carrollton - Leffel,76118
+TX - Dallas Carrollton - Leffel,76120
+TX - Dallas Carrollton - Leffel,76155
+TX - Dallas Carrollton - Leffel,76180
+TX - Dallas Carrollton - Leffel,76181
+TX - Dallas Carrollton - Leffel,76182
 TX - Dallas Carrollton - Leffel,75006
 TX - Dallas Carrollton - Leffel,75014
 TX - Dallas Carrollton - Leffel,75015
@@ -9707,9 +9865,6 @@ TX - Dallas Carrollton - Leffel,75025
 TX - Dallas Carrollton - Leffel,75033
 TX - Dallas Carrollton - Leffel,75034
 TX - Dallas Carrollton - Leffel,75035
-TX - Dallas Carrollton - Leffel,75050
-TX - Dallas Carrollton - Leffel,75051
-TX - Dallas Carrollton - Leffel,75060
 TX - Dallas Carrollton - Leffel,75074
 TX - Dallas Carrollton - Leffel,75075
 TX - Dallas Carrollton - Leffel,75093
@@ -9717,10 +9872,6 @@ TX - Dallas Carrollton - Leffel,75240
 TX - Dallas Carrollton - Leffel,75248
 TX - Dallas Carrollton - Leffel,75252
 TX - Dallas Carrollton - Leffel,75254
-TX - Dallas Carrollton - Leffel,76010
-TX - Dallas Carrollton - Leffel,76011
-TX - Dallas Carrollton - Leffel,76013
-TX - Dallas Carrollton - Leffel,76052
 TX - Dallas Carrollton - Leffel,76177
 TX - Dallas Carrollton - Leffel,76226
 TX - Dallas Carrollton - Leffel,76244
@@ -9798,10 +9949,8 @@ TX - Dallas Central - Syed,75033
 TX - Dallas Central - Syed,75034
 TX - Dallas Central - Syed,75035
 TX - Dallas Central - Syed,75036
-TX - Dallas Central - Syed,75050
 TX - Dallas Central - Syed,75052
 TX - Dallas Central - Syed,75054
-TX - Dallas Central - Syed,75060
 TX - Dallas Central - Syed,75074
 TX - Dallas Central - Syed,75075
 TX - Dallas Central - Syed,75080
@@ -9838,7 +9987,21 @@ TX - Dallas Garland - Quintanilla,75088
 TX - Dallas Garland - Quintanilla,75089
 TX - Dallas Garland - Quintanilla,75094
 TX - Dallas Garland - Quintanilla,75098
-TX - Denton - Ablitt,76207
+TX - Dallas Southwest - Rohlfs,75050
+TX - Dallas Southwest - Rohlfs,75051
+TX - Dallas Southwest - Rohlfs,75053
+TX - Dallas Southwest - Rohlfs,75060
+TX - Dallas Southwest - Rohlfs,76004
+TX - Dallas Southwest - Rohlfs,76007
+TX - Dallas Southwest - Rohlfs,76010
+TX - Dallas Southwest - Rohlfs,76011
+TX - Dallas Southwest - Rohlfs,76013
+TX - Dallas Southwest - Rohlfs,76014
+TX - Dallas Southwest - Rohlfs,76015
+TX - Dallas Southwest - Rohlfs,76016
+TX - Dallas Southwest - Rohlfs,76018
+TX - Dallas Southwest - Rohlfs,76094
+TX - Dallas Southwest - Rohlfs,76096
 TX - Denton - Ablitt,75065
 TX - Denton - Ablitt,75068
 TX - Denton - Ablitt,75077
@@ -9848,12 +10011,14 @@ TX - Denton - Ablitt,76203
 TX - Denton - Ablitt,76204
 TX - Denton - Ablitt,76205
 TX - Denton - Ablitt,76206
+TX - Denton - Ablitt,76207
 TX - Denton - Ablitt,76208
 TX - Denton - Ablitt,76209
 TX - Denton - Ablitt,76210
 TX - Denton - Ablitt,76227
 TX - Denton - Ablitt,76233
 TX - Denton - Ablitt,76258
+TX - Denton - Ablitt,76266
 TX - Denton - Ablitt,76271
 TX - Denton - Ablitt,76272
 TX - Eldridge - Mance,77042
@@ -9869,10 +10034,7 @@ TX - Eldridge - Mance,77282
 TX - Eldridge - Mance,77411
 TX - Eldridge - Mance,77413
 TX - Eldridge - Mance,77450
-TX - Eldridge - Mance,77043
 TX - Eldridge - Mance,77065
-TX - Eldridge - Mance,77079
-TX - Eldridge - Mance,77084
 TX - Eldridge - Mance,77095
 TX - Eldridge - Mance,77433
 TX - Eldridge - Mance,77449
@@ -9952,7 +10114,6 @@ TX - Houston Central - Smith,77013
 TX - Houston Central - Smith,77015
 TX - Houston Central - Smith,77016
 TX - Houston Central - Smith,77017
-TX - Houston Central - Smith,77018
 TX - Houston Central - Smith,77020
 TX - Houston Central - Smith,77021
 TX - Houston Central - Smith,77022
@@ -9962,8 +10123,6 @@ TX - Houston Central - Smith,77028
 TX - Houston Central - Smith,77029
 TX - Houston Central - Smith,77034
 TX - Houston Central - Smith,77039
-TX - Houston Central - Smith,77040
-TX - Houston Central - Smith,77041
 TX - Houston Central - Smith,77049
 TX - Houston Central - Smith,77050
 TX - Houston Central - Smith,77055
@@ -9977,13 +10136,10 @@ TX - Houston Central - Smith,77078
 TX - Houston Central - Smith,77087
 TX - Houston Central - Smith,77088
 TX - Houston Central - Smith,77090
-TX - Houston Central - Smith,77091
-TX - Houston Central - Smith,77092
 TX - Houston Central - Smith,77093
 TX - Houston Central - Smith,77224
 TX - Houston Central - Smith,77273
 TX - Houston Central - Smith,77279
-TX - Houston Central - Smith,77284
 TX - Houston Central - Smith,77331
 TX - Houston Central - Smith,77359
 TX - Houston Central - Smith,77364
@@ -10098,29 +10254,21 @@ TX - McKinney - O'Hanna,75072
 TX - McKinney - O'Hanna,75078
 TX - McKinney - O'Hanna,75097
 TX - McKinney - O'Hanna,75454
+TX - McKinney - O'Hanna,75023
+TX - McKinney - O'Hanna,75024
+TX - McKinney - O'Hanna,75025
+TX - McKinney - O'Hanna,75026
+TX - McKinney - O'Hanna,75033
+TX - McKinney - O'Hanna,75034
+TX - McKinney - O'Hanna,75035
+TX - McKinney - O'Hanna,75074
+TX - McKinney - O'Hanna,75075
 TX - McKinney - O'Hanna,75090
 TX - McKinney - O'Hanna,75091
 TX - McKinney - O'Hanna,75092
+TX - McKinney - O'Hanna,75252
 TX - McKinney - O'Hanna,75459
 TX - McKinney - O'Hanna,75495
-TX - NE Fort Worth - Reyes/Carron,76005
-TX - NE Fort Worth - Reyes/Carron,76006
-TX - NE Fort Worth - Reyes/Carron,76012
-TX - NE Fort Worth - Reyes/Carron,76021
-TX - NE Fort Worth - Reyes/Carron,76022
-TX - NE Fort Worth - Reyes/Carron,76034
-TX - NE Fort Worth - Reyes/Carron,76039
-TX - NE Fort Worth - Reyes/Carron,76040
-TX - NE Fort Worth - Reyes/Carron,76053
-TX - NE Fort Worth - Reyes/Carron,76054
-TX - NE Fort Worth - Reyes/Carron,76095
-TX - NE Fort Worth - Reyes/Carron,76117
-TX - NE Fort Worth - Reyes/Carron,76118
-TX - NE Fort Worth - Reyes/Carron,76120
-TX - NE Fort Worth - Reyes/Carron,76155
-TX - NE Fort Worth - Reyes/Carron,76180
-TX - NE Fort Worth - Reyes/Carron,76181
-TX - NE Fort Worth - Reyes/Carron,76182
 TX - NE San Antonio - Good,78201
 TX - NE San Antonio - Good,78209
 TX - NE San Antonio - Good,78212
@@ -10136,6 +10284,13 @@ TX - NE San Antonio - Good,78259
 TX - NE San Antonio - Good,78265
 TX - NE San Antonio - Good,78284
 TX - NE San Antonio - Good,78285
+TX - NE San Antonio - Good,78289
+TX - NE San Antonio - Good,78240
+TX - NE San Antonio - Good,78249
+TX - NE San Antonio - Good,78250
+TX - NE San Antonio - Good,78251
+TX - NE San Antonio - Good,78253
+TX - NE San Antonio - Good,78254
 TX - New Braunfels - Kalambayi,78108
 TX - New Braunfels - Kalambayi,78109
 TX - New Braunfels - Kalambayi,78115
@@ -10173,16 +10328,6 @@ TX - North Dallas - Arredondo/Rosales,75359
 TX - North Dallas - Arredondo/Rosales,75367
 TX - North Dallas - Arredondo/Rosales,75374
 TX - North Dallas - Arredondo/Rosales,75382
-TX - NW San Antonio - Joiner,78228
-TX - NW San Antonio - Joiner,78238
-TX - NW San Antonio - Joiner,78240
-TX - NW San Antonio - Joiner,78249
-TX - NW San Antonio - Joiner,78250
-TX - NW San Antonio - Joiner,78251
-TX - NW San Antonio - Joiner,78254
-TX - NW San Antonio - Joiner,78268
-TX - NW San Antonio - Joiner,78269
-TX - NW San Antonio - Joiner,78253
 TX - Plano - Bhakta,75240
 TX - Plano - Bhakta,75248
 TX - Plano - Bhakta,75254
@@ -10227,6 +10372,30 @@ TX - Rockwall - Lee,75424
 TX - Rockwall - Lee,75442
 TX - Rockwall - Lee,75474
 TX - Rockwall - Lee,75485
+TX - Round Rock Move - Tayong,73301
+TX - Round Rock Move - Tayong,73344
+TX - Round Rock Move - Tayong,78626
+TX - Round Rock Move - Tayong,78627
+TX - Round Rock Move - Tayong,78628
+TX - Round Rock Move - Tayong,78634
+TX - Round Rock Move - Tayong,78653
+TX - Round Rock Move - Tayong,78660
+TX - Round Rock Move - Tayong,78664
+TX - Round Rock Move - Tayong,78665
+TX - Round Rock Move - Tayong,78673
+TX - Round Rock Move - Tayong,78674
+TX - Round Rock Move - Tayong,78680
+TX - Round Rock Move - Tayong,78681
+TX - Round Rock Move - Tayong,78682
+TX - Round Rock Move - Tayong,78683
+TX - Round Rock Move - Tayong,78691
+TX - Round Rock Move - Tayong,78714
+TX - Round Rock Move - Tayong,78754
+TX - Round Rock Move - Tayong,78763
+TX - Round Rock Move - Tayong,78772
+TX - Round Rock Move - Tayong,78779
+TX - Round Rock Move - Tayong,78799
+TX - Round Rock Move - Tayong,78633
 TX - San Antonio - Marlowe,78004
 TX - San Antonio - Marlowe,78006
 TX - San Antonio - Marlowe,78015
@@ -10277,10 +10446,37 @@ TX - San Antonio - Marlowe,78247
 TX - San Antonio - Marlowe,78249
 TX - San Antonio - Marlowe,78250
 TX - San Antonio - Marlowe,78251
+TX - San Antonio - Marlowe,78253
+TX - San Antonio - Marlowe,78254
 TX - San Antonio - Marlowe,78255
 TX - San Antonio - Marlowe,78259
 TX - San Antonio - Marlowe,78266
 TX - San Antonio - Marlowe,78666
+TX - SW Ft. Worth - Winegarden,76020
+TX - SW Ft. Worth - Winegarden,76052
+TX - SW Ft. Worth - Winegarden,76071
+TX - SW Ft. Worth - Winegarden,76098
+TX - SW Ft. Worth - Winegarden,76106
+TX - SW Ft. Worth - Winegarden,76111
+TX - SW Ft. Worth - Winegarden,76114
+TX - SW Ft. Worth - Winegarden,76122
+TX - SW Ft. Worth - Winegarden,76130
+TX - SW Ft. Worth - Winegarden,76131
+TX - SW Ft. Worth - Winegarden,76135
+TX - SW Ft. Worth - Winegarden,76136
+TX - SW Ft. Worth - Winegarden,76137
+TX - SW Ft. Worth - Winegarden,76148
+TX - SW Ft. Worth - Winegarden,76150
+TX - SW Ft. Worth - Winegarden,76164
+TX - SW Ft. Worth - Winegarden,76179
+TX - SW Ft. Worth - Winegarden,76190
+TX - SW Ft. Worth - Winegarden,76191
+TX - SW Ft. Worth - Winegarden,76192
+TX - SW Ft. Worth - Winegarden,76193
+TX - SW Ft. Worth - Winegarden,76195
+TX - SW Ft. Worth - Winegarden,76197
+TX - SW Ft. Worth - Winegarden,76198
+TX - SW Ft. Worth - Winegarden,76199
 TX - SW Ft. Worth - Winegarden,76008
 TX - SW Ft. Worth - Winegarden,76036
 TX - SW Ft. Worth - Winegarden,76086
@@ -10301,21 +10497,6 @@ TX - SW Ft. Worth - Winegarden,76162
 TX - SW Ft. Worth - Winegarden,76163
 TX - SW Ft. Worth - Winegarden,76185
 TX - SW Ft. Worth - Winegarden,76439
-TX - SW San Antonio - Belyeu,78002
-TX - SW San Antonio - Belyeu,78009
-TX - SW San Antonio - Belyeu,78054
-TX - SW San Antonio - Belyeu,78073
-TX - SW San Antonio - Belyeu,78207
-TX - SW San Antonio - Belyeu,78211
-TX - SW San Antonio - Belyeu,78226
-TX - SW San Antonio - Belyeu,78227
-TX - SW San Antonio - Belyeu,78236
-TX - SW San Antonio - Belyeu,78237
-TX - SW San Antonio - Belyeu,78242
-TX - SW San Antonio - Belyeu,78243
-TX - SW San Antonio - Belyeu,78245
-TX - SW San Antonio - Belyeu,78252
-TX - SW San Antonio - Belyeu,78253
 TX - The Woodlands - Mejia,77070
 TX - The Woodlands - Mejia,77269
 TX - The Woodlands - Mejia,77337
@@ -10330,8 +10511,10 @@ TX - The Woodlands - Mejia,77393
 TX - The Woodlands - Mejia,77410
 TX - The Woodlands - Mejia,77429
 TX - The Woodlands - Mejia,77355
+TX - The Woodlands - Mejia,77363
 TX - The Woodlands - Mejia,77379
 TX - The Woodlands - Mejia,77388
+TX - The Woodlands - Mejia,77396
 TX - Waco - Mills,76501
 TX - Waco - Mills,76502
 TX - Waco - Mills,76503
@@ -10383,6 +10566,7 @@ UT - Draper - Moss,84065
 UT - Draper - Moss,84009
 UT - Draper - Moss,84070
 UT - Draper - Moss,84092
+UT - Draper - Moss,84093
 UT - Draper - Moss,84094
 UT - Draper - Moss,84095
 UT - Draper - Moss,84096
@@ -10402,6 +10586,10 @@ UT - Provo - Hendrickson,84655
 UT - Provo - Hendrickson,84660
 UT - Provo - Hendrickson,84663
 UT - Provo - Hendrickson,84664
+UT - Provo - Hendrickson,84032
+UT - Provo - Hendrickson,84049
+UT - Provo - Hendrickson,84645
+UT - Provo - Hendrickson,84648
 VA - Arlington - Craig,20107
 VA - Arlington - Craig,20069
 VA - Arlington - Craig,20070
@@ -11023,10 +11211,12 @@ WA - Lynnwood - Thirlwall,98270
 WA - Renton - Davis,98042
 WA - Renton - Davis,98092
 WA - Renton - Davis,98391
+WA - Renton - Davis,98010
 WA - Renton - Davis,98030
 WA - Renton - Davis,98031
 WA - Renton - Davis,98032
 WA - Renton - Davis,98035
+WA - Renton - Davis,98038
 WA - Renton - Davis,98055
 WA - Renton - Davis,98057
 WA - Renton - Davis,98058
@@ -11045,15 +11235,14 @@ WA - Renton - Davis,98178
 WA - Renton - Davis,98188
 WA - Renton - Davis,98190
 WA - Renton - Davis,98198
-WA - Renton - Davis,98010
+WA - Renton - Davis,98360
 WA - Renton - Davis,98022
 WA - Renton - Davis,98024
-WA - Renton - Davis,98027
-WA - Renton - Davis,98038
 WA - Renton - Davis,98045
 WA - Renton - Davis,98065
 WA - Renton - Davis,98321
-WA - Renton - Davis,98360
+WA - Seattle Central - Olason,98174
+WA - Seattle Central - Olason,98184
 WA - Seattle Central - Olason,98101
 WA - Seattle Central - Olason,98102
 WA - Seattle Central - Olason,98104
@@ -11078,12 +11267,9 @@ WA - Seattle Central - Olason,98144
 WA - Seattle Central - Olason,98154
 WA - Seattle Central - Olason,98161
 WA - Seattle Central - Olason,98164
-WA - Seattle Central - Olason,98174
 WA - Seattle Central - Olason,98181
-WA - Seattle Central - Olason,98184
 WA - Seattle Central - Olason,98191
 WA - Seattle Central - Olason,98194
-WA - Seattle Central - Olason,98195
 WA - Seattle Central - Olason,98199
 WA - Seattle Central - Olason,98004
 WA - Seattle Central - Olason,98005
@@ -11092,14 +11278,14 @@ WA - Seattle Central - Olason,98007
 WA - Seattle Central - Olason,98008
 WA - Seattle Central - Olason,98009
 WA - Seattle Central - Olason,98015
-WA - Seattle Central - Olason,98033
+WA - Seattle Central - Olason,98027
+WA - Seattle Central - Olason,98029
 WA - Seattle Central - Olason,98039
 WA - Seattle Central - Olason,98040
-WA - Seattle Central - Olason,98052
 WA - Seattle Central - Olason,98056
 WA - Seattle Central - Olason,98059
-WA - Seattle Central - Olason,98073
-WA - Seattle Central - Olason,98083
+WA - Seattle Central - Olason,98074
+WA - Seattle Central - Olason,98075
 WA - Seattle Central - Olason,98103
 WA - Seattle Central - Olason,98105
 WA - Seattle Central - Olason,98107
@@ -11117,22 +11303,23 @@ WA - Seattle Central - Olason,98170
 WA - Seattle Central - Olason,98175
 WA - Seattle Central - Olason,98177
 WA - Seattle Central - Olason,98185
+WA - Seattle Central - Olason,98195
 WA - Seattle Central - Olason,98011
 WA - Seattle Central - Olason,98012
 WA - Seattle Central - Olason,98021
-WA - Seattle Central - Olason,98027
 WA - Seattle Central - Olason,98028
-WA - Seattle Central - Olason,98029
+WA - Seattle Central - Olason,98033
 WA - Seattle Central - Olason,98034
 WA - Seattle Central - Olason,98041
+WA - Seattle Central - Olason,98052
 WA - Seattle Central - Olason,98053
-WA - Seattle Central - Olason,98057
-WA - Seattle Central - Olason,98062
 WA - Seattle Central - Olason,98072
-WA - Seattle Central - Olason,98074
-WA - Seattle Central - Olason,98075
+WA - Seattle Central - Olason,98073
 WA - Seattle Central - Olason,98077
 WA - Seattle Central - Olason,98082
+WA - Seattle Central - Olason,98083
+WA - Seattle Central - Olason,98057
+WA - Seattle Central - Olason,98062
 WA - Seattle Central - Olason,98131
 WA - Seattle Central - Olason,98138
 WA - Seattle Central - Olason,98146
@@ -11250,7 +11437,6 @@ WA - Tacoma - Christian/Evans,98471
 WA - Tacoma - Christian/Evans,98481
 WA - Tacoma - Christian/Evans,98490
 WA - Tacoma - Christian/Evans,98493
-WA - Tacoma - Christian/Evans,98360
 WA - Tacoma - Christian/Evans,98391
 WI - Appleton - Holt,53014
 WI - Appleton - Holt,53088
@@ -11290,6 +11476,11 @@ WI - Appleton - Holt,54963
 WI - Appleton - Holt,54980
 WI - Appleton - Holt,54985
 WI - Appleton - Holt,54986
+WI - Appleton - Holt,53079
+WI - Appleton - Holt,53919
+WI - Appleton - Holt,54932
+WI - Appleton - Holt,54937
+WI - Appleton - Holt,54974
 WI - Germantown - Wetzel,53004
 WI - Germantown - Wetzel,53012
 WI - Germantown - Wetzel,53017
@@ -11325,6 +11516,66 @@ WI - Germantown - Wetzel,53083
 WI - Germantown - Wetzel,54941
 WI - Germantown - Wetzel,54968
 WI - Germantown - Wetzel,54971
+WI - Green Bay - Goetz/Klapa,54106
+WI - Green Bay - Goetz/Klapa,54115
+WI - Green Bay - Goetz/Klapa,54126
+WI - Green Bay - Goetz/Klapa,54130
+WI - Green Bay - Goetz/Klapa,54131
+WI - Green Bay - Goetz/Klapa,54136
+WI - Green Bay - Goetz/Klapa,54140
+WI - Green Bay - Goetz/Klapa,54152
+WI - Green Bay - Goetz/Klapa,54155
+WI - Green Bay - Goetz/Klapa,54162
+WI - Green Bay - Goetz/Klapa,54165
+WI - Green Bay - Goetz/Klapa,54171
+WI - Green Bay - Goetz/Klapa,54173
+WI - Green Bay - Goetz/Klapa,54180
+WI - Green Bay - Goetz/Klapa,54208
+WI - Green Bay - Goetz/Klapa,54217
+WI - Green Bay - Goetz/Klapa,54229
+WI - Green Bay - Goetz/Klapa,54240
+WI - Green Bay - Goetz/Klapa,54301
+WI - Green Bay - Goetz/Klapa,54302
+WI - Green Bay - Goetz/Klapa,54303
+WI - Green Bay - Goetz/Klapa,54304
+WI - Green Bay - Goetz/Klapa,54305
+WI - Green Bay - Goetz/Klapa,54306
+WI - Green Bay - Goetz/Klapa,54307
+WI - Green Bay - Goetz/Klapa,54308
+WI - Green Bay - Goetz/Klapa,54311
+WI - Green Bay - Goetz/Klapa,54313
+WI - Green Bay - Goetz/Klapa,54324
+WI - Green Bay - Goetz/Klapa,54344
+WI - Green Bay - Goetz/Klapa,54912
+WI - Green Bay - Goetz/Klapa,54913
+WI - Green Bay - Goetz/Klapa,54919
+WI - Kenosha - Finerty,53102
+WI - Kenosha - Finerty,53104
+WI - Kenosha - Finerty,53108
+WI - Kenosha - Finerty,53109
+WI - Kenosha - Finerty,53126
+WI - Kenosha - Finerty,53139
+WI - Kenosha - Finerty,53140
+WI - Kenosha - Finerty,53141
+WI - Kenosha - Finerty,53142
+WI - Kenosha - Finerty,53143
+WI - Kenosha - Finerty,53144
+WI - Kenosha - Finerty,53158
+WI - Kenosha - Finerty,53168
+WI - Kenosha - Finerty,53170
+WI - Kenosha - Finerty,53171
+WI - Kenosha - Finerty,53177
+WI - Kenosha - Finerty,53179
+WI - Kenosha - Finerty,53182
+WI - Kenosha - Finerty,53194
+WI - Kenosha - Finerty,53401
+WI - Kenosha - Finerty,53402
+WI - Kenosha - Finerty,53403
+WI - Kenosha - Finerty,53404
+WI - Kenosha - Finerty,53405
+WI - Kenosha - Finerty,53406
+WI - Kenosha - Finerty,53407
+WI - Kenosha - Finerty,53408
 WI - Madison - Larsen,53098
 WI - Madison - Larsen,53515
 WI - Madison - Larsen,53517
@@ -11478,12 +11729,3 @@ WI - Oak Creek - Gunderson,53228
 WI - Oak Creek - Gunderson,53234
 WI - Oak Creek - Gunderson,53235
 WI - Oak Creek - Gunderson,53237
-WI - Oak Creek - Gunderson,53108
-WI - Oak Creek - Gunderson,53126
-WI - Oak Creek - Gunderson,53177
-WI - Oak Creek - Gunderson,53402
-WI - Oak Creek - Gunderson,53403
-WI - Oak Creek - Gunderson,53404
-WI - Oak Creek - Gunderson,53405
-WI - Oak Creek - Gunderson,53406
-WI - Oak Creek - Gunderson,53407
