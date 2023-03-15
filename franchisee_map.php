@@ -37,6 +37,7 @@ $franchisees_map = [
 
   'CT - Danbury - Harrington/Claffey' => 515,
   'CT - East Hartford - Dabkowski' => 530,
+  'CT - Hartford - Dabkowski' => 530,
 	'CT - Shoreline - Morra' => 653,
 
   'DE - Dover - Gonyo' => 524,
@@ -104,6 +105,7 @@ $franchisees_map = [
   'IN - South Bend - Dorvilien/Scutt' => 656,
 
   'KS - Kansas City - Blundell/Helmer/Henry/Lampson' => 567,
+  'KS - Kansas City - Henry' => 567,
 	'KS - Topeka - McDowell' => 675,
   'KS - Wichita - Byrnes' => 686,
 
@@ -293,7 +295,7 @@ $franchisees_map = [
   'WA - Tacoma - Christian/Evans' => 670,
 
 	'WI - Appleton - Holt' => 462,
-  'WI - Greenbay - Holt' => 549,
+  'WI - Green Bay - Goetz/Klapa' => 549,
 	'WI - Madison - Larsen' => 588,
   'WI - Milwaukee - Coenen' => 595,
 	'WI - Oak Creek - Gunderson' => 619,
