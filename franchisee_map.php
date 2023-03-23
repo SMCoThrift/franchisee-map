@@ -115,6 +115,7 @@ $franchisees_map = [
 
 	'LA - Acadiana - Embroli' => 458,
   'LA - Baton Rouge - Breaux' => 473,
+  'LA - Covington - McAndrew/Henry' => 477364,
 
   'MA - Boston South - Tereshko' => 657,
   'MA - Chelmsford - MarcAurele' => 495,
@@ -132,8 +133,6 @@ $franchisees_map = [
   'MI - Canton - Whitchurch' => 484,
   'MI - Detroit - Hagerman' => 522,
 	'MI - Flint - Hawley' => 456,
-
-
   'MI - Oakland County - Ryan/Lipa' => 620,
   'MI - Grand Rapids - Cusack' => 548,
 	'MI - Grosse Pointe - Hagerman' => 554,
@@ -246,6 +245,7 @@ $franchisees_map = [
   'TX - Dallas Central - Syed' => 487,
   'TX - Dallas Carrollton - Leffel' => 513,
 	'TX - Dallas Garland - Quintanilla' => 514,
+  'TX - Dallas Southwest - Rohlfs' => 477369,
 	'TX - North Dallas - Rosales/Arredondo' => 611,
 	'TX - North Dallas - Arredondo/Rosales' => 611,
   'TX - Denton - Ablitt' => 518,
@@ -265,6 +265,7 @@ $franchisees_map = [
   'TX - McKinney - O\'Hanna' => 592,
   'TX - Plano - Bhakta' => 628,
   'TX - Rockwall - Lee' => 642,
+  'TX - Round Rock Move - Tayong' => 477373,
   'TX - San Antonio - Marlowe' => 644,
   'TX - San Antonio West - Lauderdale/Czarobski/Wilson/Lane' => 618,
   'TX - NE San Antonio - Good' => 606,
@@ -296,6 +297,7 @@ $franchisees_map = [
 
 	'WI - Appleton - Holt' => 462,
   'WI - Green Bay - Goetz/Klapa' => 549,
+  'WI - Kenosha - Finerty' => 477361,
 	'WI - Madison - Larsen' => 588,
   'WI - Milwaukee - Coenen' => 595,
 	'WI - Oak Creek - Gunderson' => 619,
