@@ -42,7 +42,7 @@ $franchisees_map = [
 
   'DE - Dover - Gonyo' => 524,
 
-  'FL - Sebring  - Perez/Hiraldo' => 477380,
+  'FL - Sebring - Perez/Hiraldo' => 477380,
   'FL - Brevard County - Sexton' => 480,
   'FL - Daytona - Dooley' => 517,
   'FL - Fort Lauderdale - Tommer/Cook' => 538,
