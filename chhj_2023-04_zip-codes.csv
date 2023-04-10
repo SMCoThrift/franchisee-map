@@ -335,6 +335,7 @@ CA - Fremont - Chang,94586
 CA - Fremont - Chang,95035
 CA - Fremont - Chang,95036
 CA - Fremont - Chang,95140
+CA - Fremont - Chang,94133
 CA - Fremont - Chang,94541
 CA - Fremont - Chang,94544
 CA - Fremont - Chang,94555
@@ -1113,23 +1114,6 @@ DE - Dover - Gonyo,19963
 DE - Dover - Gonyo,19964
 DE - Dover - Gonyo,19977
 DE - Dover - Gonyo,19979
-FL - Avon Park  - Perez/Hiraldo,33825
-FL - Avon Park  - Perez/Hiraldo,33826
-FL - Avon Park  - Perez/Hiraldo,33834
-FL - Avon Park  - Perez/Hiraldo,33852
-FL - Avon Park  - Perez/Hiraldo,33857
-FL - Avon Park  - Perez/Hiraldo,33862
-FL - Avon Park  - Perez/Hiraldo,33865
-FL - Avon Park  - Perez/Hiraldo,33870
-FL - Avon Park  - Perez/Hiraldo,33871
-FL - Avon Park  - Perez/Hiraldo,33872
-FL - Avon Park  - Perez/Hiraldo,33873
-FL - Avon Park  - Perez/Hiraldo,33875
-FL - Avon Park  - Perez/Hiraldo,33876
-FL - Avon Park  - Perez/Hiraldo,33890
-FL - Avon Park  - Perez/Hiraldo,33935
-FL - Avon Park  - Perez/Hiraldo,33960
-FL - Avon Park  - Perez/Hiraldo,33975
 FL - Brevard County - Sexton,32775
 FL - Brevard County - Sexton,32780
 FL - Brevard County - Sexton,32783
@@ -1447,11 +1431,16 @@ FL - Hialeah - Gonzalez,33012
 FL - Hialeah - Gonzalez,33013
 FL - Hialeah - Gonzalez,33014
 FL - Hialeah - Gonzalez,33016
+FL - Hialeah - Gonzalez,33018
 FL - Hialeah - Gonzalez,33054
 FL - Hialeah - Gonzalez,33166
 FL - Hialeah - Gonzalez,33167
 FL - Hialeah - Gonzalez,33178
 FL - Hialeah - Gonzalez,33266
+FL - Hialeah - Gonzalez,33175
+FL - Hialeah - Gonzalez,33183
+FL - Hialeah - Gonzalez,33185
+FL - Hialeah - Gonzalez,33193
 FL - Jacksonville - Roth,32011
 FL - Jacksonville - Roth,32034
 FL - Jacksonville - Roth,32035
@@ -2136,6 +2125,23 @@ FL - Sarasota - Bailey,34293
 FL - Sarasota - Bailey,34295
 FL - Sarasota - Bailey,34216
 FL - Sarasota - Bailey,34220
+FL - Sebring - Perez/Hiraldo,33825
+FL - Sebring - Perez/Hiraldo,33826
+FL - Sebring - Perez/Hiraldo,33834
+FL - Sebring - Perez/Hiraldo,33852
+FL - Sebring - Perez/Hiraldo,33857
+FL - Sebring - Perez/Hiraldo,33862
+FL - Sebring - Perez/Hiraldo,33865
+FL - Sebring - Perez/Hiraldo,33870
+FL - Sebring - Perez/Hiraldo,33871
+FL - Sebring - Perez/Hiraldo,33872
+FL - Sebring - Perez/Hiraldo,33873
+FL - Sebring - Perez/Hiraldo,33875
+FL - Sebring - Perez/Hiraldo,33876
+FL - Sebring - Perez/Hiraldo,33890
+FL - Sebring - Perez/Hiraldo,33935
+FL - Sebring - Perez/Hiraldo,33960
+FL - Sebring - Perez/Hiraldo,33975
 FL - St. Petersburg - Underwood,33744
 FL - St. Petersburg - Underwood,33523
 FL - St. Petersburg - Underwood,33525
@@ -2361,7 +2367,6 @@ FL - Tampa - CFPB,33682
 FL - Tampa - CFPB,33687
 FL - Tampa - CFPB,34606
 FL - Tampa - CFPB,34607
-FL - Tampa - CFPB,34613
 FL - Tampa - CFPB,34652
 FL - Tampa - CFPB,34653
 FL - Tampa - CFPB,34654
@@ -3452,6 +3457,12 @@ IN - South Bend - Dorvilien/Scutt,46637
 IN - South Bend - Dorvilien/Scutt,46660
 IN - South Bend - Dorvilien/Scutt,46680
 IN - South Bend - Dorvilien/Scutt,46699
+IN - South Bend - Dorvilien/Scutt,46350
+IN - South Bend - Dorvilien/Scutt,46383
+IN - South Bend - Dorvilien/Scutt,46385
+IN - South Bend - Dorvilien/Scutt,46563
+IN - South Bend - Dorvilien/Scutt,46580
+IN - South Bend - Dorvilien/Scutt,46582
 KS - Kansas City - Henry,64018
 KS - Kansas City - Henry,64079
 KS - Kansas City - Henry,64089
@@ -3788,87 +3799,6 @@ KY - Florence - Gordon,41092
 KY - Florence - Gordon,41094
 KY - Florence - Gordon,41099
 KY - Florence - Gordon,45275
-KY - Louisville - Martin,40010
-KY - Louisville - Martin,40014
-KY - Louisville - Martin,40018
-KY - Louisville - Martin,40025
-KY - Louisville - Martin,40026
-KY - Louisville - Martin,40027
-KY - Louisville - Martin,40031
-KY - Louisville - Martin,40032
-KY - Louisville - Martin,40056
-KY - Louisville - Martin,40059
-KY - Louisville - Martin,40207
-KY - Louisville - Martin,40218
-KY - Louisville - Martin,40220
-KY - Louisville - Martin,40222
-KY - Louisville - Martin,40223
-KY - Louisville - Martin,40224
-KY - Louisville - Martin,40241
-KY - Louisville - Martin,40242
-KY - Louisville - Martin,40243
-KY - Louisville - Martin,40245
-KY - Louisville - Martin,40250
-KY - Louisville - Martin,40252
-KY - Louisville - Martin,40253
-KY - Louisville - Martin,40257
-KY - Louisville - Martin,40261
-KY - Louisville - Martin,40269
-KY - Louisville - Martin,40291
-KY - Louisville - Martin,40298
-KY - Louisville - Martin,40299
-KY - Louisville - Martin,40022
-KY - Louisville - Martin,40023
-KY - Louisville - Martin,40041
-KY - Louisville - Martin,40066
-KY - Louisville - Martin,40067
-KY - Louisville - Martin,40109
-KY - Louisville - Martin,40129
-KY - Louisville - Martin,40201
-KY - Louisville - Martin,40202
-KY - Louisville - Martin,40203
-KY - Louisville - Martin,40204
-KY - Louisville - Martin,40205
-KY - Louisville - Martin,40206
-KY - Louisville - Martin,40208
-KY - Louisville - Martin,40213
-KY - Louisville - Martin,40214
-KY - Louisville - Martin,40216
-KY - Louisville - Martin,40217
-KY - Louisville - Martin,40219
-KY - Louisville - Martin,40221
-KY - Louisville - Martin,40225
-KY - Louisville - Martin,40228
-KY - Louisville - Martin,40229
-KY - Louisville - Martin,40231
-KY - Louisville - Martin,40232
-KY - Louisville - Martin,40233
-KY - Louisville - Martin,40251
-KY - Louisville - Martin,40255
-KY - Louisville - Martin,40256
-KY - Louisville - Martin,40258
-KY - Louisville - Martin,40259
-KY - Louisville - Martin,40266
-KY - Louisville - Martin,40268
-KY - Louisville - Martin,40270
-KY - Louisville - Martin,40280
-KY - Louisville - Martin,40281
-KY - Louisville - Martin,40282
-KY - Louisville - Martin,40283
-KY - Louisville - Martin,40285
-KY - Louisville - Martin,40287
-KY - Louisville - Martin,40289
-KY - Louisville - Martin,40290
-KY - Louisville - Martin,40292
-KY - Louisville - Martin,40293
-KY - Louisville - Martin,40294
-KY - Louisville - Martin,40295
-KY - Louisville - Martin,40296
-KY - Louisville - Martin,40297
-KY - Louisville - Martin,47131
-KY - Louisville - Martin,47132
-KY - Louisville - Martin,47134
-KY - Louisville - Martin,47151
 LA - Acadiana - Embroli,70501
 LA - Acadiana - Embroli,70502
 LA - Acadiana - Embroli,70503
@@ -5102,7 +5032,6 @@ MI - Flint - Hawley,48501
 MI - Flint - Hawley,48502
 MI - Flint - Hawley,48503
 MI - Flint - Hawley,48504
-MI - Flint - Hawley,48505
 MI - Flint - Hawley,48506
 MI - Flint - Hawley,48507
 MI - Flint - Hawley,48509
@@ -5492,47 +5421,23 @@ MI - Oakland County - Ryan/Lipa,48335
 MI - Oakland County - Ryan/Lipa,48336
 MI - Oakland County - Ryan/Lipa,48387
 MI - Oakland County - Ryan/Lipa,40186
-MI - Oakland County - Ryan/Lipa,48015
-MI - Oakland County - Ryan/Lipa,48021
-MI - Oakland County - Ryan/Lipa,48026
 MI - Oakland County - Ryan/Lipa,48033
-MI - Oakland County - Ryan/Lipa,48035
-MI - Oakland County - Ryan/Lipa,48036
-MI - Oakland County - Ryan/Lipa,48038
-MI - Oakland County - Ryan/Lipa,48042
-MI - Oakland County - Ryan/Lipa,48043
-MI - Oakland County - Ryan/Lipa,48044
-MI - Oakland County - Ryan/Lipa,48045
-MI - Oakland County - Ryan/Lipa,48046
-MI - Oakland County - Ryan/Lipa,48066
-MI - Oakland County - Ryan/Lipa,48080
-MI - Oakland County - Ryan/Lipa,48081
-MI - Oakland County - Ryan/Lipa,48082
-MI - Oakland County - Ryan/Lipa,48088
-MI - Oakland County - Ryan/Lipa,48089
 MI - Oakland County - Ryan/Lipa,48090
-MI - Oakland County - Ryan/Lipa,48091
-MI - Oakland County - Ryan/Lipa,48092
-MI - Oakland County - Ryan/Lipa,48093
 MI - Oakland County - Ryan/Lipa,48123
 MI - Oakland County - Ryan/Lipa,48124
 MI - Oakland County - Ryan/Lipa,48128
 MI - Oakland County - Ryan/Lipa,48203
 MI - Oakland County - Ryan/Lipa,48205
-MI - Oakland County - Ryan/Lipa,48211
-MI - Oakland County - Ryan/Lipa,48212
 MI - Oakland County - Ryan/Lipa,48221
 MI - Oakland County - Ryan/Lipa,48222
 MI - Oakland County - Ryan/Lipa,48223
 MI - Oakland County - Ryan/Lipa,48224
 MI - Oakland County - Ryan/Lipa,48225
 MI - Oakland County - Ryan/Lipa,48226
-MI - Oakland County - Ryan/Lipa,48230
 MI - Oakland County - Ryan/Lipa,48231
 MI - Oakland County - Ryan/Lipa,48232
 MI - Oakland County - Ryan/Lipa,48233
 MI - Oakland County - Ryan/Lipa,48234
-MI - Oakland County - Ryan/Lipa,48236
 MI - Oakland County - Ryan/Lipa,48238
 MI - Oakland County - Ryan/Lipa,48243
 MI - Oakland County - Ryan/Lipa,48244
@@ -5553,17 +5458,8 @@ MI - Oakland County - Ryan/Lipa,48288
 MI - Oakland County - Ryan/Lipa,48306
 MI - Oakland County - Ryan/Lipa,48307
 MI - Oakland County - Ryan/Lipa,48308
-MI - Oakland County - Ryan/Lipa,48310
-MI - Oakland County - Ryan/Lipa,48311
-MI - Oakland County - Ryan/Lipa,48312
-MI - Oakland County - Ryan/Lipa,48313
-MI - Oakland County - Ryan/Lipa,48314
 MI - Oakland County - Ryan/Lipa,48315
-MI - Oakland County - Ryan/Lipa,48316
-MI - Oakland County - Ryan/Lipa,48317
-MI - Oakland County - Ryan/Lipa,48318
 MI - Oakland County - Ryan/Lipa,48363
-MI - Oakland County - Ryan/Lipa,48397
 MN - Eden Prairie - Sedlak,55315
 MN - Eden Prairie - Sedlak,55317
 MN - Eden Prairie - Sedlak,55318
@@ -5981,123 +5877,6 @@ NC - Asheville - Smith,28815
 NC - Asheville - Smith,28816
 NC - Asheville - Smith,28716
 NC - Asheville - Smith,28768
-NC - Charlotte - Harper,28012
-NC - Charlotte - Harper,28032
-NC - Charlotte - Harper,28034
-NC - Charlotte - Harper,28037
-NC - Charlotte - Harper,28052
-NC - Charlotte - Harper,28053
-NC - Charlotte - Harper,28054
-NC - Charlotte - Harper,28055
-NC - Charlotte - Harper,28056
-NC - Charlotte - Harper,28077
-NC - Charlotte - Harper,28098
-NC - Charlotte - Harper,28101
-NC - Charlotte - Harper,28120
-NC - Charlotte - Harper,28130
-NC - Charlotte - Harper,28164
-NC - Charlotte - Harper,28203
-NC - Charlotte - Harper,28208
-NC - Charlotte - Harper,28214
-NC - Charlotte - Harper,28216
-NC - Charlotte - Harper,28217
-NC - Charlotte - Harper,28219
-NC - Charlotte - Harper,28224
-NC - Charlotte - Harper,28228
-NC - Charlotte - Harper,28241
-NC - Charlotte - Harper,28243
-NC - Charlotte - Harper,28254
-NC - Charlotte - Harper,28258
-NC - Charlotte - Harper,28260
-NC - Charlotte - Harper,28265
-NC - Charlotte - Harper,28266
-NC - Charlotte - Harper,28272
-NC - Charlotte - Harper,28273
-NC - Charlotte - Harper,28275
-NC - Charlotte - Harper,28278
-NC - Charlotte - Harper,28289
-NC - Charlotte - Harper,28290
-NC - Charlotte - Harper,28296
-NC - Charlotte - Harper,28297
-NC - Charlotte - Harper,28027
-NC - Charlotte - Harper,28031
-NC - Charlotte - Harper,28035
-NC - Charlotte - Harper,28036
-NC - Charlotte - Harper,28070
-NC - Charlotte - Harper,28078
-NC - Charlotte - Harper,28081
-NC - Charlotte - Harper,28201
-NC - Charlotte - Harper,28202
-NC - Charlotte - Harper,28204
-NC - Charlotte - Harper,28205
-NC - Charlotte - Harper,28206
-NC - Charlotte - Harper,28207
-NC - Charlotte - Harper,28218
-NC - Charlotte - Harper,28221
-NC - Charlotte - Harper,28223
-NC - Charlotte - Harper,28230
-NC - Charlotte - Harper,28231
-NC - Charlotte - Harper,28232
-NC - Charlotte - Harper,28233
-NC - Charlotte - Harper,28234
-NC - Charlotte - Harper,28235
-NC - Charlotte - Harper,28236
-NC - Charlotte - Harper,28237
-NC - Charlotte - Harper,28242
-NC - Charlotte - Harper,28244
-NC - Charlotte - Harper,28246
-NC - Charlotte - Harper,28250
-NC - Charlotte - Harper,28253
-NC - Charlotte - Harper,28255
-NC - Charlotte - Harper,28262
-NC - Charlotte - Harper,28263
-NC - Charlotte - Harper,28269
-NC - Charlotte - Harper,28271
-NC - Charlotte - Harper,28280
-NC - Charlotte - Harper,28281
-NC - Charlotte - Harper,28282
-NC - Charlotte - Harper,28284
-NC - Charlotte - Harper,28285
-NC - Charlotte - Harper,28288
-NC - Charlotte - Harper,28299
-NC - Charlotte - Harper,28104
-NC - Charlotte - Harper,28105
-NC - Charlotte - Harper,28106
-NC - Charlotte - Harper,28134
-NC - Charlotte - Harper,28173
-NC - Charlotte - Harper,28209
-NC - Charlotte - Harper,28210
-NC - Charlotte - Harper,28211
-NC - Charlotte - Harper,28220
-NC - Charlotte - Harper,28222
-NC - Charlotte - Harper,28226
-NC - Charlotte - Harper,28247
-NC - Charlotte - Harper,28270
-NC - Charlotte - Harper,28274
-NC - Charlotte - Harper,28277
-NC - Charlotte - Harper,28287
-NC - Charlotte - Harper,28025
-NC - Charlotte - Harper,28026
-NC - Charlotte - Harper,28075
-NC - Charlotte - Harper,28079
-NC - Charlotte - Harper,28097
-NC - Charlotte - Harper,28103
-NC - Charlotte - Harper,28107
-NC - Charlotte - Harper,28110
-NC - Charlotte - Harper,28111
-NC - Charlotte - Harper,28112
-NC - Charlotte - Harper,28124
-NC - Charlotte - Harper,28126
-NC - Charlotte - Harper,28129
-NC - Charlotte - Harper,28163
-NC - Charlotte - Harper,28174
-NC - Charlotte - Harper,28212
-NC - Charlotte - Harper,28213
-NC - Charlotte - Harper,28215
-NC - Charlotte - Harper,28227
-NC - Charlotte - Harper,28229
-NC - Charlotte - Harper,28256
-NC - Charlotte - Harper,29716
 NC - Greensboro - Auman,27203
 NC - Greensboro - Auman,27204
 NC - Greensboro - Auman,27205
@@ -7032,6 +6811,125 @@ NJ - Trenton - Changpertitum/Liao,8562
 NJ - Trenton - Changpertitum/Liao,8620
 NJ - Trenton - Changpertitum/Liao,8640
 NJ - Trenton - Changpertitum/Liao,8641
+NOT OPEN CA - Thousand Oaks - Robinson,90263
+NOT OPEN CA - Thousand Oaks - Robinson,90264
+NOT OPEN CA - Thousand Oaks - Robinson,90265
+NOT OPEN CA - Thousand Oaks - Robinson,90290
+NOT OPEN CA - Thousand Oaks - Robinson,91301
+NOT OPEN CA - Thousand Oaks - Robinson,91302
+NOT OPEN CA - Thousand Oaks - Robinson,91303
+NOT OPEN CA - Thousand Oaks - Robinson,91305
+NOT OPEN CA - Thousand Oaks - Robinson,91306
+NOT OPEN CA - Thousand Oaks - Robinson,91307
+NOT OPEN CA - Thousand Oaks - Robinson,91308
+NOT OPEN CA - Thousand Oaks - Robinson,91356
+NOT OPEN CA - Thousand Oaks - Robinson,91357
+NOT OPEN CA - Thousand Oaks - Robinson,91359
+NOT OPEN CA - Thousand Oaks - Robinson,91361
+NOT OPEN CA - Thousand Oaks - Robinson,91362
+NOT OPEN CA - Thousand Oaks - Robinson,91364
+NOT OPEN CA - Thousand Oaks - Robinson,91365
+NOT OPEN CA - Thousand Oaks - Robinson,91367
+NOT OPEN CA - Thousand Oaks - Robinson,91371
+NOT OPEN CA - Thousand Oaks - Robinson,91372
+NOT OPEN CA - Thousand Oaks - Robinson,91376
+NOT OPEN CA - Thousand Oaks - Robinson,91377
+NOT OPEN NH - Portsmouth - Batchelder,3034
+NOT OPEN NH - Portsmouth - Batchelder,3036
+NOT OPEN NH - Portsmouth - Batchelder,3037
+NOT OPEN NH - Portsmouth - Batchelder,3040
+NOT OPEN NH - Portsmouth - Batchelder,3042
+NOT OPEN NH - Portsmouth - Batchelder,3044
+NOT OPEN NH - Portsmouth - Batchelder,3073
+NOT OPEN NH - Portsmouth - Batchelder,3077
+NOT OPEN NH - Portsmouth - Batchelder,3079
+NOT OPEN NH - Portsmouth - Batchelder,3261
+NOT OPEN NH - Portsmouth - Batchelder,3290
+NOT OPEN NH - Portsmouth - Batchelder,3291
+NOT OPEN NH - Portsmouth - Batchelder,3801
+NOT OPEN NH - Portsmouth - Batchelder,3802
+NOT OPEN NH - Portsmouth - Batchelder,3803
+NOT OPEN NH - Portsmouth - Batchelder,3804
+NOT OPEN NH - Portsmouth - Batchelder,3811
+NOT OPEN NH - Portsmouth - Batchelder,3815
+NOT OPEN NH - Portsmouth - Batchelder,3819
+NOT OPEN NH - Portsmouth - Batchelder,3820
+NOT OPEN NH - Portsmouth - Batchelder,3821
+NOT OPEN NH - Portsmouth - Batchelder,3822
+NOT OPEN NH - Portsmouth - Batchelder,3823
+NOT OPEN NH - Portsmouth - Batchelder,3824
+NOT OPEN NH - Portsmouth - Batchelder,3825
+NOT OPEN NH - Portsmouth - Batchelder,3826
+NOT OPEN NH - Portsmouth - Batchelder,3827
+NOT OPEN NH - Portsmouth - Batchelder,3833
+NOT OPEN NH - Portsmouth - Batchelder,3835
+NOT OPEN NH - Portsmouth - Batchelder,3839
+NOT OPEN NH - Portsmouth - Batchelder,3840
+NOT OPEN NH - Portsmouth - Batchelder,3841
+NOT OPEN NH - Portsmouth - Batchelder,3842
+NOT OPEN NH - Portsmouth - Batchelder,3843
+NOT OPEN NH - Portsmouth - Batchelder,3844
+NOT OPEN NH - Portsmouth - Batchelder,3848
+NOT OPEN NH - Portsmouth - Batchelder,3854
+NOT OPEN NH - Portsmouth - Batchelder,3856
+NOT OPEN NH - Portsmouth - Batchelder,3857
+NOT OPEN NH - Portsmouth - Batchelder,3858
+NOT OPEN NH - Portsmouth - Batchelder,3859
+NOT OPEN NH - Portsmouth - Batchelder,3861
+NOT OPEN NH - Portsmouth - Batchelder,3862
+NOT OPEN NH - Portsmouth - Batchelder,3865
+NOT OPEN NH - Portsmouth - Batchelder,3866
+NOT OPEN NH - Portsmouth - Batchelder,3867
+NOT OPEN NH - Portsmouth - Batchelder,3868
+NOT OPEN NH - Portsmouth - Batchelder,3869
+NOT OPEN NH - Portsmouth - Batchelder,3870
+NOT OPEN NH - Portsmouth - Batchelder,3871
+NOT OPEN NH - Portsmouth - Batchelder,3873
+NOT OPEN NH - Portsmouth - Batchelder,3874
+NOT OPEN NH - Portsmouth - Batchelder,3878
+NOT OPEN NH - Portsmouth - Batchelder,3884
+NOT OPEN NH - Portsmouth - Batchelder,3885
+NOT OPEN OH - Lebanon - Harper,45005
+NOT OPEN OH - Lebanon - Harper,45011
+NOT OPEN OH - Lebanon - Harper,45012
+NOT OPEN OH - Lebanon - Harper,45014
+NOT OPEN OH - Lebanon - Harper,45015
+NOT OPEN OH - Lebanon - Harper,45018
+NOT OPEN OH - Lebanon - Harper,45032
+NOT OPEN OH - Lebanon - Harper,45036
+NOT OPEN OH - Lebanon - Harper,45042
+NOT OPEN OH - Lebanon - Harper,45044
+NOT OPEN OH - Lebanon - Harper,45050
+NOT OPEN OH - Lebanon - Harper,45054
+NOT OPEN OH - Lebanon - Harper,45055
+NOT OPEN OH - Lebanon - Harper,45061
+NOT OPEN OH - Lebanon - Harper,45062
+NOT OPEN OH - Lebanon - Harper,45064
+NOT OPEN OH - Lebanon - Harper,45065
+NOT OPEN OH - Lebanon - Harper,45066
+NOT OPEN OH - Lebanon - Harper,45067
+NOT OPEN OH - Lebanon - Harper,45068
+NOT OPEN OH - Lebanon - Harper,45113
+NOT OPEN OH - Lebanon - Harper,45152
+VA - Reston - Shure,20151
+VA - Reston - Shure,20152
+VA - Reston - Shure,20153
+VA - Reston - Shure,20163
+VA - Reston - Shure,20164
+VA - Reston - Shure,20165
+VA - Reston - Shure,20167
+VA - Reston - Shure,20170
+VA - Reston - Shure,20171
+VA - Reston - Shure,20172
+VA - Reston - Shure,20190
+VA - Reston - Shure,20191
+VA - Reston - Shure,20192
+VA - Reston - Shure,20194
+VA - Reston - Shure,20195
+VA - Reston - Shure,20196
+VA - Reston - Shure,22066
+VA - Reston - Shure,22095
+VA - Reston - Shure,22096
 NV - Las Vegas - Guy,89052
 NV - Las Vegas - Guy,89077
 NV - Las Vegas - Guy,89102
@@ -7068,6 +6966,7 @@ NV - Las Vegas - Guy,89054
 NV - Las Vegas - Guy,89074
 NV - Las Vegas - Guy,89113
 NV - Las Vegas - Guy,89117
+NV - Las Vegas - Guy,89120
 NV - Las Vegas - Guy,89122
 NV - Las Vegas - Guy,89128
 NV - Las Vegas - Guy,89129
@@ -7112,6 +7011,10 @@ NV - Reno - Severson,89599
 NV - Reno - Severson,89423
 NV - Reno - Severson,89511
 NV - Reno - Severson,89521
+NV - Reno - Severson,89541
+NV - Reno - Severson,89701
+NV - Reno - Severson,89703
+NV - Reno - Severson,89704
 NY - Long Island - Nickliancos,11901
 NY - Long Island - Nickliancos,11930
 NY - Long Island - Nickliancos,11931
@@ -7922,59 +7825,59 @@ OH - Columbus - Arpin/Arthur,43230
 OH - Columbus - Arpin/Arthur,43232
 OH - Columbus - Arpin/Arthur,43240
 OH - Columbus - Arpin/Arthur,43344
-OH - Columbus North - Francis,43003
-OH - Columbus North - Francis,43007
-OH - Columbus North - Francis,43015
-OH - Columbus North - Francis,43021
-OH - Columbus North - Francis,43032
-OH - Columbus North - Francis,43035
-OH - Columbus North - Francis,43036
-OH - Columbus North - Francis,43040
-OH - Columbus North - Francis,43041
-OH - Columbus North - Francis,43045
-OH - Columbus North - Francis,43060
-OH - Columbus North - Francis,43061
-OH - Columbus North - Francis,43064
-OH - Columbus North - Francis,43066
-OH - Columbus North - Francis,43067
-OH - Columbus North - Francis,43074
-OH - Columbus North - Francis,43077
-OH - Columbus North - Francis,43081
-OH - Columbus North - Francis,43082
-OH - Columbus North - Francis,43084
-OH - Columbus North - Francis,43086
-OH - Columbus North - Francis,43147
-OH - Columbus North - Francis,43240
-OH - Columbus North - Francis,43301
-OH - Columbus North - Francis,43302
-OH - Columbus North - Francis,43315
-OH - Columbus North - Francis,43319
-OH - Columbus North - Francis,43322
-OH - Columbus North - Francis,43336
-OH - Columbus North - Francis,43342
-OH - Columbus North - Francis,43344
-OH - Columbus North - Francis,43356
-OH - Columbus North - Francis,43016
-OH - Columbus North - Francis,43017
-OH - Columbus North - Francis,43026
-OH - Columbus North - Francis,43054
-OH - Columbus North - Francis,43055
-OH - Columbus North - Francis,43065
-OH - Columbus North - Francis,43085
-OH - Columbus North - Francis,43119
-OH - Columbus North - Francis,43123
-OH - Columbus North - Francis,43201
-OH - Columbus North - Francis,43209
-OH - Columbus North - Francis,43212
-OH - Columbus North - Francis,43214
-OH - Columbus North - Francis,43215
-OH - Columbus North - Francis,43220
-OH - Columbus North - Francis,43221
-OH - Columbus North - Francis,43224
-OH - Columbus North - Francis,43228
-OH - Columbus North - Francis,43230
-OH - Columbus North - Francis,43231
-OH - Columbus North - Francis,43235
+OH - Columbus North - Thomas,43003
+OH - Columbus North - Thomas,43007
+OH - Columbus North - Thomas,43015
+OH - Columbus North - Thomas,43021
+OH - Columbus North - Thomas,43032
+OH - Columbus North - Thomas,43035
+OH - Columbus North - Thomas,43036
+OH - Columbus North - Thomas,43040
+OH - Columbus North - Thomas,43041
+OH - Columbus North - Thomas,43045
+OH - Columbus North - Thomas,43060
+OH - Columbus North - Thomas,43061
+OH - Columbus North - Thomas,43064
+OH - Columbus North - Thomas,43066
+OH - Columbus North - Thomas,43067
+OH - Columbus North - Thomas,43074
+OH - Columbus North - Thomas,43077
+OH - Columbus North - Thomas,43081
+OH - Columbus North - Thomas,43082
+OH - Columbus North - Thomas,43084
+OH - Columbus North - Thomas,43086
+OH - Columbus North - Thomas,43147
+OH - Columbus North - Thomas,43204
+OH - Columbus North - Thomas,43240
+OH - Columbus North - Thomas,43301
+OH - Columbus North - Thomas,43302
+OH - Columbus North - Thomas,43315
+OH - Columbus North - Thomas,43319
+OH - Columbus North - Thomas,43322
+OH - Columbus North - Thomas,43336
+OH - Columbus North - Thomas,43342
+OH - Columbus North - Thomas,43344
+OH - Columbus North - Thomas,43356
+OH - Columbus North - Thomas,43016
+OH - Columbus North - Thomas,43017
+OH - Columbus North - Thomas,43026
+OH - Columbus North - Thomas,43054
+OH - Columbus North - Thomas,43055
+OH - Columbus North - Thomas,43065
+OH - Columbus North - Thomas,43085
+OH - Columbus North - Thomas,43119
+OH - Columbus North - Thomas,43201
+OH - Columbus North - Thomas,43209
+OH - Columbus North - Thomas,43212
+OH - Columbus North - Thomas,43214
+OH - Columbus North - Thomas,43215
+OH - Columbus North - Thomas,43220
+OH - Columbus North - Thomas,43221
+OH - Columbus North - Thomas,43224
+OH - Columbus North - Thomas,43228
+OH - Columbus North - Thomas,43230
+OH - Columbus North - Thomas,43231
+OH - Columbus North - Thomas,43235
 OK - Jenks - Foster,74008
 OK - Jenks - Foster,74010
 OK - Jenks - Foster,74011
@@ -8243,7 +8146,6 @@ PA - Allentown - Gall,18330
 PA - Allentown - Gall,18333
 PA - Allentown - Gall,18354
 PA - Allentown - Gall,18926
-PA - Allentown - Gall,18966
 PA - Allentown - Gall,19539
 PA - Bucks County - Losco,18936
 PA - Bucks County - Losco,19001
@@ -8389,20 +8291,7 @@ PA - Bucks County - Losco,18106
 PA - Bucks County - Losco,18109
 PA - Bucks County - Losco,18195
 PA - Bucks County - Losco,18926
-PA - Bucks County - Losco,18966
-PA - Bucks County - Losco,19007
-PA - Bucks County - Losco,19020
-PA - Bucks County - Losco,19021
-PA - Bucks County - Losco,19030
-PA - Bucks County - Losco,19047
-PA - Bucks County - Losco,19053
-PA - Bucks County - Losco,19054
-PA - Bucks County - Losco,19055
-PA - Bucks County - Losco,19056
-PA - Bucks County - Losco,19057
-PA - Bucks County - Losco,19058
 PA - Bucks County - Losco,19059
-PA - Bucks County - Losco,19067
 PA - Bucks County - Losco,19111
 PA - Bucks County - Losco,19114
 PA - Bucks County - Losco,19115
@@ -8449,6 +8338,7 @@ PA - Carlisle - Wickard/Kassel,17128
 PA - Carlisle - Wickard/Kassel,17129
 PA - Carlisle - Wickard/Kassel,17140
 PA - Carlisle - Wickard/Kassel,17177
+PA - Carlisle - Wickard/Kassel,17007
 PA - Levittown - Patel,18966
 PA - Levittown - Patel,19007
 PA - Levittown - Patel,19020
@@ -8653,7 +8543,6 @@ PA - Philadelphia - Ort,19146
 PA - Philadelphia - Ort,19147
 PA - Philadelphia - Ort,19148
 PA - Philadelphia - Ort,19151
-PA - Philadelphia - Ort,19155
 PA - Philadelphia - Ort,19160
 PA - Philadelphia - Ort,19161
 PA - Philadelphia - Ort,19162
@@ -8854,33 +8743,55 @@ RI - Providence - DeNunzio,2915
 RI - Providence - DeNunzio,2916
 RI - Providence - DeNunzio,2920
 RI - Providence - DeNunzio,2940
-RI - Providence - DeNunzio,2802
-RI - Providence - DeNunzio,2804
+RI - Providence - DeNunzio,2801
 RI - Providence - DeNunzio,2808
 RI - Providence - DeNunzio,2812
 RI - Providence - DeNunzio,2813
-RI - Providence - DeNunzio,2814
-RI - Providence - DeNunzio,2815
 RI - Providence - DeNunzio,2816
 RI - Providence - DeNunzio,2817
 RI - Providence - DeNunzio,2818
 RI - Providence - DeNunzio,2822
-RI - Providence - DeNunzio,2825
-RI - Providence - DeNunzio,2826
 RI - Providence - DeNunzio,2827
-RI - Providence - DeNunzio,2828
-RI - Providence - DeNunzio,2830
-RI - Providence - DeNunzio,2831
 RI - Providence - DeNunzio,2832
 RI - Providence - DeNunzio,2833
 RI - Providence - DeNunzio,2835
 RI - Providence - DeNunzio,2836
-RI - Providence - DeNunzio,2838
-RI - Providence - DeNunzio,2839
+RI - Providence - DeNunzio,2837
 RI - Providence - DeNunzio,2840
 RI - Providence - DeNunzio,2841
 RI - Providence - DeNunzio,2842
 RI - Providence - DeNunzio,2852
+RI - Providence - DeNunzio,2871
+RI - Providence - DeNunzio,2872
+RI - Providence - DeNunzio,2873
+RI - Providence - DeNunzio,2874
+RI - Providence - DeNunzio,2875
+RI - Providence - DeNunzio,2877
+RI - Providence - DeNunzio,2878
+RI - Providence - DeNunzio,2879
+RI - Providence - DeNunzio,2880
+RI - Providence - DeNunzio,2881
+RI - Providence - DeNunzio,2882
+RI - Providence - DeNunzio,2883
+RI - Providence - DeNunzio,2886
+RI - Providence - DeNunzio,2887
+RI - Providence - DeNunzio,2889
+RI - Providence - DeNunzio,2891
+RI - Providence - DeNunzio,2892
+RI - Providence - DeNunzio,2893
+RI - Providence - DeNunzio,2894
+RI - Providence - DeNunzio,2898
+RI - Providence - DeNunzio,2804
+RI - Providence - DeNunzio,2802
+RI - Providence - DeNunzio,2814
+RI - Providence - DeNunzio,2815
+RI - Providence - DeNunzio,2825
+RI - Providence - DeNunzio,2826
+RI - Providence - DeNunzio,2828
+RI - Providence - DeNunzio,2830
+RI - Providence - DeNunzio,2831
+RI - Providence - DeNunzio,2838
+RI - Providence - DeNunzio,2839
 RI - Providence - DeNunzio,2857
 RI - Providence - DeNunzio,2858
 RI - Providence - DeNunzio,2859
@@ -8889,24 +8800,9 @@ RI - Providence - DeNunzio,2861
 RI - Providence - DeNunzio,2863
 RI - Providence - DeNunzio,2864
 RI - Providence - DeNunzio,2865
-RI - Providence - DeNunzio,2871
-RI - Providence - DeNunzio,2873
-RI - Providence - DeNunzio,2874
-RI - Providence - DeNunzio,2875
 RI - Providence - DeNunzio,2876
-RI - Providence - DeNunzio,2878
-RI - Providence - DeNunzio,2879
-RI - Providence - DeNunzio,2881
-RI - Providence - DeNunzio,2882
-RI - Providence - DeNunzio,2886
-RI - Providence - DeNunzio,2889
-RI - Providence - DeNunzio,2891
-RI - Providence - DeNunzio,2892
-RI - Providence - DeNunzio,2893
-RI - Providence - DeNunzio,2894
 RI - Providence - DeNunzio,2895
 RI - Providence - DeNunzio,2896
-RI - Providence - DeNunzio,2898
 RI - Providence - DeNunzio,2917
 RI - Providence - DeNunzio,2919
 RI - Providence - DeNunzio,2921
@@ -10195,9 +10091,11 @@ TX - Houston SW - Luedecke,77496
 TX - Houston SW - Luedecke,77498
 TX - Houston SW - Luedecke,77058
 TX - Houston SW - Luedecke,77435
+TX - Houston SW - Luedecke,77449
 TX - Houston SW - Luedecke,77461
 TX - Houston SW - Luedecke,77476
 TX - Houston SW - Luedecke,77485
+TX - Houston SW - Luedecke,77493
 TX - Houston SW - Luedecke,77539
 TX - Houston SW - Luedecke,77565
 TX - Houston SW - Luedecke,77573
@@ -10511,10 +10409,7 @@ TX - The Woodlands - Mejia,77393
 TX - The Woodlands - Mejia,77410
 TX - The Woodlands - Mejia,77429
 TX - The Woodlands - Mejia,77355
-TX - The Woodlands - Mejia,77363
-TX - The Woodlands - Mejia,77379
-TX - The Woodlands - Mejia,77388
-TX - The Woodlands - Mejia,77396
+TX - The Woodlands - Mejia,77433
 TX - Waco - Mills,76501
 TX - Waco - Mills,76502
 TX - Waco - Mills,76503
@@ -10563,13 +10458,11 @@ UT - Draper - Moss,84045
 UT - Draper - Moss,84059
 UT - Draper - Moss,84062
 UT - Draper - Moss,84065
-UT - Draper - Moss,84009
 UT - Draper - Moss,84070
 UT - Draper - Moss,84092
 UT - Draper - Moss,84093
 UT - Draper - Moss,84094
 UT - Draper - Moss,84095
-UT - Draper - Moss,84096
 UT - Provo - Hendrickson,84057
 UT - Provo - Hendrickson,84058
 UT - Provo - Hendrickson,84082
@@ -10590,6 +10483,16 @@ UT - Provo - Hendrickson,84032
 UT - Provo - Hendrickson,84049
 UT - Provo - Hendrickson,84645
 UT - Provo - Hendrickson,84648
+UT - South Jordan - Starace,84006
+UT - South Jordan - Starace,84009
+UT - South Jordan - Starace,84047
+UT - South Jordan - Starace,84081
+UT - South Jordan - Starace,84084
+UT - South Jordan - Starace,84088
+UT - South Jordan - Starace,84095
+UT - South Jordan - Starace,84096
+UT - South Jordan - Starace,84123
+UT - South Jordan - Starace,84129
 VA - Arlington - Craig,20107
 VA - Arlington - Craig,20069
 VA - Arlington - Craig,20070
@@ -11023,6 +10926,7 @@ VA - Virginia NW - Berkebile,25441
 VA - Virginia NW - Berkebile,25442
 VA - Virginia NW - Berkebile,25443
 VA - Virginia NW - Berkebile,25446
+VA - Virginia NW - Berkebile,20103
 VA - Virginia NW - Berkebile,20105
 VA - Virginia NW - Berkebile,20106
 VA - Virginia NW - Berkebile,20117
