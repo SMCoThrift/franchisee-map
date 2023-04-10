@@ -42,7 +42,7 @@ $franchisees_map = [
 
   'DE - Dover - Gonyo' => 524,
 
-  'FL - Avon Park  - Perez/Hiraldo' => 477380,
+  'FL - Sebring  - Perez/Hiraldo' => 477380,
   'FL - Brevard County - Sexton' => 480,
   'FL - Daytona - Dooley' => 517,
   'FL - Fort Lauderdale - Tommer/Cook' => 538,
@@ -192,22 +192,12 @@ $franchisees_map = [
   'NY - MT. Kisco - Jozefiak' => 598,
   'NY - Westchester - Corp' => 685,
 
-  'PA - Allentown - Gall' => 459,
-  'PA - Bucks County - Losco' => 482,
-  'PA - Carlisle - Wickard/Kassel' => 485,
-	'PA - Levittown - Patel' => 577,
-  'PA - South Chester - Lawrie' => 497,
-  'PA - South Chester A - Lawrie' => 497,
-  'PA - South Chester B - Lawrie' => 497,
-
-  'UT - Salt Lake City SW - Bice' => 643,
-
   'OH - Cincinnati - Rogers' => 500,
   'OH - Cleveland - Loughridge' => 501,
   'OH - Columbus - Arpin/Arthur' => 507,
   'OH - Columbus - Delaware' => 507,
   'OH - Columbus-Delaware - Tietjen' => 507,
-  'OH - Columbus North - Francis' => 610,
+  'OH - Columbus North - Thomas' => 610,
 
   'OK - Jenks - Foster' => 474429,
   'OK - Oklahoma City - Dufek' => 621,
@@ -217,6 +207,13 @@ $franchisees_map = [
   'OR - Portland - Lombardo' => 631,
   'OR - Happy Valley - Lane' => 555,
 
+  'PA - Allentown - Gall' => 459,
+  'PA - Bucks County - Losco' => 482,
+  'PA - Carlisle - Wickard/Kassel' => 485,
+	'PA - Levittown - Patel' => 577,
+  'PA - South Chester - Lawrie' => 497,
+  'PA - South Chester A - Lawrie' => 497,
+  'PA - South Chester B - Lawrie' => 497,
   'PA - Philadelphia - Ort' => 626,
   'PA - Central PA - Potosky' => 491,
   'PA - Pittsburgh West - Charles' => 627,
@@ -277,6 +274,7 @@ $franchisees_map = [
 
   'UT - Draper - Moss' => 526,
   'UT - Provo - Hendrickson' => 635,
+  'UT - Salt Lake City SW - Bice' => 643,
 
   'VA - Arlington - Craig' => 464,
   'VA - Virginia NW - Berkebile' => 680,
