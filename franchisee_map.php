@@ -27,6 +27,7 @@ $franchisees_map = [
   'CA - San Diego North - Allen' => 645,
   'CA - San Francisco East - Rudow' => 647,
 	'CA - Temecula - Vallejo' => 672,
+  'CA - Thousand Oaks - Robinson' => 484001,
 
   'CO - Colorado Springs - Elwood' => 504,
   'CO - Denver North - Ragusa' => 612,
@@ -173,6 +174,7 @@ $franchisees_map = [
   'NE - OmahaLincoln B - Hughes' => 579,
 
   'NH - Manchester - Broom' => 589,
+  'NH - Portsmouth - Batchelder' => 484010,
 
   'NJ - Atlantic City - Hubner' => 468,
   'NJ - Cherry Hill - Spaulding' => 496,
@@ -198,6 +200,7 @@ $franchisees_map = [
   'OH - Columbus - Delaware' => 507,
   'OH - Columbus-Delaware - Tietjen' => 507,
   'OH - Columbus North - Thomas' => 610,
+  'OH - Lebanon - Harper' => 484016,
 
   'OK - Jenks - Foster' => 474429,
   'OK - Oklahoma City - Dufek' => 621,
