@@ -221,6 +221,13 @@ AZ - Glendale - Rivera,85306
 AZ - Glendale - Rivera,85308
 AZ - Glendale - Rivera,85310
 AZ - Glendale - Rivera,85381
+AZ - Glendale - Rivera,85012
+AZ - Glendale - Rivera,85020
+AZ - Glendale - Rivera,85021
+AZ - Glendale - Rivera,85023
+AZ - Glendale - Rivera,85026
+AZ - Glendale - Rivera,85027
+AZ - Glendale - Rivera,85258
 AZ - Phoenix West - Harvin,85031
 AZ - Phoenix West - Harvin,85033
 AZ - Phoenix West - Harvin,85035
@@ -326,6 +333,7 @@ CA - Carlsbad - Parsons,92082
 CA - Carlsbad - Parsons,92083
 CA - Carlsbad - Parsons,92084
 CA - Carlsbad - Parsons,92088
+CA - Fremont - Chang,94619
 CA - Fremont - Chang,94536
 CA - Fremont - Chang,94537
 CA - Fremont - Chang,94538
@@ -364,6 +372,7 @@ CA - Fresno - Gragnani,93725
 CA - Fresno - Gragnani,93726
 CA - Fresno - Gragnani,93727
 CA - Fresno - Gragnani,93729
+CA - Fresno - Gragnani,93737
 CA - Fresno - Gragnani,93745
 CA - Fresno - Gragnani,93747
 CA - Fresno - Gragnani,93750
@@ -397,7 +406,6 @@ CA - Fresno - Gragnani,93711
 CA - Fresno - Gragnani,93721
 CA - Fresno - Gragnani,93722
 CA - Fresno - Gragnani,93723
-CA - Fresno - Gragnani,93724
 CA - Fresno - Gragnani,93728
 CA - Fresno - Gragnani,93741
 CA - Fresno - Gragnani,93755
@@ -408,13 +416,11 @@ CA - Fresno - Gragnani,93793
 CA - Fresno - Gragnani,93794
 CA - Fresno - Gragnani,93844
 CA - Fresno - Gragnani,93888
-CA - Fresno - Gragnani,93737
+CA - Fresno - Gragnani,93724
 CA - Fresno - Gragnani,93610
 CA - Fresno - Gragnani,93619
 CA - Fresno - Gragnani,93625
 CA - Fresno - Gragnani,93626
-CA - Fresno - Gragnani,93631
-CA - Fresno - Gragnani,93662
 CA - Fresno - Gragnani,93668
 CA - Fresno - Gragnani,93730
 CA - Palo Alto - Marquez,94010
@@ -608,18 +614,50 @@ CA - San Jose - Silva,95137
 CA - San Jose - Silva,95138
 CA - San Jose - Silva,95139
 CA - San Jose - Silva,95148
+CA - Temecula - Vallejo,92610
+CA - Temecula - Vallejo,92691
+CA - Temecula - Vallejo,92530
+CA - Temecula - Vallejo,92532
 CA - Temecula - Vallejo,92543
 CA - Temecula - Vallejo,92544
 CA - Temecula - Vallejo,92546
 CA - Temecula - Vallejo,92562
 CA - Temecula - Vallejo,92563
 CA - Temecula - Vallejo,92564
+CA - Temecula - Vallejo,92584
+CA - Temecula - Vallejo,92585
+CA - Temecula - Vallejo,92586
+CA - Temecula - Vallejo,92587
 CA - Temecula - Vallejo,92589
 CA - Temecula - Vallejo,92590
 CA - Temecula - Vallejo,92591
 CA - Temecula - Vallejo,92592
 CA - Temecula - Vallejo,92593
+CA - Temecula - Vallejo,92595
 CA - Temecula - Vallejo,92596
+CA - Thousand Oaks - Robinson,90263
+CA - Thousand Oaks - Robinson,90264
+CA - Thousand Oaks - Robinson,90265
+CA - Thousand Oaks - Robinson,90290
+CA - Thousand Oaks - Robinson,91301
+CA - Thousand Oaks - Robinson,91302
+CA - Thousand Oaks - Robinson,91303
+CA - Thousand Oaks - Robinson,91305
+CA - Thousand Oaks - Robinson,91306
+CA - Thousand Oaks - Robinson,91307
+CA - Thousand Oaks - Robinson,91308
+CA - Thousand Oaks - Robinson,91356
+CA - Thousand Oaks - Robinson,91357
+CA - Thousand Oaks - Robinson,91359
+CA - Thousand Oaks - Robinson,91361
+CA - Thousand Oaks - Robinson,91362
+CA - Thousand Oaks - Robinson,91364
+CA - Thousand Oaks - Robinson,91365
+CA - Thousand Oaks - Robinson,91367
+CA - Thousand Oaks - Robinson,91371
+CA - Thousand Oaks - Robinson,91372
+CA - Thousand Oaks - Robinson,91376
+CA - Thousand Oaks - Robinson,91377
 CO - Colorado Springs - Elwood,80817
 CO - Colorado Springs - Elwood,80819
 CO - Colorado Springs - Elwood,80829
@@ -2182,6 +2220,7 @@ FL - St. Petersburg - Underwood,34669
 FL - St. Petersburg - Underwood,34674
 FL - St. Petersburg - Underwood,33707
 FL - St. Petersburg - Underwood,33737
+FL - St. Petersburg - Underwood,33761
 FL - St. Petersburg - Underwood,34652
 FL - St. Petersburg - Underwood,34653
 FL - St. Petersburg - Underwood,34654
@@ -2261,7 +2300,6 @@ FL - St. Petersburg - Underwood,33742
 FL - St. Petersburg - Underwood,33743
 FL - St. Petersburg - Underwood,33747
 FL - St. Petersburg - Underwood,33784
-FL - St. Petersburg - Underwood,33761
 FL - St. Petersburg - Underwood,33523
 FL - St. Petersburg - Underwood,33525
 FL - St. Petersburg - Underwood,33526
@@ -2818,12 +2856,6 @@ GA - Savannah - O'Rourke,31418
 GA - Savannah - O'Rourke,31419
 GA - Savannah - O'Rourke,31420
 GA - Savannah - O'Rourke,31421
-GA - Savannah - O'Rourke,29910
-GA - Savannah - O'Rourke,29926
-GA - Savannah - O'Rourke,29927
-GA - Savannah - O'Rourke,29928
-GA - Savannah - O'Rourke,31321
-GA - Savannah - O'Rourke,31525
 IA - Des Moines - Felker,50003
 IA - Des Moines - Felker,50012
 IA - Des Moines - Felker,50023
@@ -3033,6 +3065,7 @@ IL - Chicago - Rothberg,60707
 IL - Chicago - Rothberg,60053
 IL - Chicago - Rothberg,60076
 IL - Chicago - Rothberg,60077
+IL - Chicago - Rothberg,60160
 IL - Chicago - Rothberg,60202
 IL - Chicago - Rothberg,60203
 IL - Chicago - Rothberg,60301
@@ -3070,7 +3103,6 @@ IL - Chicago SW - Ibraimi,60418
 IL - Chicago SW - Ibraimi,60422
 IL - Chicago SW - Ibraimi,60423
 IL - Chicago SW - Ibraimi,60435
-IL - Chicago SW - Ibraimi,60440
 IL - Chicago SW - Ibraimi,60442
 IL - Chicago SW - Ibraimi,60443
 IL - Chicago SW - Ibraimi,60445
@@ -3157,7 +3189,6 @@ IL - DuPage County - Conboy/Gignac,60185
 IL - DuPage County - Conboy/Gignac,60186
 IL - DuPage County - Conboy/Gignac,60188
 IL - DuPage County - Conboy/Gignac,60190
-IL - DuPage County - Conboy/Gignac,60440
 IL - DuPage County - Conboy/Gignac,60540
 IL - DuPage County - Conboy/Gignac,60542
 IL - DuPage County - Conboy/Gignac,60555
@@ -3873,10 +3904,13 @@ LA - Baton Rouge - Breaux,70893
 LA - Baton Rouge - Breaux,70894
 LA - Baton Rouge - Breaux,70895
 LA - Baton Rouge - Breaux,70898
+LA - Baton Rouge - Breaux,70706
 LA - Baton Rouge - Breaux,70726
 LA - Baton Rouge - Breaux,70739
 LA - Baton Rouge - Breaux,70791
 LA - Baton Rouge - Breaux,70806
+LA - Baton Rouge - Breaux,70818
+LA - Baton Rouge - Breaux,70819
 LA - Covington - McAndrew/Henry,70401
 LA - Covington - McAndrew/Henry,70403
 LA - Covington - McAndrew/Henry,70404
@@ -3906,6 +3940,7 @@ LA - Covington - McAndrew/Henry,70471
 LA - Covington - McAndrew/Henry,70711
 LA - Covington - McAndrew/Henry,70744
 LA - Covington - McAndrew/Henry,70774
+LA - Covington - McAndrew/Henry,70005
 MA - Boston South - Tereshko,2108
 MA - Boston South - Tereshko,2109
 MA - Boston South - Tereshko,2110
@@ -3991,8 +4026,6 @@ MA - Boston South - Tereshko,1803
 MA - Boston South - Tereshko,2048
 MA - Boston South - Tereshko,2129
 MA - Boston South - Tereshko,2134
-MA - Boston South - Tereshko,2136
-MA - Boston South - Tereshko,2137
 MA - Boston South - Tereshko,2138
 MA - Boston South - Tereshko,2139
 MA - Boston South - Tereshko,2140
@@ -4003,27 +4036,15 @@ MA - Boston South - Tereshko,2144
 MA - Boston South - Tereshko,2145
 MA - Boston South - Tereshko,2147
 MA - Boston South - Tereshko,2163
-MA - Boston South - Tereshko,2169
-MA - Boston South - Tereshko,2170
-MA - Boston South - Tereshko,2171
-MA - Boston South - Tereshko,2184
-MA - Boston South - Tereshko,2185
-MA - Boston South - Tereshko,2186
-MA - Boston South - Tereshko,2187
-MA - Boston South - Tereshko,2188
-MA - Boston South - Tereshko,2190
 MA - Boston South - Tereshko,2192
 MA - Boston South - Tereshko,2238
-MA - Boston South - Tereshko,2269
 MA - Boston South - Tereshko,2301
-MA - Boston South - Tereshko,2322
 MA - Boston South - Tereshko,2324
 MA - Boston South - Tereshko,2325
 MA - Boston South - Tereshko,2334
 MA - Boston South - Tereshko,2351
 MA - Boston South - Tereshko,2356
 MA - Boston South - Tereshko,2357
-MA - Boston South - Tereshko,2368
 MA - Boston South - Tereshko,2370
 MA - Boston South - Tereshko,2375
 MA - Boston South - Tereshko,2379
@@ -4136,11 +4157,7 @@ MA - Chelmsford - MarcAurele,2155
 MA - Chelmsford - MarcAurele,2180
 MA - Chelmsford - MarcAurele,3031
 MA - Chelmsford - MarcAurele,3032
-MA - Chelmsford - MarcAurele,3034
-MA - Chelmsford - MarcAurele,3036
 MA - Chelmsford - MarcAurele,3038
-MA - Chelmsford - MarcAurele,3042
-MA - Chelmsford - MarcAurele,3044
 MA - Chelmsford - MarcAurele,3045
 MA - Chelmsford - MarcAurele,3049
 MA - Chelmsford - MarcAurele,3051
@@ -4153,8 +4170,6 @@ MA - Chelmsford - MarcAurele,3062
 MA - Chelmsford - MarcAurele,3063
 MA - Chelmsford - MarcAurele,3064
 MA - Chelmsford - MarcAurele,3076
-MA - Chelmsford - MarcAurele,3077
-MA - Chelmsford - MarcAurele,3079
 MA - Chelmsford - MarcAurele,3087
 MA - Chelmsford - MarcAurele,3101
 MA - Chelmsford - MarcAurele,3102
@@ -4163,20 +4178,24 @@ MA - Chelmsford - MarcAurele,3104
 MA - Chelmsford - MarcAurele,3106
 MA - Chelmsford - MarcAurele,3109
 MA - Chelmsford - MarcAurele,3110
-MA - Chelmsford - MarcAurele,3811
-MA - Chelmsford - MarcAurele,3819
-MA - Chelmsford - MarcAurele,3826
-MA - Chelmsford - MarcAurele,3827
-MA - Chelmsford - MarcAurele,3833
-MA - Chelmsford - MarcAurele,3841
-MA - Chelmsford - MarcAurele,3842
-MA - Chelmsford - MarcAurele,3844
 MA - Chelmsford - MarcAurele,3847
-MA - Chelmsford - MarcAurele,3848
-MA - Chelmsford - MarcAurele,3858
-MA - Chelmsford - MarcAurele,3865
-MA - Chelmsford - MarcAurele,3873
-MA - Chelmsford - MarcAurele,3874
+MA - SE Boston - Astley/Astley/Cunning,2136
+MA - SE Boston - Astley/Astley/Cunning,2137
+MA - SE Boston - Astley/Astley/Cunning,2169
+MA - SE Boston - Astley/Astley/Cunning,2170
+MA - SE Boston - Astley/Astley/Cunning,2171
+MA - SE Boston - Astley/Astley/Cunning,2184
+MA - SE Boston - Astley/Astley/Cunning,2185
+MA - SE Boston - Astley/Astley/Cunning,2186
+MA - SE Boston - Astley/Astley/Cunning,2187
+MA - SE Boston - Astley/Astley/Cunning,2188
+MA - SE Boston - Astley/Astley/Cunning,2189
+MA - SE Boston - Astley/Astley/Cunning,2190
+MA - SE Boston - Astley/Astley/Cunning,2191
+MA - SE Boston - Astley/Astley/Cunning,2269
+MA - SE Boston - Astley/Astley/Cunning,2322
+MA - SE Boston - Astley/Astley/Cunning,2343
+MA - SE Boston - Astley/Astley/Cunning,2368
 MD - Anne Arundel - Bates,20707
 MD - Anne Arundel - Bates,20708
 MD - Anne Arundel - Bates,20715
@@ -4330,6 +4349,7 @@ MD - Bel Air - Moses,21093
 MD - Bel Air - Moses,21117
 MD - Bel Air - Moses,21128
 MD - Bel Air - Moses,21131
+MD - Bel Air - Moses,21133
 MD - Bel Air - Moses,21153
 MD - Bel Air - Moses,21162
 MD - Bel Air - Moses,21204
@@ -4337,12 +4357,20 @@ MD - Bel Air - Moses,21205
 MD - Bel Air - Moses,21206
 MD - Bel Air - Moses,21207
 MD - Bel Air - Moses,21208
+MD - Bel Air - Moses,21209
+MD - Bel Air - Moses,21210
+MD - Bel Air - Moses,21211
+MD - Bel Air - Moses,21212
+MD - Bel Air - Moses,21213
+MD - Bel Air - Moses,21214
+MD - Bel Air - Moses,21218
 MD - Bel Air - Moses,21220
 MD - Bel Air - Moses,21222
 MD - Bel Air - Moses,21224
 MD - Bel Air - Moses,21234
 MD - Bel Air - Moses,21236
 MD - Bel Air - Moses,21237
+MD - Bel Air - Moses,21239
 MD - Bel Air - Moses,21286
 MD - Bel Air - Moses,21901
 MD - Bel Air - Moses,21903
@@ -5092,21 +5120,6 @@ MI - Flint - Hawley,48430
 MI - Flint - Hawley,48442
 MI - Flint - Hawley,48451
 MI - Flint - Hawley,48462
-MI - Flint - Hawley,48126
-MI - Flint - Hawley,48201
-MI - Flint - Hawley,48202
-MI - Flint - Hawley,48204
-MI - Flint - Hawley,48206
-MI - Flint - Hawley,48207
-MI - Flint - Hawley,48208
-MI - Flint - Hawley,48209
-MI - Flint - Hawley,48210
-MI - Flint - Hawley,48211
-MI - Flint - Hawley,48214
-MI - Flint - Hawley,48216
-MI - Flint - Hawley,48221
-MI - Flint - Hawley,48226
-MI - Flint - Hawley,48233
 MI - Flint - Hawley,48243
 MI - Flint - Hawley,48370
 MI - Flint - Hawley,48376
@@ -5124,6 +5137,7 @@ MI - Flint - Hawley,48817
 MI - Flint - Hawley,48844
 MI - Flint - Hawley,48855
 MI - Flint - Hawley,48867
+MI - Grand Rapids - Cusack,49442
 MI - Grand Rapids - Cusack,49058
 MI - Grand Rapids - Cusack,49302
 MI - Grand Rapids - Cusack,49311
@@ -5189,6 +5203,7 @@ MI - Grand Rapids - Cusack,49555
 MI - Grand Rapids - Cusack,49599
 MI - Grand Rapids - Cusack,49127
 MI - Grand Rapids - Cusack,49332
+MI - Grand Rapids - Cusack,49346
 MI - Grand Rapids - Cusack,49401
 MI - Grand Rapids - Cusack,49404
 MI - Grand Rapids - Cusack,49406
@@ -5198,6 +5213,7 @@ MI - Grand Rapids - Cusack,49426
 MI - Grand Rapids - Cusack,49427
 MI - Grand Rapids - Cusack,49435
 MI - Grand Rapids - Cusack,49441
+MI - Grand Rapids - Cusack,49451
 MI - Kalamazoo - Jacob,49017
 MI - Kalamazoo - Jacob,49018
 MI - Kalamazoo - Jacob,49020
@@ -5420,46 +5436,11 @@ MI - Oakland County - Ryan/Lipa,48334
 MI - Oakland County - Ryan/Lipa,48335
 MI - Oakland County - Ryan/Lipa,48336
 MI - Oakland County - Ryan/Lipa,48387
-MI - Oakland County - Ryan/Lipa,40186
 MI - Oakland County - Ryan/Lipa,48033
-MI - Oakland County - Ryan/Lipa,48090
 MI - Oakland County - Ryan/Lipa,48123
 MI - Oakland County - Ryan/Lipa,48124
 MI - Oakland County - Ryan/Lipa,48128
-MI - Oakland County - Ryan/Lipa,48203
-MI - Oakland County - Ryan/Lipa,48205
-MI - Oakland County - Ryan/Lipa,48221
-MI - Oakland County - Ryan/Lipa,48222
-MI - Oakland County - Ryan/Lipa,48223
-MI - Oakland County - Ryan/Lipa,48224
-MI - Oakland County - Ryan/Lipa,48225
-MI - Oakland County - Ryan/Lipa,48226
-MI - Oakland County - Ryan/Lipa,48231
-MI - Oakland County - Ryan/Lipa,48232
-MI - Oakland County - Ryan/Lipa,48233
-MI - Oakland County - Ryan/Lipa,48234
-MI - Oakland County - Ryan/Lipa,48238
 MI - Oakland County - Ryan/Lipa,48243
-MI - Oakland County - Ryan/Lipa,48244
-MI - Oakland County - Ryan/Lipa,48255
-MI - Oakland County - Ryan/Lipa,48260
-MI - Oakland County - Ryan/Lipa,48264
-MI - Oakland County - Ryan/Lipa,48265
-MI - Oakland County - Ryan/Lipa,48266
-MI - Oakland County - Ryan/Lipa,48267
-MI - Oakland County - Ryan/Lipa,48268
-MI - Oakland County - Ryan/Lipa,48269
-MI - Oakland County - Ryan/Lipa,48272
-MI - Oakland County - Ryan/Lipa,48275
-MI - Oakland County - Ryan/Lipa,48277
-MI - Oakland County - Ryan/Lipa,48278
-MI - Oakland County - Ryan/Lipa,48279
-MI - Oakland County - Ryan/Lipa,48288
-MI - Oakland County - Ryan/Lipa,48306
-MI - Oakland County - Ryan/Lipa,48307
-MI - Oakland County - Ryan/Lipa,48308
-MI - Oakland County - Ryan/Lipa,48315
-MI - Oakland County - Ryan/Lipa,48363
 MN - Eden Prairie - Sedlak,55315
 MN - Eden Prairie - Sedlak,55317
 MN - Eden Prairie - Sedlak,55318
@@ -5499,6 +5480,7 @@ MN - Eden Prairie - Sedlak,55311
 MN - Eden Prairie - Sedlak,55343
 MN - Eden Prairie - Sedlak,55345
 MN - Eden Prairie - Sedlak,55446
+MN - Eden Prairie - Sedlak,55447
 MN - Minneapolis - Christiansen,55024
 MN - Minneapolis - Christiansen,55044
 MN - Minneapolis - Christiansen,55068
@@ -5772,7 +5754,15 @@ MO - Lees Summit - Rodick,64743
 MO - Lees Summit - Rodick,64746
 MO - Lees Summit - Rodick,64064
 MO - Lees Summit - Rodick,64113
+MO - Lees Summit - Rodick,66202
+MO - Lees Summit - Rodick,66204
+MO - Lees Summit - Rodick,66208
 MO - Lees Summit - Rodick,66209
+MO - Lees Summit - Rodick,66212
+MO - Lees Summit - Rodick,66213
+MO - Lees Summit - Rodick,66215
+MO - Lees Summit - Rodick,66221
+MO - Lees Summit - Rodick,66223
 MO - Lees Summit - Rodick,66224
 MO - St Louis - Provo,63006
 MO - St Louis - Provo,63011
@@ -6150,6 +6140,9 @@ NC - Statesville Mooresville - McCormick,28699
 NC - Statesville Mooresville - McCormick,28001
 NC - Statesville Mooresville - McCormick,28002
 NC - Statesville Mooresville - McCormick,28025
+NC - Statesville Mooresville - McCormick,28078
+NC - Statesville Mooresville - McCormick,28202
+NC - Statesville Mooresville - McCormick,28203
 NC - Statesville Mooresville - McCormick,28675
 NC - Statesville Mooresville - McCormick,28761
 NC - Thomasville - Shone,27006
@@ -6299,6 +6292,61 @@ NE - OmahaLincoln - Hughes,68183
 NE - OmahaLincoln - Hughes,68197
 NE - OmahaLincoln - Hughes,68382
 NE - OmahaLincoln - Hughes,68403
+NH - Portsmouth - Batchelder,3034
+NH - Portsmouth - Batchelder,3036
+NH - Portsmouth - Batchelder,3037
+NH - Portsmouth - Batchelder,3040
+NH - Portsmouth - Batchelder,3042
+NH - Portsmouth - Batchelder,3044
+NH - Portsmouth - Batchelder,3073
+NH - Portsmouth - Batchelder,3077
+NH - Portsmouth - Batchelder,3079
+NH - Portsmouth - Batchelder,3261
+NH - Portsmouth - Batchelder,3290
+NH - Portsmouth - Batchelder,3291
+NH - Portsmouth - Batchelder,3801
+NH - Portsmouth - Batchelder,3802
+NH - Portsmouth - Batchelder,3803
+NH - Portsmouth - Batchelder,3804
+NH - Portsmouth - Batchelder,3811
+NH - Portsmouth - Batchelder,3815
+NH - Portsmouth - Batchelder,3819
+NH - Portsmouth - Batchelder,3820
+NH - Portsmouth - Batchelder,3821
+NH - Portsmouth - Batchelder,3822
+NH - Portsmouth - Batchelder,3823
+NH - Portsmouth - Batchelder,3824
+NH - Portsmouth - Batchelder,3825
+NH - Portsmouth - Batchelder,3826
+NH - Portsmouth - Batchelder,3827
+NH - Portsmouth - Batchelder,3833
+NH - Portsmouth - Batchelder,3835
+NH - Portsmouth - Batchelder,3839
+NH - Portsmouth - Batchelder,3840
+NH - Portsmouth - Batchelder,3841
+NH - Portsmouth - Batchelder,3842
+NH - Portsmouth - Batchelder,3843
+NH - Portsmouth - Batchelder,3844
+NH - Portsmouth - Batchelder,3848
+NH - Portsmouth - Batchelder,3854
+NH - Portsmouth - Batchelder,3856
+NH - Portsmouth - Batchelder,3857
+NH - Portsmouth - Batchelder,3858
+NH - Portsmouth - Batchelder,3859
+NH - Portsmouth - Batchelder,3861
+NH - Portsmouth - Batchelder,3862
+NH - Portsmouth - Batchelder,3865
+NH - Portsmouth - Batchelder,3866
+NH - Portsmouth - Batchelder,3867
+NH - Portsmouth - Batchelder,3868
+NH - Portsmouth - Batchelder,3869
+NH - Portsmouth - Batchelder,3870
+NH - Portsmouth - Batchelder,3871
+NH - Portsmouth - Batchelder,3873
+NH - Portsmouth - Batchelder,3874
+NH - Portsmouth - Batchelder,3878
+NH - Portsmouth - Batchelder,3884
+NH - Portsmouth - Batchelder,3885
 NJ - Atlantic City - Hubner,8005
 NJ - Atlantic City - Hubner,8006
 NJ - Atlantic City - Hubner,8008
@@ -6786,16 +6834,28 @@ NJ - Trenton - Changpertitum/Liao,8666
 NJ - Trenton - Changpertitum/Liao,8690
 NJ - Trenton - Changpertitum/Liao,8691
 NJ - Trenton - Changpertitum/Liao,8695
+NJ - Trenton - Changpertitum/Liao,7722
+NJ - Trenton - Changpertitum/Liao,7727
+NJ - Trenton - Changpertitum/Liao,7728
+NJ - Trenton - Changpertitum/Liao,7731
+NJ - Trenton - Changpertitum/Liao,8010
+NJ - Trenton - Changpertitum/Liao,8011
+NJ - Trenton - Changpertitum/Liao,8015
 NJ - Trenton - Changpertitum/Liao,8016
 NJ - Trenton - Changpertitum/Liao,8022
 NJ - Trenton - Changpertitum/Liao,8036
 NJ - Trenton - Changpertitum/Liao,8041
+NJ - Trenton - Changpertitum/Liao,8042
 NJ - Trenton - Changpertitum/Liao,8046
 NJ - Trenton - Changpertitum/Liao,8048
 NJ - Trenton - Changpertitum/Liao,8054
 NJ - Trenton - Changpertitum/Liao,8057
 NJ - Trenton - Changpertitum/Liao,8060
+NJ - Trenton - Changpertitum/Liao,8064
+NJ - Trenton - Changpertitum/Liao,8068
+NJ - Trenton - Changpertitum/Liao,8073
 NJ - Trenton - Changpertitum/Liao,8075
+NJ - Trenton - Changpertitum/Liao,8224
 NJ - Trenton - Changpertitum/Liao,8501
 NJ - Trenton - Changpertitum/Liao,8505
 NJ - Trenton - Changpertitum/Liao,8510
@@ -6803,6 +6863,7 @@ NJ - Trenton - Changpertitum/Liao,8511
 NJ - Trenton - Changpertitum/Liao,8514
 NJ - Trenton - Changpertitum/Liao,8515
 NJ - Trenton - Changpertitum/Liao,8518
+NJ - Trenton - Changpertitum/Liao,8527
 NJ - Trenton - Changpertitum/Liao,8533
 NJ - Trenton - Changpertitum/Liao,8535
 NJ - Trenton - Changpertitum/Liao,8554
@@ -6811,125 +6872,164 @@ NJ - Trenton - Changpertitum/Liao,8562
 NJ - Trenton - Changpertitum/Liao,8620
 NJ - Trenton - Changpertitum/Liao,8640
 NJ - Trenton - Changpertitum/Liao,8641
-NOT OPEN CA - Thousand Oaks - Robinson,90263
-NOT OPEN CA - Thousand Oaks - Robinson,90264
-NOT OPEN CA - Thousand Oaks - Robinson,90265
-NOT OPEN CA - Thousand Oaks - Robinson,90290
-NOT OPEN CA - Thousand Oaks - Robinson,91301
-NOT OPEN CA - Thousand Oaks - Robinson,91302
-NOT OPEN CA - Thousand Oaks - Robinson,91303
-NOT OPEN CA - Thousand Oaks - Robinson,91305
-NOT OPEN CA - Thousand Oaks - Robinson,91306
-NOT OPEN CA - Thousand Oaks - Robinson,91307
-NOT OPEN CA - Thousand Oaks - Robinson,91308
-NOT OPEN CA - Thousand Oaks - Robinson,91356
-NOT OPEN CA - Thousand Oaks - Robinson,91357
-NOT OPEN CA - Thousand Oaks - Robinson,91359
-NOT OPEN CA - Thousand Oaks - Robinson,91361
-NOT OPEN CA - Thousand Oaks - Robinson,91362
-NOT OPEN CA - Thousand Oaks - Robinson,91364
-NOT OPEN CA - Thousand Oaks - Robinson,91365
-NOT OPEN CA - Thousand Oaks - Robinson,91367
-NOT OPEN CA - Thousand Oaks - Robinson,91371
-NOT OPEN CA - Thousand Oaks - Robinson,91372
-NOT OPEN CA - Thousand Oaks - Robinson,91376
-NOT OPEN CA - Thousand Oaks - Robinson,91377
-NOT OPEN NH - Portsmouth - Batchelder,3034
-NOT OPEN NH - Portsmouth - Batchelder,3036
-NOT OPEN NH - Portsmouth - Batchelder,3037
-NOT OPEN NH - Portsmouth - Batchelder,3040
-NOT OPEN NH - Portsmouth - Batchelder,3042
-NOT OPEN NH - Portsmouth - Batchelder,3044
-NOT OPEN NH - Portsmouth - Batchelder,3073
-NOT OPEN NH - Portsmouth - Batchelder,3077
-NOT OPEN NH - Portsmouth - Batchelder,3079
-NOT OPEN NH - Portsmouth - Batchelder,3261
-NOT OPEN NH - Portsmouth - Batchelder,3290
-NOT OPEN NH - Portsmouth - Batchelder,3291
-NOT OPEN NH - Portsmouth - Batchelder,3801
-NOT OPEN NH - Portsmouth - Batchelder,3802
-NOT OPEN NH - Portsmouth - Batchelder,3803
-NOT OPEN NH - Portsmouth - Batchelder,3804
-NOT OPEN NH - Portsmouth - Batchelder,3811
-NOT OPEN NH - Portsmouth - Batchelder,3815
-NOT OPEN NH - Portsmouth - Batchelder,3819
-NOT OPEN NH - Portsmouth - Batchelder,3820
-NOT OPEN NH - Portsmouth - Batchelder,3821
-NOT OPEN NH - Portsmouth - Batchelder,3822
-NOT OPEN NH - Portsmouth - Batchelder,3823
-NOT OPEN NH - Portsmouth - Batchelder,3824
-NOT OPEN NH - Portsmouth - Batchelder,3825
-NOT OPEN NH - Portsmouth - Batchelder,3826
-NOT OPEN NH - Portsmouth - Batchelder,3827
-NOT OPEN NH - Portsmouth - Batchelder,3833
-NOT OPEN NH - Portsmouth - Batchelder,3835
-NOT OPEN NH - Portsmouth - Batchelder,3839
-NOT OPEN NH - Portsmouth - Batchelder,3840
-NOT OPEN NH - Portsmouth - Batchelder,3841
-NOT OPEN NH - Portsmouth - Batchelder,3842
-NOT OPEN NH - Portsmouth - Batchelder,3843
-NOT OPEN NH - Portsmouth - Batchelder,3844
-NOT OPEN NH - Portsmouth - Batchelder,3848
-NOT OPEN NH - Portsmouth - Batchelder,3854
-NOT OPEN NH - Portsmouth - Batchelder,3856
-NOT OPEN NH - Portsmouth - Batchelder,3857
-NOT OPEN NH - Portsmouth - Batchelder,3858
-NOT OPEN NH - Portsmouth - Batchelder,3859
-NOT OPEN NH - Portsmouth - Batchelder,3861
-NOT OPEN NH - Portsmouth - Batchelder,3862
-NOT OPEN NH - Portsmouth - Batchelder,3865
-NOT OPEN NH - Portsmouth - Batchelder,3866
-NOT OPEN NH - Portsmouth - Batchelder,3867
-NOT OPEN NH - Portsmouth - Batchelder,3868
-NOT OPEN NH - Portsmouth - Batchelder,3869
-NOT OPEN NH - Portsmouth - Batchelder,3870
-NOT OPEN NH - Portsmouth - Batchelder,3871
-NOT OPEN NH - Portsmouth - Batchelder,3873
-NOT OPEN NH - Portsmouth - Batchelder,3874
-NOT OPEN NH - Portsmouth - Batchelder,3878
-NOT OPEN NH - Portsmouth - Batchelder,3884
-NOT OPEN NH - Portsmouth - Batchelder,3885
-NOT OPEN OH - Lebanon - Harper,45005
-NOT OPEN OH - Lebanon - Harper,45011
-NOT OPEN OH - Lebanon - Harper,45012
-NOT OPEN OH - Lebanon - Harper,45014
-NOT OPEN OH - Lebanon - Harper,45015
-NOT OPEN OH - Lebanon - Harper,45018
-NOT OPEN OH - Lebanon - Harper,45032
-NOT OPEN OH - Lebanon - Harper,45036
-NOT OPEN OH - Lebanon - Harper,45042
-NOT OPEN OH - Lebanon - Harper,45044
-NOT OPEN OH - Lebanon - Harper,45050
-NOT OPEN OH - Lebanon - Harper,45054
-NOT OPEN OH - Lebanon - Harper,45055
-NOT OPEN OH - Lebanon - Harper,45061
-NOT OPEN OH - Lebanon - Harper,45062
-NOT OPEN OH - Lebanon - Harper,45064
-NOT OPEN OH - Lebanon - Harper,45065
-NOT OPEN OH - Lebanon - Harper,45066
-NOT OPEN OH - Lebanon - Harper,45067
-NOT OPEN OH - Lebanon - Harper,45068
-NOT OPEN OH - Lebanon - Harper,45113
-NOT OPEN OH - Lebanon - Harper,45152
-VA - Reston - Shure,20151
-VA - Reston - Shure,20152
-VA - Reston - Shure,20153
-VA - Reston - Shure,20163
-VA - Reston - Shure,20164
-VA - Reston - Shure,20165
-VA - Reston - Shure,20167
-VA - Reston - Shure,20170
-VA - Reston - Shure,20171
-VA - Reston - Shure,20172
-VA - Reston - Shure,20190
-VA - Reston - Shure,20191
-VA - Reston - Shure,20192
-VA - Reston - Shure,20194
-VA - Reston - Shure,20195
-VA - Reston - Shure,20196
-VA - Reston - Shure,22066
-VA - Reston - Shure,22095
-VA - Reston - Shure,22096
+NJ - Trenton - Changpertitum/Liao,8701
+NJ - Trenton - Changpertitum/Liao,8724
+NJ - Trenton - Changpertitum/Liao,8733
+NJ - Trenton - Changpertitum/Liao,8742
+NJ - Trenton - Changpertitum/Liao,8755
+NJ - Trenton - Changpertitum/Liao,8757
+NJ - Trenton - Changpertitum/Liao,8759
+NOT OPEN AZ - Scottsdale - Lashley/Mroczek,85010
+NOT OPEN AZ - Scottsdale - Lashley/Mroczek,85060
+NOT OPEN AZ - Scottsdale - Lashley/Mroczek,85250
+NOT OPEN AZ - Scottsdale - Lashley/Mroczek,85252
+NOT OPEN AZ - Scottsdale - Lashley/Mroczek,85257
+NOT OPEN AZ - Scottsdale - Lashley/Mroczek,85261
+NOT OPEN AZ - Scottsdale - Lashley/Mroczek,85267
+NOT OPEN AZ - Scottsdale - Lashley/Mroczek,85269
+NOT OPEN AZ - Scottsdale - Lashley/Mroczek,85271
+NOT OPEN AZ - Scottsdale - Lashley/Mroczek,85377
+NOT OPEN FL - Destin - Sabo,32401
+NOT OPEN FL - Destin - Sabo,32402
+NOT OPEN FL - Destin - Sabo,32405
+NOT OPEN FL - Destin - Sabo,32406
+NOT OPEN FL - Destin - Sabo,32407
+NOT OPEN FL - Destin - Sabo,32408
+NOT OPEN FL - Destin - Sabo,32411
+NOT OPEN FL - Destin - Sabo,32412
+NOT OPEN FL - Destin - Sabo,32413
+NOT OPEN FL - Destin - Sabo,32417
+NOT OPEN FL - Destin - Sabo,32439
+NOT OPEN FL - Destin - Sabo,32444
+NOT OPEN FL - Destin - Sabo,32459
+NOT OPEN FL - Destin - Sabo,32461
+NOT OPEN FL - Destin - Sabo,32536
+NOT OPEN FL - Destin - Sabo,32537
+NOT OPEN FL - Destin - Sabo,32539
+NOT OPEN FL - Destin - Sabo,32540
+NOT OPEN FL - Destin - Sabo,32541
+NOT OPEN FL - Destin - Sabo,32542
+NOT OPEN FL - Destin - Sabo,32544
+NOT OPEN FL - Destin - Sabo,32547
+NOT OPEN FL - Destin - Sabo,32548
+NOT OPEN FL - Destin - Sabo,32549
+NOT OPEN FL - Destin - Sabo,32550
+NOT OPEN FL - Destin - Sabo,32566
+NOT OPEN FL - Destin - Sabo,32569
+NOT OPEN FL - Destin - Sabo,32578
+NOT OPEN FL - Destin - Sabo,32579
+NOT OPEN FL - Destin - Sabo,32580
+NOT OPEN FL - Destin - Sabo,32588
+NOT OPEN MA - Springfield - Monroe,1001
+NOT OPEN MA - Springfield - Monroe,1009
+NOT OPEN MA - Springfield - Monroe,1013
+NOT OPEN MA - Springfield - Monroe,1014
+NOT OPEN MA - Springfield - Monroe,1020
+NOT OPEN MA - Springfield - Monroe,1021
+NOT OPEN MA - Springfield - Monroe,1022
+NOT OPEN MA - Springfield - Monroe,1028
+NOT OPEN MA - Springfield - Monroe,1030
+NOT OPEN MA - Springfield - Monroe,1036
+NOT OPEN MA - Springfield - Monroe,1056
+NOT OPEN MA - Springfield - Monroe,1057
+NOT OPEN MA - Springfield - Monroe,1069
+NOT OPEN MA - Springfield - Monroe,1077
+NOT OPEN MA - Springfield - Monroe,1079
+NOT OPEN MA - Springfield - Monroe,1080
+NOT OPEN MA - Springfield - Monroe,1085
+NOT OPEN MA - Springfield - Monroe,1086
+NOT OPEN MA - Springfield - Monroe,1089
+NOT OPEN MA - Springfield - Monroe,1090
+NOT OPEN MA - Springfield - Monroe,1095
+NOT OPEN MA - Springfield - Monroe,1101
+NOT OPEN MA - Springfield - Monroe,1102
+NOT OPEN MA - Springfield - Monroe,1103
+NOT OPEN MA - Springfield - Monroe,1104
+NOT OPEN MA - Springfield - Monroe,1105
+NOT OPEN MA - Springfield - Monroe,1106
+NOT OPEN MA - Springfield - Monroe,1107
+NOT OPEN MA - Springfield - Monroe,1108
+NOT OPEN MA - Springfield - Monroe,1109
+NOT OPEN MA - Springfield - Monroe,1111
+NOT OPEN MA - Springfield - Monroe,1116
+NOT OPEN MA - Springfield - Monroe,1118
+NOT OPEN MA - Springfield - Monroe,1119
+NOT OPEN MA - Springfield - Monroe,1128
+NOT OPEN MA - Springfield - Monroe,1129
+NOT OPEN MA - Springfield - Monroe,1138
+NOT OPEN MA - Springfield - Monroe,1139
+NOT OPEN MA - Springfield - Monroe,1151
+NOT OPEN MA - Springfield - Monroe,1199
+NOT OPEN MS - Hattiesburg - Wallace,39119
+NOT OPEN MS - Hattiesburg - Wallace,39140
+NOT OPEN MS - Hattiesburg - Wallace,39401
+NOT OPEN MS - Hattiesburg - Wallace,39402
+NOT OPEN MS - Hattiesburg - Wallace,39403
+NOT OPEN MS - Hattiesburg - Wallace,39404
+NOT OPEN MS - Hattiesburg - Wallace,39421
+NOT OPEN MS - Hattiesburg - Wallace,39427
+NOT OPEN MS - Hattiesburg - Wallace,39428
+NOT OPEN MS - Hattiesburg - Wallace,39429
+NOT OPEN MS - Hattiesburg - Wallace,39436
+NOT OPEN MS - Hattiesburg - Wallace,39437
+NOT OPEN MS - Hattiesburg - Wallace,39440
+NOT OPEN MS - Hattiesburg - Wallace,39441
+NOT OPEN MS - Hattiesburg - Wallace,39442
+NOT OPEN MS - Hattiesburg - Wallace,39459
+NOT OPEN MS - Hattiesburg - Wallace,39460
+NOT OPEN MS - Hattiesburg - Wallace,39465
+NOT OPEN MS - Hattiesburg - Wallace,39474
+NOT OPEN MS - Hattiesburg - Wallace,39475
+NOT OPEN MS - Hattiesburg - Wallace,39478
+NOT OPEN MS - Hattiesburg - Wallace,39479
+NOT OPEN MS - Hattiesburg - Wallace,39482
+NOT OPEN MS - Hattiesburg - Wallace,39483
+NOT OPEN MS - Hattiesburg - Wallace,39601
+NOT OPEN MS - Hattiesburg - Wallace,39602
+NOT OPEN MS - Hattiesburg - Wallace,39603
+NOT OPEN MS - Hattiesburg - Wallace,39629
+NOT OPEN MS - Hattiesburg - Wallace,39641
+NOT OPEN MS - Hattiesburg - Wallace,39643
+NOT OPEN MS - Hattiesburg - Wallace,39648
+NOT OPEN MS - Hattiesburg - Wallace,39649
+NOT OPEN MS - Hattiesburg - Wallace,39652
+NOT OPEN MS - Hattiesburg - Wallace,39654
+NOT OPEN MS - Hattiesburg - Wallace,39656
+NOT OPEN MS - Hattiesburg - Wallace,39657
+NOT OPEN MS - Hattiesburg - Wallace,39662
+NOT OPEN MS - Hattiesburg - Wallace,39663
+NOT OPEN MS - Hattiesburg - Wallace,39665
+NOT OPEN MS - Hattiesburg - Wallace,39666
+NOT OPEN MS - Hattiesburg - Wallace,39667
+NOT OPEN OH - Central Columbus - Donovan/Olson,43026
+NOT OPEN OH - Central Columbus - Donovan/Olson,43201
+NOT OPEN OH - Central Columbus - Donovan/Olson,43202
+NOT OPEN OH - Central Columbus - Donovan/Olson,43203
+NOT OPEN OH - Central Columbus - Donovan/Olson,43205
+NOT OPEN OH - Central Columbus - Donovan/Olson,43206
+NOT OPEN OH - Central Columbus - Donovan/Olson,43210
+NOT OPEN OH - Central Columbus - Donovan/Olson,43211
+NOT OPEN OH - Central Columbus - Donovan/Olson,43212
+NOT OPEN OH - Central Columbus - Donovan/Olson,43215
+NOT OPEN OH - Central Columbus - Donovan/Olson,43216
+NOT OPEN OH - Central Columbus - Donovan/Olson,43220
+NOT OPEN OH - Central Columbus - Donovan/Olson,43221
+NOT OPEN OH - Central Columbus - Donovan/Olson,43222
+NOT OPEN TX - Midlothian - Matthews,75165
+NOT OPEN TX - Midlothian - Matthews,75167
+NOT OPEN TX - Midlothian - Matthews,75168
+NOT OPEN TX - Midlothian - Matthews,76009
+NOT OPEN TX - Midlothian - Matthews,76028
+NOT OPEN TX - Midlothian - Matthews,76031
+NOT OPEN TX - Midlothian - Matthews,76050
+NOT OPEN TX - Midlothian - Matthews,76058
+NOT OPEN TX - Midlothian - Matthews,76059
+NOT OPEN TX - Midlothian - Matthews,76061
+NOT OPEN TX - Midlothian - Matthews,76063
+NOT OPEN TX - Midlothian - Matthews,76064
+NOT OPEN TX - Midlothian - Matthews,76065
+NOT OPEN TX - Midlothian - Matthews,76084
+NOT OPEN TX - Midlothian - Matthews,76097
 NV - Las Vegas - Guy,89052
 NV - Las Vegas - Guy,89077
 NV - Las Vegas - Guy,89102
@@ -7683,12 +7783,7 @@ OH - Cincinnati - Rogers,45244
 OH - Cincinnati - Rogers,45245
 OH - Cincinnati - Rogers,45254
 OH - Cincinnati - Rogers,45255
-OH - Cincinnati - Rogers,45011
 OH - Cincinnati - Rogers,45013
-OH - Cincinnati - Rogers,45014
-OH - Cincinnati - Rogers,45044
-OH - Cincinnati - Rogers,45065
-OH - Cincinnati - Rogers,45152
 OH - Cincinnati - Rogers,45223
 OH - Cincinnati - Rogers,45224
 OH - Cincinnati - Rogers,45231
@@ -7877,7 +7972,30 @@ OH - Columbus North - Thomas,43224
 OH - Columbus North - Thomas,43228
 OH - Columbus North - Thomas,43230
 OH - Columbus North - Thomas,43231
+OH - Columbus North - Thomas,43232
 OH - Columbus North - Thomas,43235
+OH - Lebanon - Harper,45005
+OH - Lebanon - Harper,45011
+OH - Lebanon - Harper,45012
+OH - Lebanon - Harper,45014
+OH - Lebanon - Harper,45015
+OH - Lebanon - Harper,45018
+OH - Lebanon - Harper,45032
+OH - Lebanon - Harper,45036
+OH - Lebanon - Harper,45042
+OH - Lebanon - Harper,45044
+OH - Lebanon - Harper,45050
+OH - Lebanon - Harper,45054
+OH - Lebanon - Harper,45055
+OH - Lebanon - Harper,45061
+OH - Lebanon - Harper,45062
+OH - Lebanon - Harper,45064
+OH - Lebanon - Harper,45065
+OH - Lebanon - Harper,45066
+OH - Lebanon - Harper,45067
+OH - Lebanon - Harper,45068
+OH - Lebanon - Harper,45113
+OH - Lebanon - Harper,45152
 OK - Jenks - Foster,74008
 OK - Jenks - Foster,74010
 OK - Jenks - Foster,74011
@@ -8857,6 +8975,21 @@ SC - Charleston - Simmons,29470
 SC - Charleston - Simmons,29487
 SC - Charleston - Simmons,29424
 SC - Charleston - Simmons,29425
+SC - Charleston - Simmons,29902
+SC - Charleston - Simmons,29903
+SC - Charleston - Simmons,29904
+SC - Charleston - Simmons,29905
+SC - Charleston - Simmons,29906
+SC - Charleston - Simmons,29907
+SC - Charleston - Simmons,29909
+SC - Charleston - Simmons,29910
+SC - Charleston - Simmons,29915
+SC - Charleston - Simmons,29920
+SC - Charleston - Simmons,29925
+SC - Charleston - Simmons,29926
+SC - Charleston - Simmons,29928
+SC - Charleston - Simmons,29935
+SC - Charleston - Simmons,29938
 SC - Columbia - Sullivan,29016
 SC - Columbia - Sullivan,29044
 SC - Columbia - Sullivan,29045
@@ -8914,6 +9047,7 @@ SC - Columbia - Sullivan,29212
 SC - Columbia - Sullivan,29221
 SC - Columbia - Sullivan,29228
 SC - Columbia - Sullivan,29292
+SC - Columbia - Sullivan,29302
 SC - Greenville - Truelove,29601
 SC - Greenville - Truelove,29605
 SC - Greenville - Truelove,29607
@@ -9000,6 +9134,11 @@ SC - Spartanburg - Wells,29651
 SC - Spartanburg - Wells,29652
 SC - Spartanburg - Wells,29687
 SC - Spartanburg - Wells,29688
+SC - Spartanburg - Wells,28210
+SC - Spartanburg - Wells,28226
+SC - Spartanburg - Wells,28273
+SC - Spartanburg - Wells,28277
+SC - Spartanburg - Wells,28278
 SC - Spartanburg - Wells,29036
 SC - Spartanburg - Wells,29037
 SC - Spartanburg - Wells,29072
@@ -9366,6 +9505,21 @@ TN - Nashville - Lombardi,37244
 TN - Nashville - Lombardi,37246
 TN - Nashville - Lombardi,37250
 TN - Nashville - Lombardi,38482
+TX - Arlington - Rohlfs,75050
+TX - Arlington - Rohlfs,75051
+TX - Arlington - Rohlfs,75053
+TX - Arlington - Rohlfs,75060
+TX - Arlington - Rohlfs,76004
+TX - Arlington - Rohlfs,76007
+TX - Arlington - Rohlfs,76010
+TX - Arlington - Rohlfs,76011
+TX - Arlington - Rohlfs,76013
+TX - Arlington - Rohlfs,76014
+TX - Arlington - Rohlfs,76015
+TX - Arlington - Rohlfs,76016
+TX - Arlington - Rohlfs,76018
+TX - Arlington - Rohlfs,76094
+TX - Arlington - Rohlfs,76096
 TX - Austin Junk - Lampson,78641
 TX - Austin Junk - Lampson,78645
 TX - Austin Junk - Lampson,78646
@@ -9635,6 +9789,7 @@ TX - Conroe - Quintanilha,77305
 TX - Conroe - Quintanilha,77306
 TX - Conroe - Quintanilha,77316
 TX - Conroe - Quintanilha,77354
+TX - Conroe - Quintanilha,77356
 TX - Conroe - Quintanilha,77357
 TX - Conroe - Quintanilha,77365
 TX - Conroe - Quintanilha,77372
@@ -9682,7 +9837,6 @@ TX - Conroe - Quintanilha,77340
 TX - Conroe - Quintanilha,77345
 TX - Conroe - Quintanilha,77346
 TX - Conroe - Quintanilha,77355
-TX - Conroe - Quintanilha,77356
 TX - Conroe - Quintanilha,77362
 TX - Conroe - Quintanilha,77378
 TX - Conroe - Quintanilha,77396
@@ -9883,21 +10037,7 @@ TX - Dallas Garland - Quintanilla,75088
 TX - Dallas Garland - Quintanilla,75089
 TX - Dallas Garland - Quintanilla,75094
 TX - Dallas Garland - Quintanilla,75098
-TX - Dallas Southwest - Rohlfs,75050
-TX - Dallas Southwest - Rohlfs,75051
-TX - Dallas Southwest - Rohlfs,75053
-TX - Dallas Southwest - Rohlfs,75060
-TX - Dallas Southwest - Rohlfs,76004
-TX - Dallas Southwest - Rohlfs,76007
-TX - Dallas Southwest - Rohlfs,76010
-TX - Dallas Southwest - Rohlfs,76011
-TX - Dallas Southwest - Rohlfs,76013
-TX - Dallas Southwest - Rohlfs,76014
-TX - Dallas Southwest - Rohlfs,76015
-TX - Dallas Southwest - Rohlfs,76016
-TX - Dallas Southwest - Rohlfs,76018
-TX - Dallas Southwest - Rohlfs,76094
-TX - Dallas Southwest - Rohlfs,76096
+TX - Dallas Garland - Quintanilla,75043
 TX - Denton - Ablitt,75065
 TX - Denton - Ablitt,75068
 TX - Denton - Ablitt,75077
@@ -9917,25 +10057,6 @@ TX - Denton - Ablitt,76258
 TX - Denton - Ablitt,76266
 TX - Denton - Ablitt,76271
 TX - Denton - Ablitt,76272
-TX - Eldridge - Mance,77042
-TX - Eldridge - Mance,77072
-TX - Eldridge - Mance,77077
-TX - Eldridge - Mance,77082
-TX - Eldridge - Mance,77083
-TX - Eldridge - Mance,77094
-TX - Eldridge - Mance,77242
-TX - Eldridge - Mance,77244
-TX - Eldridge - Mance,77272
-TX - Eldridge - Mance,77282
-TX - Eldridge - Mance,77411
-TX - Eldridge - Mance,77413
-TX - Eldridge - Mance,77450
-TX - Eldridge - Mance,77065
-TX - Eldridge - Mance,77095
-TX - Eldridge - Mance,77433
-TX - Eldridge - Mance,77449
-TX - Eldridge - Mance,77491
-TX - Eldridge - Mance,77493
 TX - Houston Central - Smith,77001
 TX - Houston Central - Smith,77002
 TX - Houston Central - Smith,77006
@@ -10019,6 +10140,7 @@ TX - Houston Central - Smith,77028
 TX - Houston Central - Smith,77029
 TX - Houston Central - Smith,77034
 TX - Houston Central - Smith,77039
+TX - Houston Central - Smith,77042
 TX - Houston Central - Smith,77049
 TX - Houston Central - Smith,77050
 TX - Houston Central - Smith,77055
@@ -10026,13 +10148,18 @@ TX - Houston Central - Smith,77058
 TX - Houston Central - Smith,77059
 TX - Houston Central - Smith,77062
 TX - Houston Central - Smith,77064
+TX - Houston Central - Smith,77065
 TX - Houston Central - Smith,77066
 TX - Houston Central - Smith,77076
+TX - Houston Central - Smith,77077
 TX - Houston Central - Smith,77078
+TX - Houston Central - Smith,77082
 TX - Houston Central - Smith,77087
 TX - Houston Central - Smith,77088
 TX - Houston Central - Smith,77090
 TX - Houston Central - Smith,77093
+TX - Houston Central - Smith,77094
+TX - Houston Central - Smith,77095
 TX - Houston Central - Smith,77224
 TX - Houston Central - Smith,77273
 TX - Houston Central - Smith,77279
@@ -10043,6 +10170,9 @@ TX - Houston Central - Smith,77371
 TX - Houston Central - Smith,77379
 TX - Houston Central - Smith,77391
 TX - Houston Central - Smith,77411
+TX - Houston Central - Smith,77433
+TX - Houston Central - Smith,77449
+TX - Houston Central - Smith,77450
 TX - Houston Central - Smith,77492
 TX - Houston Central - Smith,77502
 TX - Houston Central - Smith,77503
@@ -10063,6 +10193,13 @@ TX - Houston Central - Smith,77571
 TX - Houston Central - Smith,77573
 TX - Houston Central - Smith,77586
 TX - Houston Central - Smith,77587
+TX - Houston Central - Smith,77802
+TX - Houston Central - Smith,77840
+TX - Houston Central - Smith,77841
+TX - Houston Central - Smith,77842
+TX - Houston Central - Smith,77843
+TX - Houston Central - Smith,77844
+TX - Houston Central - Smith,77845
 TX - Houston SW - Luedecke,77053
 TX - Houston SW - Luedecke,77459
 TX - Houston SW - Luedecke,77477
@@ -10090,8 +10227,10 @@ TX - Houston SW - Luedecke,77494
 TX - Houston SW - Luedecke,77496
 TX - Houston SW - Luedecke,77498
 TX - Houston SW - Luedecke,77058
+TX - Houston SW - Luedecke,77094
 TX - Houston SW - Luedecke,77435
 TX - Houston SW - Luedecke,77449
+TX - Houston SW - Luedecke,77450
 TX - Houston SW - Luedecke,77461
 TX - Houston SW - Luedecke,77476
 TX - Houston SW - Luedecke,77485
@@ -10408,6 +10547,7 @@ TX - The Woodlands - Mejia,77389
 TX - The Woodlands - Mejia,77393
 TX - The Woodlands - Mejia,77410
 TX - The Woodlands - Mejia,77429
+TX - The Woodlands - Mejia,77447
 TX - The Woodlands - Mejia,77355
 TX - The Woodlands - Mejia,77433
 TX - Waco - Mills,76501
@@ -10493,6 +10633,11 @@ UT - South Jordan - Starace,84095
 UT - South Jordan - Starace,84096
 UT - South Jordan - Starace,84123
 UT - South Jordan - Starace,84129
+UT - South Jordan - Starace,84104
+UT - South Jordan - Starace,84107
+UT - South Jordan - Starace,84115
+UT - South Jordan - Starace,84116
+UT - South Jordan - Starace,84120
 VA - Arlington - Craig,20107
 VA - Arlington - Craig,20069
 VA - Arlington - Craig,20070
@@ -10607,19 +10752,8 @@ VA - Arlington - Craig,22332
 VA - Arlington - Craig,22333
 VA - Arlington - Craig,20147
 VA - Arlington - Craig,20148
-VA - Arlington - Craig,20151
-VA - Arlington - Craig,20163
-VA - Arlington - Craig,20164
-VA - Arlington - Craig,20165
 VA - Arlington - Craig,20166
-VA - Arlington - Craig,20167
-VA - Arlington - Craig,20170
-VA - Arlington - Craig,20171
-VA - Arlington - Craig,20190
-VA - Arlington - Craig,20191
-VA - Arlington - Craig,20194
 VA - Arlington - Craig,22025
-VA - Arlington - Craig,22026
 VA - Arlington - Craig,22066
 VA - Arlington - Craig,22125
 VA - Arlington - Craig,22191
@@ -10710,6 +10844,25 @@ VA - Charlottesville - Lokey,23084
 VA - Charlottesville - Lokey,23123
 VA - Charlottesville - Lokey,23921
 VA - Charlottesville - Lokey,24562
+VA - Reston - Shure,20151
+VA - Reston - Shure,20152
+VA - Reston - Shure,20153
+VA - Reston - Shure,20163
+VA - Reston - Shure,20164
+VA - Reston - Shure,20165
+VA - Reston - Shure,20167
+VA - Reston - Shure,20170
+VA - Reston - Shure,20171
+VA - Reston - Shure,20172
+VA - Reston - Shure,20190
+VA - Reston - Shure,20191
+VA - Reston - Shure,20192
+VA - Reston - Shure,20194
+VA - Reston - Shure,20195
+VA - Reston - Shure,20196
+VA - Reston - Shure,22066
+VA - Reston - Shure,22095
+VA - Reston - Shure,22096
 VA - Richmond - Patel/Amin,23112
 VA - Richmond - Patel/Amin,23113
 VA - Richmond - Patel/Amin,23114
