@@ -120,6 +120,7 @@ $franchisees_map = [
   'LA - Covington - McAndrew/Henry' => 477364,
 
   'MA - Boston South - Tereshko' => 657,
+  'MA - SE Boston - Astley/Astley/Cunning' => 500221,
   'MA - Chelmsford - MarcAurele' => 495,
 
   'MD - Anne Arundel - Bates' => 461,
