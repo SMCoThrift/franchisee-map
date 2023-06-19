@@ -12,7 +12,7 @@ $franchisees_map = [
   'AZ - Glendale - Rivera' => 474250,
   'AZ - Phoenix West - Harvin' => 684,
   'AZ - Phoenix East Valley - Abate' => 531,
-	'AZ - Scottsdale - Graham' => 651,
+	'AZ - Scottsdale - Lashley' => 651,
 
   'CA - Carlsbad - Parsons' => 486,
   'CA - Clovis - Dunn/Guenther' => 502,
@@ -46,6 +46,7 @@ $franchisees_map = [
   'FL - Sebring - Perez/Hiraldo' => 477380,
   'FL - Brevard County - Sexton' => 480,
   'FL - Daytona - Dooley' => 517,
+  'FL - Destin - Sabo' => 512867,
   'FL - Fort Lauderdale - Tommer/Cook' => 538,
   'FL - Fort Myers - Norkus/Cockreham' => 540,
 	'FL - Gainesville - Roghaar' => 545,
@@ -120,7 +121,8 @@ $franchisees_map = [
   'LA - Covington - McAndrew/Henry' => 477364,
 
   'MA - Boston South - Tereshko' => 657,
-  'MA - SE Boston - Astley/Astley/Cunning' => 500221,
+  'MA - Southeast Boston - Astley' => 500221,
+  'MA - Springfield - Monroe' => 511980,
   'MA - Chelmsford - MarcAurele' => 495,
 
   'MD - Anne Arundel - Bates' => 461,
@@ -157,6 +159,7 @@ $franchisees_map = [
   'MO - Kansas City North - Henning' => 568,
   'MO - Lees Summit - Rodick' => 575,
 
+  'MS - Hattiesburg - Wallace' => 512876,
   'MS - Jackson - Carter' => 563,
 
   'NC - Asheville - Smith' => 465,
@@ -197,6 +200,7 @@ $franchisees_map = [
 
   'OH - Cincinnati - Rogers' => 500,
   'OH - Cleveland - Loughridge' => 501,
+  'OH - Central Columbus - Donovan/Olson' => 511975,
   'OH - Columbus - Arpin/Arthur' => 507,
   'OH - Columbus - Delaware' => 507,
   'OH - Columbus-Delaware - Tietjen' => 507,
@@ -237,6 +241,7 @@ $franchisees_map = [
   'TN - Nashville - Lombardi' => 602,
   'TN - Nashville B - Lombardi' => 602,
 
+  'TX - Arlington - Rohlfs' => 500236,
   'TX - Austin Junk - Lampson' => 470,
   'TX - Austin Move North - Hiegel' => 470,
   'TX - Austin Move - Harris/Lombardi' => 470,
@@ -248,6 +253,8 @@ $franchisees_map = [
   'TX - Dallas Carrollton - Leffel' => 513,
 	'TX - Dallas Garland - Quintanilla' => 514,
   'TX - Dallas Southwest - Rohlfs' => 477369,
+  'TX - Keller - Collins' => 512873,
+  'TX - Midlothian - Matthews' => 512871,
 	'TX - North Dallas - Rosales/Arredondo' => 611,
 	'TX - North Dallas - Arredondo/Rosales' => 611,
   'TX - Denton - Ablitt' => 518,
@@ -284,6 +291,7 @@ $franchisees_map = [
   'VA - Arlington - Craig' => 464,
   'VA - Virginia NW - Berkebile' => 680,
   'VA - Charlottesville - Lokey' => 494,
+  'VA - Fredericksburg - Bovain' => 542,
   'VA - Leesburg - Rowles' => 576,
   'VA - Newport News - Perkins' => 609,
   'VA - Reston - Shure' => 483987,
