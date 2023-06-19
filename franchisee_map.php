@@ -12,7 +12,7 @@ $franchisees_map = [
   'AZ - Glendale - Rivera' => 474250,
   'AZ - Phoenix West - Harvin' => 684,
   'AZ - Phoenix East Valley - Abate' => 531,
-	'AZ - Scottsdale - Lashley' => 651,
+	'AZ - Scottsdale - Lashley/Mroczek' => 651,
 
   'CA - Carlsbad - Parsons' => 486,
   'CA - Clovis - Dunn/Guenther' => 502,
@@ -97,7 +97,7 @@ $franchisees_map = [
   'IL - Chicago SW - Ibraimi' => 498,
 	'IL - Crystal Lake - Tamonis/Radcliffe' => 512,
   'IL - DuPage County - Conboy/Gignac' => 527,
-  'IL - Lake County - Djokic' => 570,
+  'IL - Lake County South - Djokic' => 570,
 	'IL - Lake County North - Zivojinovic' => 613,
 	'IL - Naperville - Cossyleon/Klimala' => 600,
   'IL - Rockford - Gummow/Dornbrook' => 641,
@@ -121,7 +121,7 @@ $franchisees_map = [
   'LA - Covington - McAndrew/Henry' => 477364,
 
   'MA - Boston South - Tereshko' => 657,
-  'MA - Southeast Boston - Astley' => 500221,
+  'MA - SE Boston - Astley/Astley/Cunning' => 500221,
   'MA - Springfield - Monroe' => 511980,
   'MA - Chelmsford - MarcAurele' => 495,
 
