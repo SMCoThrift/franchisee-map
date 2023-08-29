@@ -38,6 +38,7 @@ $franchisees_map = [
 
   'CT - Danbury - Harrington/Claffey' => 515,
   'CT - East Hartford - Dabkowski' => 530,
+  'CT - Fairfield - O\'Keefe' => 542336,
   'CT - Hartford - Dabkowski' => 530,
 	'CT - Shoreline - Morra' => 653,
 
@@ -124,6 +125,7 @@ $franchisees_map = [
   'MA - SE Boston - Astley/Astley/Cunning' => 500221,
   'MA - Springfield - Monroe' => 511980,
   'MA - Chelmsford - MarcAurele' => 495,
+  'MA - Worcester - Belisle' => 542339,
 
   'MD - Anne Arundel - Bates' => 461,
 	'MD - Calvert - Morgan' => 483,
@@ -165,6 +167,7 @@ $franchisees_map = [
   'NC - Asheville - Smith' => 465,
   'NC - Charlotte - Harper' => 493,
   'NC - Charlotte East - Brown' => 529,
+  'NC - Fayetteville - Houston' => 542347,
   'NC - Greensboro - Auman' => 550,
 	'NC - Greenville - Kumar' => 551,
   'NC - Raleigh - Roper' => 636,
@@ -208,6 +211,7 @@ $franchisees_map = [
   'OH - Lebanon - Harper' => 484016,
 
   'OK - Jenks - Foster' => 474429,
+  'OK - Mustang - Wagner' => 542344,
   'OK - Oklahoma City - Dufek' => 621,
   'OK - Tulsa - Culbertson' => 678,
 
@@ -240,11 +244,14 @@ $franchisees_map = [
   'TN - Knoxville - Secore' => 569,
   'TN - Nashville - Lombardi' => 602,
   'TN - Nashville B - Lombardi' => 602,
+  'TN - Newton County - Chavez' => 542350,
+  'TN - Tri-Cities - Delmar' => 542342,
 
   'TX - Arlington - Rohlfs' => 500236,
   'TX - Austin Junk - Lampson' => 470,
   'TX - Austin Move North - Hiegel' => 470,
   'TX - Austin Move - Harris/Lombardi' => 470,
+  'TX - Bayton - Amos/Davis' => 542334,
   'TX - Beaumont - Danna' => 474,
   'TX - College Station - Rosas' => 503,
 	'TX - Conroe - Quintanilha' => 510,
@@ -253,7 +260,6 @@ $franchisees_map = [
   'TX - Dallas Carrollton - Leffel' => 513,
 	'TX - Dallas Garland - Quintanilla' => 514,
   'TX - Dallas Southwest - Rohlfs' => 477369,
-  'TX - Keller - Collins' => 512873,
   'TX - Midlothian - Matthews' => 512871,
 	'TX - North Dallas - Rosales/Arredondo' => 611,
 	'TX - North Dallas - Arredondo/Rosales' => 611,
@@ -262,6 +268,7 @@ $franchisees_map = [
   'TX - Fort Worth - Gaither/Bush' => 541,
   'TX - NE Fort Worth - Reyes/Carron' => 604,
   'TX - SW Ft. Worth - Winegarden' => 666,
+  'TX - Keller - Collins' => 512873,
   'TX - New Braunfels  - Kalambayi' => 607,
   'TX - New Braunfels - Kalambayi' => 607,
   'TX - Houston - Wood' => 560,
