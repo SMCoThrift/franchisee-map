@@ -19,6 +19,7 @@ $franchisees_map = [
  	'CA - Fremont - Chang' => 543,
   'CA - Fresno - Gragnani' => 544,
   'CA - Los Angeles - Takhmazyan' => 582,
+  'CA - Marin County - Breur/Mendonca' => 553071,
   'CA - Orange County - Kube' => 622,
   'CA - Palo Alto - Marquez' => 625,
   'CA - Poway - Jabbour' => 632,
@@ -115,6 +116,7 @@ $franchisees_map = [
 
 	'KY - Florence - Gordon' => 536,
   'KY - Lexington - Vaughn' => 578,
+  'KY - North Lexington - Yaste' => 553073,
   'KY - Louisville - Martin' => 583,
 
 	'LA - Acadiana - Embroli' => 458,
@@ -187,6 +189,7 @@ $franchisees_map = [
   'NJ - Cherry Hill - Spaulding' => 496,
   'NJ - Somerset County - Ziatyk' => 655,
   'NJ - East Brunswick - Meyler' => 528,
+  'NJ - Freehold - Philips' => 553075,
   'NJ - North - Garcia' => 616,
   'NJ - North - Corp' => 616,
   'NJ - North B - Corp' => 616,
