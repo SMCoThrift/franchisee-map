@@ -86,6 +86,7 @@ $franchisees_map = [
 	'GA - Jasper - Nieves/Holcombe' => 565,
   'GA - Macon - Corn' => 587,
   'GA - Marietta - Ihm' => 590,
+  'GA - Newton County - Chavez' => 542350,
   'GA - Newnan - Barron' => 608,
 	'GA - Savannah - O\'Rourke' => 650,
 
@@ -247,7 +248,6 @@ $franchisees_map = [
   'TN - Knoxville - Secore' => 569,
   'TN - Nashville - Lombardi' => 602,
   'TN - Nashville B - Lombardi' => 602,
-  'TN - Newton County - Chavez' => 542350,
   'TN - Tri - Cities - Delmar' => 542342,
 
   'TX - Arlington - Rohlfs' => 500236,
