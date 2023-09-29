@@ -223,7 +223,6 @@ AZ - Glendale - Rivera,85306
 AZ - Glendale - Rivera,85308
 AZ - Glendale - Rivera,85310
 AZ - Glendale - Rivera,85381
-AZ - Glendale - Rivera,85003
 AZ - Glendale - Rivera,85006
 AZ - Glendale - Rivera,85008
 AZ - Glendale - Rivera,85012
@@ -234,14 +233,14 @@ AZ - Glendale - Rivera,85020
 AZ - Glendale - Rivera,85021
 AZ - Glendale - Rivera,85022
 AZ - Glendale - Rivera,85023
-AZ - Glendale - Rivera,85026
+AZ - Glendale - Rivera,85024
 AZ - Glendale - Rivera,85027
 AZ - Glendale - Rivera,85028
 AZ - Glendale - Rivera,85029
 AZ - Glendale - Rivera,85032
+AZ - Glendale - Rivera,85050
 AZ - Glendale - Rivera,85053
 AZ - Glendale - Rivera,85281
-AZ - Glendale - Rivera,85288
 AZ - Phoenix West - Harvin,85031
 AZ - Phoenix West - Harvin,85033
 AZ - Phoenix West - Harvin,85035
@@ -338,6 +337,13 @@ AZ - Scottsdale - Lashley/Mroczek,85259
 AZ - Scottsdale - Lashley/Mroczek,85260
 AZ - Scottsdale - Lashley/Mroczek,85266
 AZ - Scottsdale - Lashley/Mroczek,85268
+AZ - Scottsdale - Lashley/Mroczek,85008
+AZ - Scottsdale - Lashley/Mroczek,85016
+AZ - Scottsdale - Lashley/Mroczek,85028
+AZ - Scottsdale - Lashley/Mroczek,85032
+AZ - Scottsdale - Lashley/Mroczek,85050
+AZ - Scottsdale - Lashley/Mroczek,85281
+AZ - Scottsdale - Lashley/Mroczek,85282
 CA - Fremont - Chang,94536
 CA - Fremont - Chang,94537
 CA - Fremont - Chang,94538
@@ -676,6 +682,10 @@ CA - Thousand Oaks - Robinson,91371
 CA - Thousand Oaks - Robinson,91372
 CA - Thousand Oaks - Robinson,91376
 CA - Thousand Oaks - Robinson,91377
+CA - Thousand Oaks - Robinson,91311
+CA - Thousand Oaks - Robinson,91504
+CA - Thousand Oaks - Robinson,91604
+CA - Thousand Oaks - Robinson,91605
 CO - Colorado Springs - Elwood,80817
 CO - Colorado Springs - Elwood,80819
 CO - Colorado Springs - Elwood,80829
@@ -1070,23 +1080,49 @@ CT - Hartford - Dabkowski,6474
 CT - Hartford - Dabkowski,6480
 CT - Hartford - Dabkowski,6010
 CT - Hartford - Dabkowski,6011
+CT - Hartford - Dabkowski,6013
+CT - Hartford - Dabkowski,6021
+CT - Hartford - Dabkowski,6029
 CT - Hartford - Dabkowski,6040
 CT - Hartford - Dabkowski,6041
 CT - Hartford - Dabkowski,6042
+CT - Hartford - Dabkowski,6043
 CT - Hartford - Dabkowski,6045
 CT - Hartford - Dabkowski,6052
 CT - Hartford - Dabkowski,6053
 CT - Hartford - Dabkowski,6062
+CT - Hartford - Dabkowski,6066
+CT - Hartford - Dabkowski,6071
+CT - Hartford - Dabkowski,6072
 CT - Hartford - Dabkowski,6074
 CT - Hartford - Dabkowski,6082
 CT - Hartford - Dabkowski,6083
+CT - Hartford - Dabkowski,6084
 CT - Hartford - Dabkowski,6088
+CT - Hartford - Dabkowski,6094
+CT - Hartford - Dabkowski,6098
 CT - Hartford - Dabkowski,6108
 CT - Hartford - Dabkowski,6118
 CT - Hartford - Dabkowski,6138
 CT - Hartford - Dabkowski,6153
+CT - Hartford - Dabkowski,6226
+CT - Hartford - Dabkowski,6232
+CT - Hartford - Dabkowski,6238
+CT - Hartford - Dabkowski,6250
+CT - Hartford - Dabkowski,6251
+CT - Hartford - Dabkowski,6268
+CT - Hartford - Dabkowski,6269
+CT - Hartford - Dabkowski,6408
+CT - Hartford - Dabkowski,6410
+CT - Hartford - Dabkowski,6411
 CT - Hartford - Dabkowski,6479
 CT - Hartford - Dabkowski,6489
+CT - Hartford - Dabkowski,6781
+CT - Hartford - Dabkowski,6782
+CT - Hartford - Dabkowski,6786
+CT - Hartford - Dabkowski,6787
+CT - Hartford - Dabkowski,6790
+CT - Hartford - Dabkowski,6792
 CT - Shoreline - Morra,6405
 CT - Shoreline - Morra,6409
 CT - Shoreline - Morra,6412
@@ -1704,7 +1740,6 @@ FL - North Miami Beach - Sanford,33002
 FL - North Miami Beach - Sanford,33010
 FL - North Miami Beach - Sanford,33014
 FL - North Miami Beach - Sanford,33016
-FL - North Miami Beach - Sanford,33178
 FL - Orlando - McKay,32710
 FL - Orlando - McKay,32766
 FL - Orlando - McKay,32771
@@ -2484,9 +2519,6 @@ GA - Atlanta East - Castle/De Las Casas,30374
 GA - Atlanta East - Castle/De Las Casas,30375
 GA - Atlanta East - Castle/De Las Casas,30392
 GA - Atlanta East - Castle/De Las Casas,31193
-GA - Atlanta East - Castle/De Las Casas,30014
-GA - Atlanta East - Castle/De Las Casas,30016
-GA - Atlanta East - Castle/De Las Casas,30054
 GA - Atlanta East - Castle/De Las Casas,30112
 GA - Atlanta East - Castle/De Las Casas,30274
 GA - Atlanta East - Castle/De Las Casas,30310
@@ -2751,6 +2783,35 @@ GA - Newnan - Barron,30269
 GA - Newnan - Barron,30276
 GA - Newnan - Barron,30277
 GA - Newnan - Barron,30290
+GA - Newton County - Chavez,30013
+GA - Newton County - Chavez,30014
+GA - Newton County - Chavez,30015
+GA - Newton County - Chavez,30016
+GA - Newton County - Chavez,30018
+GA - Newton County - Chavez,30025
+GA - Newton County - Chavez,30054
+GA - Newton County - Chavez,30055
+GA - Newton County - Chavez,30056
+GA - Newton County - Chavez,30216
+GA - Newton County - Chavez,30233
+GA - Newton County - Chavez,30234
+GA - Newton County - Chavez,30625
+GA - Newton County - Chavez,30642
+GA - Newton County - Chavez,30650
+GA - Newton County - Chavez,30663
+GA - Newton County - Chavez,30669
+GA - Newton County - Chavez,30678
+GA - Newton County - Chavez,31024
+GA - Newton County - Chavez,31026
+GA - Newton County - Chavez,31034
+GA - Newton County - Chavez,31038
+GA - Newton County - Chavez,31046
+GA - Newton County - Chavez,31059
+GA - Newton County - Chavez,31061
+GA - Newton County - Chavez,31062
+GA - Newton County - Chavez,31064
+GA - Newton County - Chavez,31085
+GA - Newton County - Chavez,31087
 GA - Savannah - O'Rourke,31302
 GA - Savannah - O'Rourke,31309
 GA - Savannah - O'Rourke,31312
@@ -2858,6 +2919,7 @@ IA - Des Moines - Felker,50317
 IA - Des Moines - Felker,50319
 IA - Des Moines - Felker,50320
 IA - Des Moines - Felker,50327
+IA - Des Moines - Felker,50841
 ID - Boise - Nelson,83616
 ID - Boise - Nelson,83642
 ID - Boise - Nelson,83646
@@ -3787,7 +3849,6 @@ LA - Baton Rouge - Breaux,70791
 LA - Baton Rouge - Breaux,70806
 LA - Baton Rouge - Breaux,70818
 LA - Baton Rouge - Breaux,70819
-LA - Covington - McAndrew/Henry,70301
 LA - Covington - McAndrew/Henry,70401
 LA - Covington - McAndrew/Henry,70403
 LA - Covington - McAndrew/Henry,70404
@@ -3893,11 +3954,20 @@ MA - Boston South - Tereshko,2072
 MA - Boston South - Tereshko,2081
 MA - Boston South - Tereshko,2090
 MA - Boston South - Tereshko,2093
+MA - Boston South - Tereshko,1504
+MA - Boston South - Tereshko,1516
+MA - Boston South - Tereshko,1538
+MA - Boston South - Tereshko,1569
+MA - Boston South - Tereshko,1588
 MA - Boston South - Tereshko,1701
 MA - Boston South - Tereshko,1702
 MA - Boston South - Tereshko,1703
 MA - Boston South - Tereshko,1704
 MA - Boston South - Tereshko,1705
+MA - Boston South - Tereshko,1746
+MA - Boston South - Tereshko,1747
+MA - Boston South - Tereshko,1756
+MA - Boston South - Tereshko,1757
 MA - Boston South - Tereshko,1760
 MA - Boston South - Tereshko,1770
 MA - Boston South - Tereshko,2048
@@ -4944,6 +5014,7 @@ MI - Detroit - Hagerman,48225
 MI - Detroit - Hagerman,48230
 MI - Detroit - Hagerman,48236
 MI - Detroit - Hagerman,48101
+MI - Detroit - Hagerman,48125
 MI - Detroit - Hagerman,48138
 MI - Detroit - Hagerman,48146
 MI - Detroit - Hagerman,48183
@@ -5127,6 +5198,7 @@ MI - Grand Rapids - Cusack,49544
 MI - Grand Rapids - Cusack,49546
 MI - Grand Rapids - Cusack,49555
 MI - Grand Rapids - Cusack,49599
+MI - Grand Rapids - Cusack,48865
 MI - Grand Rapids - Cusack,49127
 MI - Grand Rapids - Cusack,49332
 MI - Grand Rapids - Cusack,49346
@@ -5142,6 +5214,7 @@ MI - Grand Rapids - Cusack,49441
 MI - Grand Rapids - Cusack,49451
 MI - Grand Rapids - Cusack,49453
 MI - Grand Rapids - Cusack,49456
+MI - Grand Rapids - Cusack,49460
 MI - Grand Rapids - Cusack,49461
 MI - Kalamazoo - Jacob,49017
 MI - Kalamazoo - Jacob,49018
@@ -5453,21 +5526,28 @@ MN - Minneapolis - Christiansen,55129
 MN - Minneapolis - Christiansen,55130
 MN - Minneapolis - Christiansen,55144
 MN - Minneapolis - Christiansen,55010
+MN - Minneapolis - Christiansen,55014
 MN - Minneapolis - Christiansen,55019
 MN - Minneapolis - Christiansen,55020
+MN - Minneapolis - Christiansen,55025
+MN - Minneapolis - Christiansen,55038
 MN - Minneapolis - Christiansen,55046
 MN - Minneapolis - Christiansen,55054
 MN - Minneapolis - Christiansen,55057
 MN - Minneapolis - Christiansen,55088
+MN - Minneapolis - Christiansen,55090
 MN - Minneapolis - Christiansen,55102
 MN - Minneapolis - Christiansen,55103
 MN - Minneapolis - Christiansen,55104
 MN - Minneapolis - Christiansen,55105
 MN - Minneapolis - Christiansen,55108
+MN - Minneapolis - Christiansen,55110
 MN - Minneapolis - Christiansen,55113
 MN - Minneapolis - Christiansen,55114
+MN - Minneapolis - Christiansen,55115
 MN - Minneapolis - Christiansen,55116
 MN - Minneapolis - Christiansen,55117
+MN - Minneapolis - Christiansen,55127
 MN - Minneapolis - Christiansen,55133
 MN - Minneapolis - Christiansen,55155
 MN - Minneapolis - Christiansen,55164
@@ -5480,6 +5560,9 @@ MN - Minneapolis - Christiansen,55172
 MN - Minneapolis - Christiansen,55175
 MN - Minneapolis - Christiansen,55187
 MN - Minneapolis - Christiansen,55188
+MN - Minneapolis - Christiansen,55303
+MN - Minneapolis - Christiansen,55304
+MN - Minneapolis - Christiansen,55330
 MN - Minneapolis - Christiansen,55406
 MN - Minneapolis - Christiansen,55407
 MN - Minneapolis - Christiansen,55408
@@ -5489,9 +5572,13 @@ MN - Minneapolis - Christiansen,55417
 MN - Minneapolis - Christiansen,55419
 MN - Minneapolis - Christiansen,55423
 MN - Minneapolis - Christiansen,55424
+MN - Minneapolis - Christiansen,55433
+MN - Minneapolis - Christiansen,55434
 MN - Minneapolis - Christiansen,55435
 MN - Minneapolis - Christiansen,55436
 MN - Minneapolis - Christiansen,55439
+MN - Minneapolis - Christiansen,55448
+MN - Minneapolis - Christiansen,55449
 MN - Minneapolis - Christiansen,55450
 MN - Minnetonka - Thomas,55305
 MN - Minnetonka - Thomas,55343
@@ -5794,6 +5881,29 @@ NC - Asheville - Smith,28815
 NC - Asheville - Smith,28816
 NC - Asheville - Smith,28716
 NC - Asheville - Smith,28768
+NC - Fayetteville - Houston,28301
+NC - Fayetteville - Houston,28302
+NC - Fayetteville - Houston,28303
+NC - Fayetteville - Houston,28304
+NC - Fayetteville - Houston,28305
+NC - Fayetteville - Houston,28306
+NC - Fayetteville - Houston,28309
+NC - Fayetteville - Houston,28312
+NC - Fayetteville - Houston,28314
+NC - Fayetteville - Houston,28331
+NC - Fayetteville - Houston,28348
+NC - Fayetteville - Houston,28357
+NC - Fayetteville - Houston,28358
+NC - Fayetteville - Houston,28359
+NC - Fayetteville - Houston,28360
+NC - Fayetteville - Houston,28371
+NC - Fayetteville - Houston,28372
+NC - Fayetteville - Houston,28376
+NC - Fayetteville - Houston,28377
+NC - Fayetteville - Houston,28378
+NC - Fayetteville - Houston,28384
+NC - Fayetteville - Houston,28386
+NC - Fayetteville - Houston,28391
 NC - Greensboro - Auman,27203
 NC - Greensboro - Auman,27204
 NC - Greensboro - Auman,27205
@@ -7725,6 +7835,7 @@ OH - Columbus North - Thomas,43215
 OH - Columbus North - Thomas,43220
 OH - Columbus North - Thomas,43221
 OH - Columbus North - Thomas,43224
+OH - Columbus North - Thomas,43227
 OH - Columbus North - Thomas,43228
 OH - Columbus North - Thomas,43230
 OH - Columbus North - Thomas,43231
@@ -7788,15 +7899,27 @@ OK - Jenks - Foster,74128
 OK - Jenks - Foster,74129
 OK - Jenks - Foster,74134
 OK - Mustang - Wagner,73008
+OK - Mustang - Wagner,73064
 OK - Mustang - Wagner,73085
 OK - Mustang - Wagner,73097
+OK - Mustang - Wagner,73099
 OK - Mustang - Wagner,73101
+OK - Mustang - Wagner,73102
+OK - Mustang - Wagner,73103
+OK - Mustang - Wagner,73106
+OK - Mustang - Wagner,73107
+OK - Mustang - Wagner,73108
+OK - Mustang - Wagner,73112
+OK - Mustang - Wagner,73116
+OK - Mustang - Wagner,73118
+OK - Mustang - Wagner,73119
 OK - Mustang - Wagner,73122
 OK - Mustang - Wagner,73123
 OK - Mustang - Wagner,73124
 OK - Mustang - Wagner,73126
 OK - Mustang - Wagner,73127
 OK - Mustang - Wagner,73128
+OK - Mustang - Wagner,73132
 OK - Mustang - Wagner,73137
 OK - Mustang - Wagner,73144
 OK - Mustang - Wagner,73146
@@ -7804,11 +7927,14 @@ OK - Mustang - Wagner,73147
 OK - Mustang - Wagner,73148
 OK - Mustang - Wagner,73154
 OK - Mustang - Wagner,73157
+OK - Mustang - Wagner,73159
 OK - Mustang - Wagner,73163
 OK - Mustang - Wagner,73164
 OK - Mustang - Wagner,73167
+OK - Mustang - Wagner,73169
 OK - Mustang - Wagner,73173
 OK - Mustang - Wagner,73178
+OK - Mustang - Wagner,73179
 OK - Mustang - Wagner,73184
 OK - Mustang - Wagner,73189
 OK - Mustang - Wagner,73194
@@ -8585,6 +8711,7 @@ PA - Pittsburgh West - Charles,15227
 PA - Pittsburgh West - Charles,15232
 PA - Pittsburgh West - Charles,15234
 PA - Pittsburgh West - Charles,15235
+PA - Pittsburgh West - Charles,16063
 RI - Providence - DeNunzio,2806
 RI - Providence - DeNunzio,2809
 RI - Providence - DeNunzio,2885
@@ -9079,57 +9206,6 @@ TN - Knoxville - Secore,37882
 TN - Knoxville - Secore,37885
 TN - Knoxville - Secore,37886
 TN - Knoxville - Secore,37890
-TN - Nashville - Lombardi,37011
-TN - Nashville - Lombardi,37013
-TN - Nashville - Lombardi,37014
-TN - Nashville - Lombardi,37024
-TN - Nashville - Lombardi,37027
-TN - Nashville - Lombardi,37046
-TN - Nashville - Lombardi,37064
-TN - Nashville - Lombardi,37065
-TN - Nashville - Lombardi,37067
-TN - Nashville - Lombardi,37068
-TN - Nashville - Lombardi,37069
-TN - Nashville - Lombardi,37135
-TN - Nashville - Lombardi,37174
-TN - Nashville - Lombardi,37179
-TN - Nashville - Lombardi,37221
-TN - Nashville - Lombardi,37201
-TN - Nashville - Lombardi,37202
-TN - Nashville - Lombardi,37203
-TN - Nashville - Lombardi,37204
-TN - Nashville - Lombardi,37205
-TN - Nashville - Lombardi,37206
-TN - Nashville - Lombardi,37207
-TN - Nashville - Lombardi,37208
-TN - Nashville - Lombardi,37209
-TN - Nashville - Lombardi,37210
-TN - Nashville - Lombardi,37211
-TN - Nashville - Lombardi,37212
-TN - Nashville - Lombardi,37213
-TN - Nashville - Lombardi,37214
-TN - Nashville - Lombardi,37215
-TN - Nashville - Lombardi,37217
-TN - Nashville - Lombardi,37219
-TN - Nashville - Lombardi,37220
-TN - Nashville - Lombardi,37222
-TN - Nashville - Lombardi,37224
-TN - Nashville - Lombardi,37227
-TN - Nashville - Lombardi,37228
-TN - Nashville - Lombardi,37229
-TN - Nashville - Lombardi,37230
-TN - Nashville - Lombardi,37232
-TN - Nashville - Lombardi,37234
-TN - Nashville - Lombardi,37235
-TN - Nashville - Lombardi,37236
-TN - Nashville - Lombardi,37238
-TN - Nashville - Lombardi,37240
-TN - Nashville - Lombardi,37241
-TN - Nashville - Lombardi,37242
-TN - Nashville - Lombardi,37243
-TN - Nashville - Lombardi,37244
-TN - Nashville - Lombardi,37246
-TN - Nashville - Lombardi,37250
 TN - Nashville - Lombardi,37016
 TN - Nashville - Lombardi,37037
 TN - Nashville - Lombardi,37060
@@ -9147,69 +9223,21 @@ TN - Nashville - Lombardi,37133
 TN - Nashville - Lombardi,37149
 TN - Nashville - Lombardi,37153
 TN - Nashville - Lombardi,37167
-TN - Nashville - Lombardi,37070
-TN - Nashville - Lombardi,37071
-TN - Nashville - Lombardi,37072
-TN - Nashville - Lombardi,37075
-TN - Nashville - Lombardi,37076
-TN - Nashville - Lombardi,37077
-TN - Nashville - Lombardi,37087
-TN - Nashville - Lombardi,37088
-TN - Nashville - Lombardi,37090
-TN - Nashville - Lombardi,37115
-TN - Nashville - Lombardi,37116
-TN - Nashville - Lombardi,37121
-TN - Nashville - Lombardi,37122
-TN - Nashville - Lombardi,37136
-TN - Nashville - Lombardi,37138
-TN - Nashville - Lombardi,37184
-TN - Nashville - Lombardi,37216
 TN - Nashville - Lombardi,37011
 TN - Nashville - Lombardi,37013
 TN - Nashville - Lombardi,37014
 TN - Nashville - Lombardi,37024
 TN - Nashville - Lombardi,37027
-TN - Nashville - Lombardi,37037
 TN - Nashville - Lombardi,37046
-TN - Nashville - Lombardi,37060
 TN - Nashville - Lombardi,37064
 TN - Nashville - Lombardi,37065
 TN - Nashville - Lombardi,37067
 TN - Nashville - Lombardi,37068
 TN - Nashville - Lombardi,37069
-TN - Nashville - Lombardi,37070
-TN - Nashville - Lombardi,37071
-TN - Nashville - Lombardi,37072
-TN - Nashville - Lombardi,37075
-TN - Nashville - Lombardi,37076
-TN - Nashville - Lombardi,37077
-TN - Nashville - Lombardi,37085
-TN - Nashville - Lombardi,37086
-TN - Nashville - Lombardi,37087
-TN - Nashville - Lombardi,37088
-TN - Nashville - Lombardi,37089
-TN - Nashville - Lombardi,37090
-TN - Nashville - Lombardi,37115
-TN - Nashville - Lombardi,37116
-TN - Nashville - Lombardi,37118
-TN - Nashville - Lombardi,37121
-TN - Nashville - Lombardi,37122
-TN - Nashville - Lombardi,37127
-TN - Nashville - Lombardi,37128
-TN - Nashville - Lombardi,37129
-TN - Nashville - Lombardi,37130
-TN - Nashville - Lombardi,37131
-TN - Nashville - Lombardi,37132
-TN - Nashville - Lombardi,37133
 TN - Nashville - Lombardi,37135
-TN - Nashville - Lombardi,37136
-TN - Nashville - Lombardi,37138
-TN - Nashville - Lombardi,37149
-TN - Nashville - Lombardi,37153
-TN - Nashville - Lombardi,37167
 TN - Nashville - Lombardi,37174
 TN - Nashville - Lombardi,37179
-TN - Nashville - Lombardi,37184
+TN - Nashville - Lombardi,37221
 TN - Nashville - Lombardi,37201
 TN - Nashville - Lombardi,37202
 TN - Nashville - Lombardi,37203
@@ -9225,12 +9253,9 @@ TN - Nashville - Lombardi,37212
 TN - Nashville - Lombardi,37213
 TN - Nashville - Lombardi,37214
 TN - Nashville - Lombardi,37215
-TN - Nashville - Lombardi,37216
 TN - Nashville - Lombardi,37217
-TN - Nashville - Lombardi,37218
 TN - Nashville - Lombardi,37219
 TN - Nashville - Lombardi,37220
-TN - Nashville - Lombardi,37221
 TN - Nashville - Lombardi,37222
 TN - Nashville - Lombardi,37224
 TN - Nashville - Lombardi,37227
@@ -9249,6 +9274,24 @@ TN - Nashville - Lombardi,37243
 TN - Nashville - Lombardi,37244
 TN - Nashville - Lombardi,37246
 TN - Nashville - Lombardi,37250
+TN - Nashville - Lombardi,37070
+TN - Nashville - Lombardi,37071
+TN - Nashville - Lombardi,37072
+TN - Nashville - Lombardi,37075
+TN - Nashville - Lombardi,37076
+TN - Nashville - Lombardi,37077
+TN - Nashville - Lombardi,37087
+TN - Nashville - Lombardi,37088
+TN - Nashville - Lombardi,37090
+TN - Nashville - Lombardi,37115
+TN - Nashville - Lombardi,37116
+TN - Nashville - Lombardi,37121
+TN - Nashville - Lombardi,37122
+TN - Nashville - Lombardi,37136
+TN - Nashville - Lombardi,37138
+TN - Nashville - Lombardi,37184
+TN - Nashville - Lombardi,37216
+TN - Nashville - Lombardi,37218
 TN - Tri - Cities - Delmar,24203
 TN - Tri - Cities - Delmar,37601
 TN - Tri - Cities - Delmar,37602
@@ -9297,6 +9340,9 @@ TX - Arlington - Rohlfs,76016
 TX - Arlington - Rohlfs,76018
 TX - Arlington - Rohlfs,76094
 TX - Arlington - Rohlfs,76096
+TX - Arlington - Rohlfs,75052
+TX - Arlington - Rohlfs,76001
+TX - Arlington - Rohlfs,76002
 TX - Austin Junk - Lampson,78641
 TX - Austin Junk - Lampson,78645
 TX - Austin Junk - Lampson,78646
@@ -9340,66 +9386,12 @@ TX - Austin Junk - Lampson,78680
 TX - Austin Junk - Lampson,78682
 TX - Austin Junk - Lampson,78683
 TX - Austin Junk - Lampson,78754
+TX - Austin Junk - Lampson,78620
 TX - Austin Junk - Lampson,78737
 TX - Austin Junk - Lampson,78780
 TX - Austin Junk - Lampson,78781
 TX - Austin Junk - Lampson,78785
 TX - Austin Junk - Lampson,78789
-TX - Austin Move - Harris/Lombardi,78669
-TX - Austin Move - Harris/Lombardi,78617
-TX - Austin Move - Harris/Lombardi,78702
-TX - Austin Move - Harris/Lombardi,78708
-TX - Austin Move - Harris/Lombardi,78712
-TX - Austin Move - Harris/Lombardi,78713
-TX - Austin Move - Harris/Lombardi,78718
-TX - Austin Move - Harris/Lombardi,78719
-TX - Austin Move - Harris/Lombardi,78721
-TX - Austin Move - Harris/Lombardi,78722
-TX - Austin Move - Harris/Lombardi,78723
-TX - Austin Move - Harris/Lombardi,78724
-TX - Austin Move - Harris/Lombardi,78725
-TX - Austin Move - Harris/Lombardi,78741
-TX - Austin Move - Harris/Lombardi,78742
-TX - Austin Move - Harris/Lombardi,78744
-TX - Austin Move - Harris/Lombardi,78747
-TX - Austin Move - Harris/Lombardi,78751
-TX - Austin Move - Harris/Lombardi,78752
-TX - Austin Move - Harris/Lombardi,78753
-TX - Austin Move - Harris/Lombardi,78756
-TX - Austin Move - Harris/Lombardi,78757
-TX - Austin Move - Harris/Lombardi,78758
-TX - Austin Move - Harris/Lombardi,78760
-TX - Austin Move - Harris/Lombardi,78761
-TX - Austin Move - Harris/Lombardi,78762
-TX - Austin Move - Harris/Lombardi,78765
-TX - Austin Move - Harris/Lombardi,78766
-TX - Austin Move - Harris/Lombardi,78773
-TX - Austin Move - Harris/Lombardi,78652
-TX - Austin Move - Harris/Lombardi,78701
-TX - Austin Move - Harris/Lombardi,78703
-TX - Austin Move - Harris/Lombardi,78704
-TX - Austin Move - Harris/Lombardi,78705
-TX - Austin Move - Harris/Lombardi,78709
-TX - Austin Move - Harris/Lombardi,78711
-TX - Austin Move - Harris/Lombardi,78715
-TX - Austin Move - Harris/Lombardi,78716
-TX - Austin Move - Harris/Lombardi,78733
-TX - Austin Move - Harris/Lombardi,78734
-TX - Austin Move - Harris/Lombardi,78735
-TX - Austin Move - Harris/Lombardi,78736
-TX - Austin Move - Harris/Lombardi,78738
-TX - Austin Move - Harris/Lombardi,78739
-TX - Austin Move - Harris/Lombardi,78745
-TX - Austin Move - Harris/Lombardi,78746
-TX - Austin Move - Harris/Lombardi,78748
-TX - Austin Move - Harris/Lombardi,78749
-TX - Austin Move - Harris/Lombardi,78764
-TX - Austin Move - Harris/Lombardi,78767
-TX - Austin Move - Harris/Lombardi,78768
-TX - Austin Move - Harris/Lombardi,78769
-TX - Austin Move - Harris/Lombardi,78774
-TX - Austin Move - Harris/Lombardi,78778
-TX - Austin Move - Harris/Lombardi,78783
 TX - Baytown - Amos/Davis,77015
 TX - Baytown - Amos/Davis,77049
 TX - Baytown - Amos/Davis,77507
@@ -9457,6 +9449,60 @@ TX - Beaumont - Danna,77725
 TX - Beaumont - Danna,77726
 TX - Beaumont - Danna,77612
 TX - Beaumont - Danna,77625
+TX - Central Austin - Harris/Lombardi,78617
+TX - Central Austin - Harris/Lombardi,78702
+TX - Central Austin - Harris/Lombardi,78708
+TX - Central Austin - Harris/Lombardi,78712
+TX - Central Austin - Harris/Lombardi,78713
+TX - Central Austin - Harris/Lombardi,78718
+TX - Central Austin - Harris/Lombardi,78719
+TX - Central Austin - Harris/Lombardi,78721
+TX - Central Austin - Harris/Lombardi,78722
+TX - Central Austin - Harris/Lombardi,78723
+TX - Central Austin - Harris/Lombardi,78724
+TX - Central Austin - Harris/Lombardi,78725
+TX - Central Austin - Harris/Lombardi,78741
+TX - Central Austin - Harris/Lombardi,78742
+TX - Central Austin - Harris/Lombardi,78744
+TX - Central Austin - Harris/Lombardi,78747
+TX - Central Austin - Harris/Lombardi,78751
+TX - Central Austin - Harris/Lombardi,78752
+TX - Central Austin - Harris/Lombardi,78753
+TX - Central Austin - Harris/Lombardi,78756
+TX - Central Austin - Harris/Lombardi,78757
+TX - Central Austin - Harris/Lombardi,78758
+TX - Central Austin - Harris/Lombardi,78760
+TX - Central Austin - Harris/Lombardi,78761
+TX - Central Austin - Harris/Lombardi,78762
+TX - Central Austin - Harris/Lombardi,78765
+TX - Central Austin - Harris/Lombardi,78766
+TX - Central Austin - Harris/Lombardi,78773
+TX - Central Austin - Harris/Lombardi,78652
+TX - Central Austin - Harris/Lombardi,78701
+TX - Central Austin - Harris/Lombardi,78703
+TX - Central Austin - Harris/Lombardi,78704
+TX - Central Austin - Harris/Lombardi,78705
+TX - Central Austin - Harris/Lombardi,78709
+TX - Central Austin - Harris/Lombardi,78711
+TX - Central Austin - Harris/Lombardi,78715
+TX - Central Austin - Harris/Lombardi,78716
+TX - Central Austin - Harris/Lombardi,78733
+TX - Central Austin - Harris/Lombardi,78734
+TX - Central Austin - Harris/Lombardi,78735
+TX - Central Austin - Harris/Lombardi,78736
+TX - Central Austin - Harris/Lombardi,78738
+TX - Central Austin - Harris/Lombardi,78739
+TX - Central Austin - Harris/Lombardi,78745
+TX - Central Austin - Harris/Lombardi,78746
+TX - Central Austin - Harris/Lombardi,78748
+TX - Central Austin - Harris/Lombardi,78749
+TX - Central Austin - Harris/Lombardi,78764
+TX - Central Austin - Harris/Lombardi,78767
+TX - Central Austin - Harris/Lombardi,78768
+TX - Central Austin - Harris/Lombardi,78769
+TX - Central Austin - Harris/Lombardi,78774
+TX - Central Austin - Harris/Lombardi,78778
+TX - Central Austin - Harris/Lombardi,78783
 TX - Conroe - Quintanilha,77301
 TX - Conroe - Quintanilha,77302
 TX - Conroe - Quintanilha,77303
@@ -11276,16 +11322,10 @@ WI - Green Bay - Goetz/Klapa,54912
 WI - Green Bay - Goetz/Klapa,54913
 WI - Green Bay - Goetz/Klapa,54919
 WI - Green Bay - Goetz/Klapa,54201
-WI - Green Bay - Goetz/Klapa,54202
 WI - Green Bay - Goetz/Klapa,54204
 WI - Green Bay - Goetz/Klapa,54205
-WI - Green Bay - Goetz/Klapa,54209
-WI - Green Bay - Goetz/Klapa,54210
-WI - Green Bay - Goetz/Klapa,54211
-WI - Green Bay - Goetz/Klapa,54212
 WI - Green Bay - Goetz/Klapa,54213
 WI - Green Bay - Goetz/Klapa,54216
-WI - Green Bay - Goetz/Klapa,54234
 WI - Green Bay - Goetz/Klapa,54235
 WI - Kenosha - Finerty,53102
 WI - Kenosha - Finerty,53104
