@@ -30,7 +30,7 @@ $franchisees_map = [
 	'CA - Temecula - Vallejo' => 672,
   'CA - Thousand Oaks - Robinson' => 484001,
 
-  'CO - Colorado Springs - Elwood' => 504,
+  'CO - Colorado Springs - Wetta' => 504,
   'CO - Denver North - Ragusa' => 612,
   'CO - Denver South - Hughes' => 519,
   'CO - Denver SE - Finch' => 474269,
@@ -83,12 +83,12 @@ $franchisees_map = [
   'GA - Columbus - Scott' => 508,
   'GA - Douglasville - Copenhaver/Hammer/Ison' => 523,
   'GA - Griffin - Moss' => 553,
-	'GA - Jasper - Nieves/Holcombe' => 565,
+	'GA - Jasper - Holcombe' => 565,
   'GA - Macon - Corn' => 587,
   'GA - Marietta - Ihm' => 590,
   'GA - Newton County - Chavez' => 542350,
   'GA - Newnan - Barron' => 608,
-	'GA - Savannah - O\'Rourke' => 650,
+	'GA - Savannah - Nieves' => 650,
 
   'IA - Des Moines - Felker' => 521,
 
@@ -188,9 +188,9 @@ $franchisees_map = [
 
   'NJ - Atlantic City - Hubner' => 468,
   'NJ - Cherry Hill - Spaulding' => 496,
-  'NJ - Somerset County - Ziatyk' => 655,
+  'NJ - Somerset County - Giordano' => 655,
   'NJ - East Brunswick - Meyler' => 528,
-  'NJ - Freehold - Philips' => 553075,
+  'NJ - Freehold - Phillips' => 553075,
   'NJ - North - Garcia' => 616,
   'NJ - North - Corp' => 616,
   'NJ - North B - Corp' => 616,
