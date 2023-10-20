@@ -99,6 +99,7 @@ $franchisees_map = [
   'IL - Chicago - Rothberg' => 499,
   'IL - Chicago SW - Ibraimi' => 498,
 	'IL - Crystal Lake - Tamonis/Radcliffe' => 512,
+  'IL - Dekalb County - Nguyen' => 559651,
   'IL - DuPage County - Conboy/Gignac' => 527,
   'IL - Lake County South - Djokic' => 570,
 	'IL - Lake County North - Zivojinovic' => 613,
@@ -317,6 +318,7 @@ $franchisees_map = [
   'WA - Seattle Central - Olason' => 652,
   'WA - Spokane - Paramore' => 659,
   'WA - Tacoma - Christian/Evans' => 670,
+  'WA - Vancouver - Reents' => 559649,
 
 	'WI - Appleton - Holt' => 462,
   'WI - Green Bay - Goetz/Klapa' => 549,
