@@ -201,7 +201,7 @@ $franchisees_map = [
   'NJ - North B - Corp' => 616,
   'NJ - Trenton - Changpertitum/Liao' => 676,
 
-  'NM - Albuquerque - Dobbs' => 571554,
+  'NM - North Albuquerque - Dobbs' => 571554,
 
   'NV - Henderson - Epstein' => 556,
   'NV - Las Vegas - Guy' => 573,
@@ -321,7 +321,7 @@ $franchisees_map = [
   'WA - Gig Harbor B - Beisley' => 547,
   'WA - Lynnwood - Thirlwall' => 585,
   'WA - Renton - Davis' => 638,
-  'WA - Seattle Central - Olason' => 652,
+  'WA - Seattle - Olason' => 652,
   'WA - Spokane - Paramore' => 659,
   'WA - Tacoma - Christian/Evans' => 670,
   'WA - Vancouver - Reents' => 559649,
