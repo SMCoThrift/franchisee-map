@@ -9,12 +9,14 @@ $franchisees_map = [
   'AR - Little Rock - Nobles' => 580,
   'AR - Springdale - Hudgeons' => 660,
 
+  'AZ - Chandler - Siaki' => 571560,
   'AZ - Glendale - Rivera' => 474250,
   'AZ - Phoenix West - Harvin' => 684,
   'AZ - Phoenix East Valley - Abate' => 531,
 	'AZ - Scottsdale - Lashley/Mroczek' => 651,
 
   'CA - Carlsbad - Parsons' => 486,
+  'CA - Chula Vista - Zarzar/Bernachi' => 571558,
   'CA - Clovis - Dunn/Guenther' => 502,
  	'CA - Fremont - Chang' => 543,
   'CA - Fresno - Gragnani' => 544,
@@ -23,6 +25,7 @@ $franchisees_map = [
   'CA - Orange County - Kube' => 622,
   'CA - Palo Alto - Marquez' => 625,
   'CA - Poway - Jabbour' => 632,
+  'CA - Roseville - Meeran/Ahmed' => 571562,
   'CA - San Jose - Silva' => 648,
   'CA - San Diego - Harris' => 646,
   'CA - San Diego North - Allen' => 645,
@@ -109,6 +112,7 @@ $franchisees_map = [
 
   'IN - Indianapolis - Snyder' => 562,
 	'IN - Indianapolis SW - Hunter' => 668,
+  'IN - Merrillville - Nickson' => 571556,
   'IN - South Bend - Dorvilien/Scutt' => 656,
 
   'KS - Kansas City - Blundell/Helmer/Henry/Lampson' => 567,
@@ -196,6 +200,8 @@ $franchisees_map = [
   'NJ - North - Corp' => 616,
   'NJ - North B - Corp' => 616,
   'NJ - Trenton - Changpertitum/Liao' => 676,
+
+  'NM - Albuquerque - Dobbs' => 571554,
 
   'NV - Henderson - Epstein' => 556,
   'NV - Las Vegas - Guy' => 573,
