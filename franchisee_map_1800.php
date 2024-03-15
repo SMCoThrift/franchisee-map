@@ -9,13 +9,21 @@ $franchisees_map = [
   'Brooklyn/Queens GJ' => 571573,
   'Buffalo GJ' => 521750,
   'Burbank GJ' => 521753,
+  'Charlotte Central GJ' => 615281,
   'Chicago Downtown GJ' => 571564,
   'Chicago GJ' => 571568,
   'Chicago Northwest GJ' => 571571,
+
+  'Cincinnati GJ' => 615279,
+
+  'Greater Los Angeles GJ' => 599759,
   'Greater Sacramento GJ' => 521757,
+  'Greater Santa Cruz GJ' => 615276,
   'Greater Syracuse GJ' => 521760,
+
   'Indiana NW GJ' => 521763,
   'Kansas City GJ' => 552352,
+
   'Las Vegas Metro GJ' => 571584,
   'LA County E GJ' => 585951,
   'Manhattan GJ' => 571575,
@@ -31,11 +39,15 @@ $franchisees_map = [
   'Riverside GJ' => 521805,
   'Rochester GJ' => 521808,
   'Sacramento NE GJ' => 521757,
+  'San Diego GJ' => 599761,
   'Santa Clarita GJ' => 521812,
+  'Silicon Valley GJ' => 615272,
   'Sonoma Metro GJ' => 521814,
+  'South Bay GJ' => 615274,
   'Tampa Metro GJ' => 585969,
   'Texarkana GJ' => 521819,
   'Toledo GJ' => 521822,
   'Tucson GJ' => 521824,
   'Vermont Metro GJ' => 521831,
+  'Walnut Creek Metro GJ' => 615270,
 ];
