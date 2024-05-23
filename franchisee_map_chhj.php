@@ -87,7 +87,7 @@ $franchisees_map = [
   'FL - Plant City B - Lott' => 642019,
   'FL - Plant City C - Lott' => 642019,
   'FL - Port St. Lucie - Ackman' => 642019,
-  'FL - Sarasota - Bailey' => 642019,
+  'FL - Sarasota - Jacob' => 642019,
   'FL - St. Petersburg - Underwood' => 642019,
   'FL - St. Petersburg A - Underwood' => 642019,
   'FL - St. Petersburg B - Underwood' => 642019,
@@ -188,7 +188,7 @@ $franchisees_map = [
   'MO - Lees Summit - Rodick' => 642019,
 
   'MS - Hattiesburg - Wallace' => 642019,
-  'MS - Jackson - Carter' => 642019,
+  'MS - Jackson - Pierce' => 642019,
 
   'NC - Asheville - Smith' => 642019,
   'NC - Charlotte - Harper' => 642019,

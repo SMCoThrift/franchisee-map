@@ -7,6 +7,14 @@
  * @var        array
  */
 $franchisees_map = [
+  'Boston Central GJ' => 642023,
+  'Boston North GJ' => 642023,
+  'Boston South GJ' => 642023,
+  'Boston West GJ' => 642023,
+  'Portland Metro GJ' => 642023,
+  'Portland North GJ' => 642023,
+  'Naples GJ' => 642023,
+
   'Alabama North GJ' => 642023,
   'Albuquerque GJ' => 642023,
   'Atlanta N.E. GJ' => 642023,
