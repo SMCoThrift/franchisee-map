@@ -17,6 +17,7 @@ $franchisees_map = [
 
   'Alabama North GJ' => 642023,
   'Albuquerque GJ' => 642023,
+  'Atlanta GJ' => 642023,
   'Atlanta N.E. GJ' => 642023,
   'Atlanta N.W. GJ' => 642023,
   'Atlanta Southside GJ' => 642023,
@@ -55,6 +56,7 @@ $franchisees_map = [
   'Rochester GJ' => 642023,
   'Sacramento NE GJ' => 642023,
   'San Diego GJ' => 642023,
+  'San Francisco GJ' => 642023,
   'Santa Clarita GJ' => 642023,
   'Silicon Valley GJ' => 642023,
   'Sonoma Metro GJ' => 642023,
