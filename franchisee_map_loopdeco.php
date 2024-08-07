@@ -59,6 +59,7 @@ $franchisees_map = [
   'Gunter' => 614956,
   'Haltom City' => 614956,
   'Haslet' => 614956,
+  'Houston' => 614956,
   'Howe' => 614956,
   'Hurst' => 614956,
   'Hutchins' => 614956,
